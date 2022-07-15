@@ -9,18 +9,18 @@
 title: EE DAMP
 
 # Your name to show in the footer
-author: KyZEN1711
+author: EE DAMP
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
-  Projects: "Projects"
-  News: "News/index"
   Resources:
     #- TestPDF: "TestPDF/week1_all.pdf"
     - Minor Reviews: ""
     - Course Reviews: "Course Reviews/Course_review.md"
+    
+  Team: "about"
+  Blog: "News/index"
   
   # Author's home: "https://deanattali.com"
 
