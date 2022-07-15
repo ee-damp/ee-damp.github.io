@@ -52,7 +52,7 @@ social-network-links:
  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: "https://www.linkedin.com/in/keshav-singhal-"
+  linkedin: ""
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -132,9 +132,9 @@ footer-hover-col: "#1E1E1E"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/Art_110.jpg"
-#footer-img: "/assets/img/Art_311.jpg"
-#page-img: "/assets/img/bgimage.png"
+#navbar-img: ""
+#footer-img: ""
+#page-img: ""
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
@@ -233,6 +233,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/Blog/page:num/"  ## Do not delete this ever, important for hosting blogs
 
 kramdown:
   input: GFM
