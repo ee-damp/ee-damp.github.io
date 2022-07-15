@@ -2,7 +2,7 @@
 layout: page
 title: . .
 subtitle: James Webb is cool but insert group photos!
-cover-img: ["assets/img/4537.jpg.webp","assets/img/NASA-james-webb-telescope-07.jpg.webp"]
+cover-img: ["assets/img/NASA-james-webb-telescope-07.jpg.webp","assets/img/4537.jpg.webp"]
 thumbnail-img: ""
 share-img: ""
 comments:
