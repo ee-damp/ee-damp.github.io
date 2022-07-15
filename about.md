@@ -8,12 +8,9 @@ share-img: ""
 comments:
 tags:
 ---
+## JAMES WEBB IS COOL BUT INSERT GROUP PHOTOS!  
+  
 
-<p align="center">
-  
-    ## JAMES WEBB IS COOL BUT INSERT GROUP PHOTOS!  
-  
-</p>
 
 
 
