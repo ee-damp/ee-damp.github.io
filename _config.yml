@@ -16,7 +16,7 @@ author: EE DAMP
 navbar-links:
   Resources:
     #- TestPDF: "TestPDF/week1_all.pdf"
-    - Minor Reviews: ""
+    - Minor Reviews: "Minor Reviews/Minor_reviews"
     - Course Reviews: "Course Reviews/Course_review"
     
   Team: "about"
