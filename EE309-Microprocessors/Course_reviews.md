@@ -1,17 +1,17 @@
 ---
 layout: page
-title: EE309
-subtitle: Microprocessors
-cover-img: https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/microcontroller-vs-microprocessor-whats-the-difference-hero1573577204165297.jpg?impolicy=prdimg&imdensity=1&imwidth=1000
+title: Course Reviews
+subtitle: 
+cover-img: 
 thumbnail-img: ""
 share-img: ""
+comments: true
 tags: [Academic]
 ---
 
-### EE309
-This Page contains the lecture slides, notes and other things related to the course.
+### Department Introductory Courses
 
-- [Lecture 0 - _Course Introduction_](EE309-Microprocessors/EE309-Lecture0.pdf)
+- [EE 114 – _Power Engineering – I_]()
 - [Lecture 1 - _Introduction_](EE309-Microprocessors/ee-309-set1/Lecture1.pdf)
 - [Lecture 2 - ](EE309-Microprocessors/ee-309-set1/Lecture2.pdf)
 - [Lecture 3 - ](EE309-Microprocessors/ee-309-set1/Lecture3.pdf)
