@@ -1,2 +1,2 @@
-# ee-damp.github.io
-Website for EE DAMP
+# Website for EE DAMP
+
