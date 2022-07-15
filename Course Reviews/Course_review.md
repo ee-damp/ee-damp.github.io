@@ -11,7 +11,7 @@ tags: [Academic]
 
 ### Department Introductory Courses
 
-- [EE 114 – _Power Engineering – I_]()
+- [EE 114 – _Power Engineering – I_](Course Reviews/EE 114 – POWER ENGINEERING – I.md)
 - [Lecture 1 - _Introduction_](EE309-Microprocessors/ee-309-set1/Lecture1.pdf)
 - [Lecture 2 - ](EE309-Microprocessors/ee-309-set1/Lecture2.pdf)
 - [Lecture 3 - ](EE309-Microprocessors/ee-309-set1/Lecture3.pdf)
