@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 
-subtitle: Group meet when? 
+
 cover-img: ["assets/img/4537.jpg.webp","assets/img/NASA-james-webb-telescope-07.jpg.webp"]
 thumbnail-img: ""
 share-img: ""
