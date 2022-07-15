@@ -117,9 +117,9 @@ post_search: true
 #footer-link-col: "#404040"
 #footer-hover-col: "#0085A1"
 
-navbar-col: ""
+navbar-col: "FFFFFFF" #Transparent
 navbar-text-col: "#ECECEC"
-navbar-border-col: ""
+navbar-border-col: "FFFFFFF" #Transparent
 page-col: "#0D0D0D"
 text-col: "#ECECEC"
 link-col: "#FFFFFF"
