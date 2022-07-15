@@ -11,4 +11,4 @@ tags: [Academic]
 
 ### Department Introductory Courses
 
-- [EE 114 – _Power Engineering – I_](EE 114_POWER ENGINEERING_I.md)
+- [EE 114 – _Power Engineering – I_](EE 114_POWER ENGINEERING_I)
