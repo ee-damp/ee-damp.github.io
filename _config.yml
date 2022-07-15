@@ -117,14 +117,14 @@ post_search: true
 #footer-link-col: "#404040"
 #footer-hover-col: "#0085A1"
 
-navbar-col: "FFFFFFF" #Transparent
-navbar-text-col: "#ECECEC"
-navbar-border-col: "FFFFFFF" #Transparent
-page-col: "#0D0D0D"
+navbar-col: "E6E6E6" 
+navbar-text-col: "#131313"
+navbar-border-col: "0D0D0D" 
+page-col: "1B1B1B"
 text-col: "#ECECEC"
-link-col: "#FFFFFF"
+link-col: "#F8F8F8"
 hover-col: "#707070"
-footer-col: "#F1F1F1"
+footer-col: "#E6E6E6"
 footer-text-col: "#131313"
 footer-link-col: "#404040"
 footer-hover-col: "#1E1E1E"
