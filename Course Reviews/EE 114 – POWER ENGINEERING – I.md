@@ -42,7 +42,7 @@ The course was easy before Midsem. The next part of the course was difficult or 
 
 **Grading Statistics:**
 
-![Grades](https://dampeeiitb.files.wordpress.com/2021/07/image-13.png)
+![Grades](Course Reviews/EE-114-grades.png)
 
 **Study Material and References:**
 
