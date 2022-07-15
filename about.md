@@ -1,13 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Keshav Singhal
+title: 
+subtitle: 
+cover-img: ["assets/img/4537.jpg.webp","assets/img/NASA-james-webb-telescope-07.jpg.webp"]
+thumbnail-img: ""
+share-img: ""
+comments:
+tags:
 ---
-![Keshav](/assets/img/My_pic.jpg){: .mx-auto.d-block :}
 
-## Hi!  
-I am a Dual Degree Undergrad in the Electrical Engineering Department at IIT Bombay, currently in my fourth semester of study.  
-
+<p align="center">
+  
+    ## JAMES WEBB IS COOL BUT INSERT GROUP PHOTOS!  
+  
+</p>
 
 
 
