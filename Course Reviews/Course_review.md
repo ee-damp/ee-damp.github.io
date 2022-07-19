@@ -19,7 +19,7 @@ tags: [Academic]
 - EE 204 – Analog Circuits (2017)
 - EE 204 – Analog Circuits (DD 2018)
 - EE 204 – Analog Circuits (B. Tech 2018)
-- EE 204 – Analog Circuits (2021)
+- [EE 204 – Analog Circuits (2021)](EE_204_ANALOG_CIRCUITS_2021.md)
 - EE 207 – Electronic Devices
 - EE 207 – Electronic Devices (2016)
 - EE 207 – Electronic Devices (DD 2018)
