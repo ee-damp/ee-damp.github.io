@@ -13,6 +13,24 @@ tags: [Academic]
 
 - [EE 114 – _Power Engineering – I_](EE_114_POWER_ENGINEERING_I.md)
 
+
+### 2021 Courses (Github Migration Completed Till Now)
+
+- [EE 204 – Analog Circuits (2021)](EE_204_ANALOG_CIRCUITS_2021.md)
+- [MA 205 – Complex Analysis (2021)](MA205_2021.md)
+- [MA 207 – Differential Equations 2 (2021)](MA207_2021.md)
+- [EE 324 – Control Systems Lab (2021)](EE324_2021.md)
+- [EE 325 – Probability and Random Processes (2021)](EE325_2021.md)
+- [EE 605 – Error Correcting Codes (2021)](EE605_2021.md)
+- [EE 618 – CMOS Analog Design (2021)](EE618_2021.md)
+- [EE 678 – Wavelets (2021)](EE678_2021.md)
+- [EE 708 – Information Theory and Coding (2021)](EE708_2021.md)
+- [EE 723 – Physics of Nanoelectronic Devices 1 (2021)](EE723_2021.md)
+- [EE 724 – Nanoelectronics (2021)](EE724_2021.md)
+- [EE 734 – Advanced Probability and Random Processes for Engineers (2021)](EE734_2021.md)
+- [EE 759-Applied Mathematical Analysis in Engineering (2021)](EE759_2021.md)
+- [HS 305 – Reading Literature (2021)](HS305_2021.md)
+
 ### Second Year Courses
 
 - EE 204 – Analog Circuits
