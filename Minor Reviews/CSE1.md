@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Reviews
+title: Minor Reviews
 subtitle: 
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
