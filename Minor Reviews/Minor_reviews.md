@@ -10,10 +10,10 @@ tags: [Academic]
 ---
 
 - [Aerospace](Aerospace.md)
-- Systems and Controls
-- Computer Science Minor (Review 1)
-- Computer Science Minor (Review 2)
+- [Systems and Controls](Syscon.md)
+- [Computer Science Minor (Review 1)](CSE1.md)
+- [Computer Science Minor (Review 2)](CSE2.md)
 - Mathematics (Review 1)
 - Mathematics (Review 2)
 - IEOR
-- Physics
+- [Physics](Physics.md)
