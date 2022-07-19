@@ -12,7 +12,7 @@ tags: [Academic]
 
 ### Computer Science Minor (Review 1)
 
-_Written by Shubham Kar, B.Tech 3rd year (July 2021)
+_Written by Shubham Kar, B.Tech 3rd year (July 2021)_
 
 CS minor is a great minor to take alongside the EE program, especially if you are interested in 
 learning a little bit of out-worldly knowledge of the CS program without actually foregoing your main 
