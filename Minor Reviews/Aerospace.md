@@ -34,3 +34,5 @@ Modelling and Simulation: This course is useful in general for most branches of 
 Control Theory: I did not do this course from AE, but it is equivalent to EE302 (Control Systems), so there’s really no need to do AE308 separately. If it is ever enforced as a prerequisite (which I don’t think it has been so far), you should be able to get around it if you’ve done EE302 by then. 
 
 Apart from this, I had the chance to do the course Aircraft Design, which is a topic independent of the four fields above (or rather, a combination of all of them). It is a unique course that teaches design principles and ideas, and is highly based on practical experience and history. The content is suited for the aerospace industry and can be somewhat dry to someone without context. Nonetheless, it is quite informative, refreshingly different from other engineering courses and should be interesting to an aircraft enthusiast.
+
+**Sponsored Content**
