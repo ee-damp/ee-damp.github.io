@@ -23,14 +23,14 @@ Prof. Rajesh Zele
 
 The following topics were covered as a part of this course:
 
-– Op amp: The ideal op-amp, different circuit configurations and effects caused by non-idealities <br>
+– Op amp: The ideal op-amp, different circuit configurations and effects caused by non-idealities
 – PN junction diodes: Terminal characteristics, forward and reverse bias, 
-approximate circuit models for junction diodes, rectifier circuits <br>
+approximate circuit models for junction diodes, rectifier circuits
 – BJTs and MOSFETs: Modes of operation and working, relevant equations for current/voltage 
 (Note: Details of how these basic equations come about aren’t explored here, and are covered in EE 207 instead), 
-current-voltage characteristics, large and small signal models, biasing <br>
+current-voltage characteristics, large and small signal models, biasing
 – Current Mirrors, Differential Amplifiers and other common building blocks of analog circuits: From here on, 
-both BJT and MOSFET circuits are covered in parallel, and the instructor made sure to highlight the nuances of the transistors’ configurations <br>
+both BJT and MOSFET circuits are covered in parallel, and the instructor made sure to highlight the nuances of the transistors’ configurations
 – Basics of frequency response
 
 
@@ -71,9 +71,9 @@ outside lecture hours to practice for the quizzes.
 
 The instructor provided handwritten notes for each lecture. <br>
 
-The following references were suggested (both have significant overlap, so any one should be fine): <br>
-– Microelectronic Circuits - Sedra, Smith <br>
-– Microelectronics – Behzad Razavi <br>
+The following references were suggested (both have significant overlap, so any one should be fine):
+– Microelectronic Circuits - Sedra, Smith
+– Microelectronics – Behzad Razavi
 
 **Advanced courses that can be taken after this:**
 
