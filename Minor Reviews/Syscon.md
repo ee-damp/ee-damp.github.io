@@ -11,7 +11,7 @@ tags: [Academic]
 
 ### Systems and Control (SysCon) Minor
 
-_Written by Akhilesh Hoskeri, B.Tech 3rd year (July 2021)
+_Written by Akhilesh Hoskeri, B.Tech 3rd year (July 2021)_
 
 The minor is structured as 3 compulsory courses and 2 electives. 
 The department’s website sc.iitb.ac.in has a list of courses they offer. 
