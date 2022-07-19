@@ -10,7 +10,7 @@ tags: [Academic]
 ---
 
 
-### COMPUTER SCIENCE MINOR (REVIEW 1)
+### Computer Science Minor (Review 1)
 
 _Written by Shubham Kar, B.Tech 3rd year (July 2021)
 
