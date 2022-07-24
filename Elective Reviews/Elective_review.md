@@ -6,7 +6,7 @@ cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
-css: Elective.css
+css: Elective
 tags: [Academic]
 ---
 
