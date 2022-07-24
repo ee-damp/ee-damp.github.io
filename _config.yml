@@ -15,8 +15,8 @@ author: EE DAMP
 
 navbar-links:
   Course Reviews:
-    - Core Course Reviews: "Core Course Reviews/Core_Course_review.md"
-    - Elective Reviews: "Elective Reviews/Elective_review.md"
+    - Core Course Reviews: "Core Course Reviews/Core_Course_review"
+    - Elective Reviews: "Elective Reviews/Elective_review"
    
   Minor Reviews: "Minor Reviews/Minor_reviews"  
   Team: "about"
