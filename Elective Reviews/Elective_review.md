@@ -22,7 +22,7 @@ tags: [Academic]
     <span class="caption">Communication and Signal Processing </span>
   </div>
   <div class="item">
-    <a href="/Power.md">
+    <a href="/Elective Reviews/Power.md">
     <img  src="/Elective Reviews/Power.jpg" />
      </a> 
     <span class="caption">Power Engineering</span>
