@@ -12,19 +12,19 @@ tags: [Academic]
 
 <div class="myGallery">
   <div class="item">
-    <img src="Elective Reviews/Control.JPG" />
+    <img src="/Elective Reviews/Control.JPG" />
     <span class="caption">Control Systems</span>
   </div>
   <div class="item">
-    <img src="Elective Reviews/Signal.JPG" />
+    <img src="/Elective Reviews/Signal.JPG" />
     <span class="caption">Communication and Signal Processing </span>
   </div>
   <div class="item">
-    <img src="Elective Reviews/Power.JPG" />
+    <img src="/Elective Reviews/Power.JPG" />
     <span class="caption">Power Engineering</span>
   </div>
   <div class="item">
-    <img src="Elective Reviews/VLSI.JPG" />
+    <img src="/Elective Reviews/VLSI.JPG" />
     <span class="caption">VLSI</span>
   </div>
 </div>
