@@ -26,7 +26,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="assets/img/NASA-james-webb-telescope-07.jpg.webp" alt="James Webb" style="width:100%">
+      <img src="/assets/img/NASA-james-webb-telescope-07.jpg.webp" alt="James Webb" style="width:100%">
       <div class="container">
         <h2>Awesomw!</h2>
         <p class="title">Something</p>
@@ -39,7 +39,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="assets/img/NASA-james-webb-telescope-07.jpg.webp" alt="James Webb" style="width:100%">
+      <img src="/assets/img/NASA-james-webb-telescope-07.jpg.webp" alt="James Webb" style="width:100%">
       <div class="container">
         <h2>Test2</h2>
         <p class="title">Art Director</p>
@@ -52,7 +52,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="assets/img/4537.jpg.webp" alt="John" style="width:100%">
+      <img src="/assets/img/4537.jpg.webp" alt="John" style="width:100%">
       <div class="container">
         <h2>Okay</h2>
         <p class="title">Designer</p>
