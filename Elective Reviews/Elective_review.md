@@ -17,14 +17,17 @@ tags: [Academic]
     <span class="caption">Control Systems</span>
   </div>
   <div class="item">
+   
     <img  src="/Elective Reviews/Signal.jpg" />
+     
     
     <span class="caption">Communication and Signal Processing </span>
   </div>
   <div class="item">
     <img  src="/Elective Reviews/Power.jpg" />
-    
+     <a href="Power.md">
     <span class="caption">Power Engineering</span>
+       </a> 
   </div>
   <div class="item">
     <img src="/Elective Reviews/VLSI.jpg" />
