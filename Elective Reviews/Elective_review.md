@@ -7,7 +7,6 @@ thumbnail-img: ""
 share-img: ""
 comments: true
 css: Elective Reviews/Elective.css
-full-width: true
 tags: [Academic]
 ---
 
