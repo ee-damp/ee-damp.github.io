@@ -16,11 +16,13 @@ tags: [Academic]
     
     <span class="caption">Control Systems</span>
   </div>
+  
   <div class="item">
     <img  src="/Elective Reviews/Signal.jpg" />
  
     <span class="caption">Communication and Signal Processing </span>
   </div>
+  
   <div class="item">
     <a href="/Course Reviews/Course_review.md">
     <img  src="/Elective Reviews/Power.jpg" />
@@ -28,6 +30,7 @@ tags: [Academic]
     <span class="caption">Power Engineering</span>
        
   </div>
+  
   <div class="item">
     <img src="/Elective Reviews/VLSI.jpg" />
     
