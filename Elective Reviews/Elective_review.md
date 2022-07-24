@@ -16,15 +16,15 @@ tags: [Academic]
     <span class="caption">Control Systems</span>
   </div>
   <div class="item">
-    <img src="/Elective Reviews/Signal.JPG" />
+    <img src="/Elective Reviews/Signal.jpg" />
     <span class="caption">Communication and Signal Processing </span>
   </div>
   <div class="item">
-    <img src="/Elective Reviews/Power.JPG" />
+    <img src="/Elective Reviews/Power.jpg" />
     <span class="caption">Power Engineering</span>
   </div>
   <div class="item">
-    <img src="/Elective Reviews/VLSI.JPG" />
+    <img src="/Elective Reviews/VLSI.jpg" />
     <span class="caption">VLSI</span>
   </div>
 </div>
