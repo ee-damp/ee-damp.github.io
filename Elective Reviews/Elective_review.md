@@ -24,10 +24,11 @@ tags: [Academic]
     <span class="caption">Communication and Signal Processing </span>
   </div>
   <div class="item">
+    <a href="Power.md">
     <img  src="/Elective Reviews/Power.jpg" />
-     <a href="Power.md">
+     </a> 
     <span class="caption">Power Engineering</span>
-       </a> 
+       
   </div>
   <div class="item">
     <img src="/Elective Reviews/VLSI.jpg" />
