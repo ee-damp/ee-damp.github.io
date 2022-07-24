@@ -6,79 +6,11 @@ cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
+css: 
 tags: [Academic]
 ---
 
-<style>
-/*
-  The grid itself needs only 4 CSS declarations:
-*/
 
-.myGallery {
-  display: grid;
-  grid-gap: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-}
-
-.myGallery img {
-  width: 100%;
-}
-
-/*
-  And here are some declarations for the image caption.
-  Just hover over one of the last 5 images to see it.
-*/
-
-.myGallery .item {
-  position: relative;
-  overflow: hidden;
-}
-
-.myGallery .item img {
-  vertical-align: middle;
-}
-
-.myGallery .caption {
-  margin: 0;
-  padding: 1em;
-  position: absolute;
-  z-index: 1;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  max-height: 100%;
-  overflow: auto;
-  box-sizing: border-box;
-  transition: transform 0.5s;
-  transform: translateY(100%);
-  background: rgba(0, 0, 0, 0.7);
-  color: rgb(255, 255, 255);
-}
-
-.myGallery .item:hover .caption {
-  transform: translateY(0%);
-}
-
-/*
-  The rest is only styling for this example page
-*/
-
-@import url("https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;900&display=swap");
-
-body {
-  font: 400 1.5em/1.58 Vollkorn, serif;
-}
-
-h1,
-p {
-  text-align: center;
-}
-
-.myGallery {
-  font-size: 1rem;
-}
-
-<style>
 
 <h1>Simple and Responsive CSS Image Grid</h1>
 <p>And it works also for other content, not only images ✌😏</p>
