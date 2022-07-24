@@ -14,11 +14,11 @@ author: EE DAMP
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resources:
-    #- TestPDF: "TestPDF/week1_all.pdf"
-    - Minor Reviews: "Minor Reviews/Minor_reviews"
-    - Course Reviews: "Course Reviews/Course_review"
-    
+  Course Reviews:
+    - Core Course Reviews: "Core Course Reviews/Core_Course_review.md"
+    - Elective Reviews: "Elective Reviews/Elective_review.md"
+   
+  Minor Reviews: "Minor Reviews/Minor_reviews"  
   Team: "about"
   Blog: "Blog/index"
   Contact Us: "contact"
