@@ -12,8 +12,8 @@ tags: [Academic]
 
 <div class="myGallery">
   <div class="item">
-    <img src="/Elective Reviews/Control.JPG" />
-    style="width: 300px; height: 337px; object-fit: cover; object-position: 0 0;"
+    <img style="width: 300px; height: 337px; object-fit: cover; object-position: 0 0;" src="/Elective Reviews/Control.JPG" />
+    
     <span class="caption">Control Systems</span>
   </div>
   <div class="item">
