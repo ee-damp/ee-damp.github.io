@@ -24,7 +24,7 @@ tags: [Academic]
   </div>
   
   <div class="item">
-    <a href="/Power">
+    <a href="/Elective Reviews/Power">
     <img  src="/Elective Reviews/Power.jpg" />
     </a>
     <span class="caption">Power Engineering</span>
