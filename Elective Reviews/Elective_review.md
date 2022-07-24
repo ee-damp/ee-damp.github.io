@@ -9,322 +9,109 @@ comments: true
 tags: [Academic]
 ---
 
-### Department Introductory Courses
+<style>
+/*
+  The grid itself needs only 4 CSS declarations:
+*/
 
-- [EE 114 – _Power Engineering – I_](EE_114_POWER_ENGINEERING_I.md)
+.myGallery {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
 
+.myGallery img {
+  width: 100%;
+}
 
-### 2021 Courses (Github Migration Completed Till Now)
+/*
+  And here are some declarations for the image caption.
+  Just hover over one of the last 5 images to see it.
+*/
 
-- [EE 204 – Analog Circuits (2021)](EE_204_ANALOG_CIRCUITS_2021.md)
-- [MA 205 – Complex Analysis (2021)](MA205_2021.md)
-- [MA 207 – Differential Equations 2 (2021)](MA207_2021.md)
-- [EE 324 – Control Systems Lab (2021)](EE324_2021.md)
-- [EE 325 – Probability and Random Processes (2021)](EE325_2021.md)
-- [EE 605 – Error Correcting Codes (2021)](EE605_2021.md)
-- [EE 618 – CMOS Analog Design (2021)](EE618_2021.md)
-- [EE 678 – Wavelets (2021)](EE678_2021.md)
-- [EE 708 – Information Theory and Coding (2021)](EE708_2021.md)
-- [EE 723 – Physics of Nanoelectronic Devices 1 (2021)](EE723_2021.md)
-- [EE 724 – Nanoelectronics (2021)](EE724_2021.md)
-- [EE 734 – Advanced Probability and Random Processes for Engineers (2021)](EE734_2021.md)
-- [EE 759-Applied Mathematical Analysis in Engineering (2021)](EE759_2021.md)
-- [HS 305 – Reading Literature (2021)](HS305_2021.md)
+.myGallery .item {
+  position: relative;
+  overflow: hidden;
+}
 
-### Second Year Courses
+.myGallery .item img {
+  vertical-align: middle;
+}
 
-- EE 204 – Analog Circuits
-- EE 204 – Analog Circuits (2017)
-- EE 204 – Analog Circuits (DD 2018)
-- EE 204 – Analog Circuits (B. Tech 2018)
-- [EE 204 – Analog Circuits (2021)](EE_204_ANALOG_CIRCUITS_2021.md)
-- EE 207 – Electronic Devices
-- EE 207 – Electronic Devices (2016)
-- EE 207 – Electronic Devices (DD 2018)
-- EE 207 – Electronic Devices (B Tech 2018)
-- EE 207 – Electronic Devices and Circuits (2019)
-- EE 210 – Signals and Systems (2013)
-- EE 210 – Signals and Systems (2014)
-- EE 210 – Signals and Systems (2018)
-- EE 214 – Digital Lab
-- EE 214 – Digital Lab (2017)
-- EE 214 – Digital Lab (2018)
-- EE214 – Digital Lab (Review 1) (2020)
-- EE214 – Digital Lab (Review 2) (2020)
-- EE 222 – Electrical Machines and Power Electronics (2013)
-- EE 222 – Electrical Machines and Power Electronics (2014)
-- EE 222 – Electrical Machines and Power Electronics (2017)
-- EE 222 – Electrical Machines and Power Electronics (2018)
-- EE 222 – Electrical Machines and Power Electronics (2020)
-- EE 223/XX102 – Data Analysis and Interpretation (2012)
-- EE 223 – Data Analysis and Interpretation
-- EE 223 – Data Analysis and Interpretation (2016)
-- EE 223 – Data Analysis and Interpretation (2017)
-- EE 223 – Data Analysis & Interpretation (2020)
-- EE 224 – Digital Systems (2013)
-- EE 224 – Digital Systems (2014)
-- EE 224 – Digital Systems (2017)
-- EE 224 – Digital Systems (2018)
-- EE 224 – Digital Systems (2019)
-- EE 224 – Digital Systems (2020)
-- EE 225 – Network Theory
-- EE 225 – Network Theory (2016)
-- EE 225 – Network Theory (2018)
-- EE 227 – MicroElectronics ( For Micro students)
-- EE 227 – Microelectronics (2016)
-- EE 227 – Microelectronics (2018)
-- EE 230 – Analog Lab
-- EE 230 – Analog Lab (2017)
-- EE 230 – Analog Lab (2018)
-- EE 230 – Analog Lab (2020)
-- EE 234 – Electrical Machines Lab (2017)
-- EE 234 – Electrical Machines Lab (2018)
-- EE 236 – Electronic Devices Lab (2016)
-- EE 236 – Electronic Devices Lab (2018)
-- ES 200 – Environmental Studies (Review 1) (2020)
-- ES 200 – Environmental Studies (Review 2) (2020)
-- MA 205 – Complex Analysis
-- MA 205 – Complex Analysis (2019)
-- MA 205 – Complex Analysis (2020)
-- MA 205 – Complex Analysis (2021)
-- MA 207 – Differential Equations
-- MA 207 – Differential Equations (2019)
-- MA 207 – Differential Equations (2020)
-- MA207 – Differential Equations 2 (2021)
-- HS 101 – Economics (2020)
-- HS 200 – Environmental Studies (2020)
-- 
-### Third Year Courses
+.myGallery .caption {
+  margin: 0;
+  padding: 1em;
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  box-sizing: border-box;
+  transition: transform 0.5s;
+  transform: translateY(100%);
+  background: rgba(0, 0, 0, 0.7);
+  color: rgb(255, 255, 255);
+}
 
-- EE 301 – Electromagnetic Waves
-- EE 301 – Electromagnetic Waves (2016)
-- EE 301 – Electromagnetic Waves (2017)
-- EE 301 – Electromagnetic Waves (2018-19)
-- EE 302 – Control Systems (2014)
-- EE 302 – Control Systems (2016)
-- EE 302 – Control Systems (2018)
-- EE 302 – Controls Systems (2019)
-- EE 302 – Control Systems (2020)
-- EE 308 – Communication Systems
-- EE 308 – Communication Systems (BTech) (2016)
-- EE 308 – Communication Systems (DD) (2016)
-- EE 308 – Communication Systems (DD) (2017)
-- EE 308 – Communication Systems (BTech)(2016)
-- EE 308 – Communication Systems (BTech)(2018)
-- EE 309 – Microprocessors
-- EE 309 – Microprocessors (2016)
-- EE 309 – Microprocessors (2017)
-- EE 309 – Microprocessors (2018)
-- EE 324 – Control Systems Lab
-- EE 324 – Control Systems Lab (2018)
-- EE 324 – Control Systems Lab (2021)
-- EE 325 – Probability and Random Processes (2013)
-- EE 325 – Probability and Random Processes (2015)
-- EE 325 – Probability and Random Processes (DD) (2016)
-- EE 325 – Probability and Random Processes (DD) (2017)
-- EE 325 – Probability and Random Processes (B Tech) (2017)
-- EE 325 – Probability and Random Processes (BTech) (2019)
-- EE 325 – Probability and Random Processes (2021)
-- EE 328 – Digital Communications
-- EE 328 – Digital Communications (2017)
-- EE 328 – Digital Communications (2018)
-- EE 328 – Digital Communications (Dual Degree 2018)
-- EE 334 – Power Systems (2017)
-- EE 334 – Power Systems (2018)
-- EE 334 – Power Systems (2019)
-- EE 337 – Microprocessors Lab (2016)
-- EE 338 – Digital Signal Processing (2014)
-- EE 338 – Digital Signal Processing (2016)
-- EE 338 – Digital Signal Processing (2018)
-- EE 340 – Communications Lab (2016)
-- EE 340 – Communications Lab (2018)
-- EE 340 – Communications Lab (2018)
-- EE 352 – Digital Signal Processing Lab
-- EE 352 – Digital Signal Processing Lab (2018)
+.myGallery .item:hover .caption {
+  transform: translateY(0%);
+}
 
-### Electrical Engg Department Electives
+/*
+  The rest is only styling for this example page
+*/
 
-- EE 432 – Special Semiconductor Devices (2013)
-- EE 432/457 – Special Semiconductor Devices (2014)
-- EE 435/717 – Advanced Computing for Electrical Engineers
-- EE 602 – Radar Systems
-- EE 602 – Radar Systems (2019)
-- EE 605 – Error Correcting Codes(2011-12)
-- EE 605 – Error Correcting Codes(2014-15)
-- EE 605 – Error Correcting Codes (2016)
-- EE605 – Error Correcting Codes (2021)
-- EE 606 – Fiber Optic Communication
-- EE 606 – Fiber Optic Communication (2019)
-- EE 608 – Adaptive Signal Processing
-- EE 609 – Radiation Systems (2013)
-- EE 609 – Radiation Systems (2015)
-- EE 610 – Image Processing
-- EE 610 – Image Processing (2016)
-- EE 610 – Image Processing (2018-19)
-- EE 611 – Microwave Integrated Circuits
-- EE 613  – Non-linear Dynamical Systems
-- EE613 – Non Linear Dynamical Systems (2020)
-- EE 614 – Solid State Microwave Devices and its Applications
-- EE 614 – Solid State Microwave Devices and its Applications (2018)
-- EE 614 – Solid State Microwave Devices and its Applications (2019)
-- EE 614 – Solid State Microwave Devices and their Applications (2020)
-- EE 617 – Sensors in Instrumentation
-- EE 618 – CMOS Analog VLSI Design
-- EE 618 – CMOS Analog VLSI Design (2016)
-- EE 618 – CMOS Analog IC Design (2017)
-- EE 618 – CMOS Analog Design (2021)
-- EE 620 – Physics of Transistors
-- EE 621 – Markov Chains and Queueing Systems
-- EE 621 – Markov Chains and Queuing systems (2018)
-- EE 622 – Optimal Control Systems
-- EE 625 – Biosensors & BioMEMS (2011)
-- EE 625 – Biosensors & BioMEMS (2014)
-- EE 635 – Applied Linear Algebra (2021)
-- EE 635 – Applied Linear algebra in Electrical Engineering
-- EE 635 – Applied Linear Algebra (2018-19)
-- EE 636 – Matrix Computations (2013)
-- EE 636 – Matrix Computations (2014)
-- EE 636 – Matrix Computations (2015)
-- EE 638 – Estimation and Identification (2014)
-- EE 638 – Estimation and Identification (2015)
-- EE 638 – Estimation and Identification (2018-19)
-- EE 654 – Power Electronics II
-- EE 659 – A first course in Optimization
-- EE 659 – A first course in Optimization (2018-19)
-- EE 659 – A first course in Optimization (2020)
-- EE 668 – System Design
-- EE 668 – System Design (2018)
-- EE 669 – VLSI Technology
-- EE 671 – VLSI Design
-- EE 671 – VLSI Design (2016)
-- EE 677 – Foundation of VLSI CAD 
-- EE 677 – Foundation of VLSI CAD (2018)
-- EE 677 – Foundation of VLSI CAD (2020)
-- EE 678 – Wavelets
-- EE 678 – Wavelets (2020)
-- EE 678 – Wavelets (2021)
-- EE 679 – Speech Processing (2013)
-- EE 679 – Speech Processing (2014)
-- EE 699 – Delta Sigma Data Converters and their Applications (2020)
-- EE 701 – Introduction to MEMS
-- EE 702 – Computer Vision
-- EE 705 – VLSI Design Lab
-- EE 706 – Communication Networks
-- EE 706 – Communication Networks (2017)
-- EE 706 – Communication Networks (2020)
-- EE 708 – Information Theory and Coding (2013)
-- EE 708 – Information Theory and Coding (2014)(By a 3rd year student)
-- EE 708 – Information Theory and Coding (2014)(By a 2nd year student)
-- EE 708 – Information Theory and Coding (2017)
-- EE 708 – Information Theory and Coding (2019)
-- EE 708 – Information Theory and Coding (2020)
-- EE 708 – Information Theory and Coding (2021)
-- EE 709 – Testing and Verification of VLSI Circuits
-- EE 710 – Large Sparse Matrix Computations
-- EE 710 – Large Sparse Matrix Computations (2018-19)
-- EE 717 – Advanced Computing for Electrical Engineers
-- EE 720 – An Introduction to Number Theory and Cryptography
-- EE 720 – An Introduction to Number Theory and Cryptography (2018)
-- EE 723 - Physics of Nanoelectronic Devices - I
-- EE 723 – Physics of Nanoelectronic Devices 1 (2021)
-- EE 724 – Nanoelectronics
-- EE 724 – Nanoelectronics (2018)
-- EE 724 – Nanoelectronics (2019)
-- EE 724 – Nanoelectronics (2021)
-- EE 725 – Computational Electromagnetics (2013)
-- EE 725 – Computational Electromagnetics (2014)
-- EE 727 – Physics of Nanoelectronic Devices
-- EE 728 – Growth and Characterization of Nanomaterials
-- EE 732 – Combinatorial Optimization
-- EE 734 – Advanced Probabiilty and Random Processes for Engineers
-- EE 734 – Advanced Probability and Random Processes for Engineers (2021)
-- EE 735 – Microelectronics Simulation Lab
-- EE 736 – Introduction to Stochastic Optimization
-- EE 737 – Introduction to Stochastic Control (2020)
-- EE 739 – Processor Design
-- EE 739 – Processor Design (2018)
-- EE 740 – Advanced Communications Networks
-- EE 740 – Advanced Communications Networks (2018)
-- EE 746 – Neuromorphic Engineering(2013-14)
-- EE 746 – Neuromorphic Engineering(2014-15)
-- EE 748 – Advanced topics in Computer Architecture
-- EE 748 – Advanced topics in Computer Architecture (2018-19)
-- EE 751 – Nanomagnetism & Spintronics
-- EE 755 – Quantum Transport
-- EE 756 – Network Information Theory
-- EE 758 – Internet Economics
-- EE 758 – Internet Economics (2017)
-- EE 758 – Internet Economics (2018)
-- EE 759 – Applied Mathematical Analysis in Engineering 
-- EE 759-Applied Mathematical Analysis in Engineering (2021)
-- EE 760 – Advanced Network Theory
-- EE 761 – Advanced Concentration Inequalities
-- EE 761 – Advanced Concentration Inequality (2017-18)
-- EE 761 – Advanced Concentration Inequality (2018-19)
-- EE 764 – Wireless and Mobile Communication
-- EE 764 – Wireless and Mobile Communication (2018)
-- EE 766 – Random Graphs
-- EE 766 – Random Graphs (2018-19)
-- EE 769 – Introduction to Machine Learning (By a 3rd yr student)
-- EE 769 – Introduction to Machine Learning (By a 4th yr student)
-- EE 771 – Recent topics in Analytical Signal Processing
-- EE 779 – Advanced Topics in Signal Processing (2013)
-- EE 779 – Advanced Topics in Signal Processing (2014)
-- EE 779 – Advanced Topics in Signal Processing (2015)
-- EE 786 – Developments, Trends and Economic Frontiers in EE (2020)
+@import url("https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;900&display=swap");
 
-### Other Department Electives
+body {
+  font: 400 1.5em/1.58 Vollkorn, serif;
+}
 
-- CS 213 – Data Structures and Algorithms
-- CS 213 – Data Structures and Algorithms (2018)
-- CS 218 – Design and Analysis of Algorithms
-- CS 228 – Logic for Computer Science (2020)
-- CS 347 – Operating Systems
-- CS 419 – Machine Learning
-- CS 419 – Machine Learning (2019)
-- CS 475 – Computer Graphics
-- CS 604 – Combinatorics
-- CS 663 – Digital Image Processing
-- CS 736 – Algorithms for Medical Image Processing
-- CS 754 – Advanced Image Processing
-- CS 754 – Advanced Image Processing (2018)
-- CS 754 – Advanced Image Processing (2020)
-- CS 763 – Computer Vision
-- CS 763 – Computer Vision (2017)
-- CS 775 – Advanced Computer Graphics
-- DE 414 – Innovation by Design (2020)
-- EN 640 – Solar Photovoltaic, Fundamentals, Technologies and Applications
-- ENT 204 – Basic Proof of Concept (2020)
-- ENT 602 – Technology Venture Creation (2020)
-- EP 222 – Classical Mechanics 1
-- EP 307 – Quantum Mechanics
-- EP 426 – Physics of Quantum Devices
-- ES 624 – Hazardous Waste Management
-- GNR 401 – Remote Sensing and Image Processing
-- GNR 652 – Machine Learning in Remote Sensing
-- HS 301 – Introduction to Philosophy
-- HS 305 – Reading Literature (2021)
-- HS 307 – Sociology
-- HS307 – Sociology (2020)
-- HS 309 – Introduction to the Study of Language
-- HS 410 – South Asian Fiction in English
-- HS 440 – Industrial Economics
-- HS 466 – Introduction to Linguistics
-- HS 472 – Psychology of Health
-- ID 404 – Basics of Visual Communication
-- IE 502 – Probabilistic Models
-- IE 502 – Probabilistic Models (2020)
-- IE 601 – Optimization Techniques
-- IE 611 – Introduction to Stochastic Models
-- IE 616 – Decision Analysis and Game Theory (2020)
-- MA 214 – Introduction to Numerical Analysis
-- MA 846 – Topics in Combinatorics
-- MG 401 – Marketing Management (2020)
-- PH 403 – Quantum Mechanics
-- PH 422 – Quantum Mechanics II
-- PH 556 – Astrophysics (2020)
-- SC 202 – Signals and Feedback Systems
-- SC 301 – Linear and Non-linear systems (2020)
-- SC 607 – Optimization
-- SC 631 – Games and Information
-- SC 635 – Advanced Topics in Mobile Robotics (2020)
+h1,
+p {
+  text-align: center;
+}
+
+.myGallery {
+  font-size: 1rem;
+}
+
+<style>
+
+<h1>Simple and Responsive CSS Image Grid</h1>
+<p>And it works also for other content, not only images ✌😏</p>
+<div class="myGallery">
+  <img src="https://picsum.photos/190/190?1" />
+  <img src="https://picsum.photos/190/190?2" />
+  <img src="https://picsum.photos/190/190?3" />
+  <img src="https://picsum.photos/190/190?4" />
+  <img src="https://picsum.photos/190/190?5" />
+  <img src="https://picsum.photos/190/190?6" />
+  <img src="https://picsum.photos/190/190?7" />
+  <img src="https://picsum.photos/190/190?8" />
+  <img src="https://picsum.photos/190/190?9" />
+  <img src="https://picsum.photos/190/190?10" />
+  <div class="item">
+    <img src="https://picsum.photos/190/190?11" />
+    <span class="caption">This is an image caption for image 11</span>
+  </div>
+  <div class="item">
+    <img src="https://picsum.photos/190/190?12" />
+    <span class="caption">This is an image caption for image 12</span>
+  </div>
+  <div class="item">
+    <img src="https://picsum.photos/190/190?13" />
+    <span class="caption">This is an image caption for image 13</span>
+  </div>
+  <div class="item">
+    <img src="https://picsum.photos/190/190?14" />
+    <span class="caption">This is an image caption for image 14</span>
+  </div>
+  <div class="item">
+    <img src="https://picsum.photos/190/190?15" />
+    <span class="caption">This is an image caption for image 15</span>
+  </div>
+</div>
+<p><em><small>If you need something fancier, just check out <a href="https://gridzy.gallery/" target="_blank">Gridzy.Gallery</a></small></em></p>
