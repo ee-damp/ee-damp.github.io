@@ -17,14 +17,14 @@ tags: [Academic]
   </div>
   <div class="item">
     <img src="Elective Reviews/Signal.JPG" />
-    <span class="caption">This is an image caption for image 12</span>
+    <span class="caption">Communication and Signal Processing </span>
   </div>
   <div class="item">
     <img src="Elective Reviews/Power.JPG" />
-    <span class="caption">This is an image caption for image 13</span>
+    <span class="caption">Power Engineering</span>
   </div>
   <div class="item">
     <img src="Elective Reviews/VLSI.JPG" />
-    <span class="caption">This is an image caption for image 14</span>
+    <span class="caption">VLSI</span>
   </div>
 </div>
