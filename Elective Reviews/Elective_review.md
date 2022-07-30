@@ -20,20 +20,44 @@ tags: [Academic]
   <div class="item">
     <img  src="/Elective Reviews/Signal.jpg" />
  
-    <span class="caption">Communication and Signal Processing </span>
+    <span class="caption">Communications</span>
   </div>
   
   <div class="item">
     <a href="/Elective Reviews/Power">
     <img  src="/Elective Reviews/Power.jpg" />
     </a>
-    <span class="caption">Power Engineering</span>
+    <span class="caption">Signal Processing and Information Theory</span>
        
   </div>
   
   <div class="item">
     <img src="/Elective Reviews/VLSI.jpg" />
     
-    <span class="caption">VLSI</span>
+    <span class="caption">VLSI and Microelectronics</span>
+  </div>
+  
+  <div class="item">
+    <img src="/Elective Reviews/Control.JPG" />
+    
+    <span class="caption">Power Engineering</span>
+  </div>
+  
+  <div class="item">
+    <img src="/Elective Reviews/Control.JPG" />
+    
+    <span class="caption">Electronic Devices</span>
+  </div>
+  
+  <div class="item">
+    <img src="/Elective Reviews/Control.JPG" />
+    
+    <span class="caption">Probability and Optimization</span>
+  </div>
+  
+  <div class="item">
+    <img src="/Elective Reviews/Control.JPG" />
+    
+    <span class="caption">Miscellaneous</span>
   </div>
 </div>
