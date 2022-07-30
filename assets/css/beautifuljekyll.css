@@ -371,7 +371,7 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 0px #131313 solid; !0px_is_important
+  border-top: 0px #131313 solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
