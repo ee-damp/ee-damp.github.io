@@ -8,7 +8,7 @@ share-img: ""
 comments: true
 tags: [Academic, Minor, Second]
 ---
-###CS 475 – COMPUTER GRAPHICS
+### CS 475 – COMPUTER GRAPHICS
 **Note:**
 
 1. Please make sure you are allowed to tag this course as a specialization elective. The department might change its policy in which case you will have to tag it as an insti-elective. However, in case there aren’t enough good courses running in the dept. the HOD/FacAd might make an exception and allow you, which is how I took it as a Specialization Elective.
