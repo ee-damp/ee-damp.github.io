@@ -12,14 +12,16 @@ tags: [Academic]
 
 <div class="myGallery">
   <div class="item">
+    <a href="/Minor Course Reviews/Autumn_Minors/Autumn_Minors">
     <img src="/assets/img/Autumn.jpeg" />
-    
+    </a>
     <span class="caption">Autumn Courses</span>
   </div>
   
   <div class="item">
+    <a href="/Minor Course Reviews/Spring_Minors/Spring_Minors">
     <img  src="/assets/img/Spring.jpg" />
- 
+    </a>
     <span class="caption">Spring Courses</span>
   </div>
 </div>
