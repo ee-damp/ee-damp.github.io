@@ -7,6 +7,7 @@ thumbnail-img: ""
 share-img: ""
 comments: true
 css: Minor Course Reviews/Minor.css
+full-width: true
 tags: [Academic]
 ---
 
