@@ -12,13 +12,13 @@ tags: [Academic]
 
 <div class="myGallery">
   <div class="item">
-    <img src="/Elective Reviews/Autumn.JPG" />
+    <img src="/assets/img/Autumn.jpeg" />
     
     <span class="caption">Autumn Courses</span>
   </div>
   
   <div class="item">
-    <img  src="/Elective Reviews/Spring.jpg" />
+    <img  src="/assets/img/Spring.jpg" />
  
     <span class="caption">Spring Courses</span>
   </div>
