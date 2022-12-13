@@ -17,6 +17,7 @@ navbar-links:
   Course Reviews:
     - Core Course Reviews: "Core Course Reviews/Core_Course_review"
     - Elective Reviews: "Elective Reviews/Elective_review"
+    - Minor Course Reviews: "Minor Course Reviews/Minor_courses"
    
   Minor Reviews: "Minor Reviews/Minor_reviews"  
   Team: "about"
