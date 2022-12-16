@@ -51,4 +51,4 @@ As this is a PG level lab course, it will cover some design related problems so 
 
 
 **Grading Statistics:**
-![Grades](EE673_2021_grades.png)
+![Grades](EE673_2021_grades.PNG)
