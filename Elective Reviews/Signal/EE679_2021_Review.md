@@ -63,4 +63,4 @@ The course load is heavy. You need to devote time to this course and be regular 
 
 
 **Grading Statistics:**
-![Grades](EE679_2021_grades.png)
+![Grades](EE679_2021_grades.PNG)
