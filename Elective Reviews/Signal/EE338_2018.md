@@ -1,0 +1,72 @@
+---
+layout: page
+title: Course Reviews
+subtitle:
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
+share-img: ""
+comments: true
+tags: [Academic]
+---
+
+
+### EE 338 - DIGITAL SIGNAL PROCESSING
+
+
+
+**Course offered in:**
+
+
+Spring 2018
+
+
+**Instructor:**
+
+
+Prof. V M Gadre
+
+
+**Course Content:**
+
+
+Discrete time signals and systems, Discrete Time Fourier Transform, Z-transform, Digital Filters, FIR and IIR filters design, Discrete Fourier Transform (DFT), Fast Fourier Transform (FFT), Realization of Discrete time systems, Polynomial approximation.
+
+
+**Prerequisites:**
+
+
+EE 210 - Signals and Systems
+
+
+**Evaluation Criteria:**
+
+
+Perhaps the most ‘convoluted’ evaluation scheme across all courses. Attendance, class and moodle participation and all other various kinds of assignments carry generous weightage in the course total making this a very wholesome evaluation scheme.
+
+
+**Feedback on Lectures:**
+
+
+The Instructor kept students actively involved during lectures by interacting with them. Content wise lectures are easy to follow and are in good sequence. Also, the combination of the various kinds of assignments offer great opportunity for in depth learning. Instructor gives major focus to class participation and online moodle participation where students are encouraged to post solutions and any other interesting stuff they want to share with the class regarding DSP.
+
+
+**Feedback on Assignments, Tutorials and exams:**
+
+
+There are a lot of homeworks, ranging from regular problems to solve for moodle participation, to challenging problems to assignments like filter designing and application oriented assignments. All these matter to the final score and are well co-ordinated with the content covered in class.
+
+
+**Difficulty Level:**
+
+
+Moderate
+
+
+**Grading:**
+
+Please refer ASC. In general, moderate.
+
+**Textbooks and References:**
+
+1. Discrete Time Signal Processing, Alan Oppenheim 
+2. Book on Digital Signal Processing by Simon Haykin

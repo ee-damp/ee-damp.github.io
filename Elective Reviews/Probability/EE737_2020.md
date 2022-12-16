@@ -1,0 +1,69 @@
+---
+layout: page
+title: Course Reviews
+subtitle:
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
+share-img: ""
+comments: true
+tags: [Academic]
+---
+
+
+### EE 737 - INTRODUCTION TO STOCHASTIC CONTROL
+
+
+
+**Session:**
+
+
+2019-2020
+
+
+**Instructor:**
+
+
+Prof. Jayakrishnan Nair, Prof. D Manjunath
+
+
+**Prerequisites:**
+
+
+EE325 or EE601 or an equivalent first course in probability
+
+
+**Course content and structure:**
+
+
+The course focuses on online learning in a stochastic setting, including a detailed treatment of multi-armed bandit algorithms, and (time permitting) reinforcement learning. The primary focus was on proving (probabilistic) performance guarantees of algorithms.
+
+
+**Feedback on Lectures:**
+
+
+This is a probability theory heavy course that is taught on the black board and thus paying full attention in class and taking down notes becomes very important. The reference texts provide ample help aiding the understanding of concepts.
+
+
+**Feedback on tutorials and exams:**
+
+
+We had two homeworks (mix of theory and little simulations) which were on the hard side before the classes were stopped due to the pandemic. A take home midsem (medium level) was given with a day to solve it. There was a project component where we were expected to define our own problem, understand it well from appropriate literature and provably advance the state of the art. It formed an important part of learning and evaluation.
+
+
+**Difficulty**
+(on a scale of 1 being very easy to 5 being very hard): 5
+
+
+**Textbooks and References:**
+
+
+Bandit Algorithms by Tor Lattimore and Csaba Szepesvari
+
+
+**Grading Statistics:**
+
+Grading was lenient given all the hardwork that was put in by students and owing to the covid-19 pandemic situation.
+
+**Additional comments & what you learnt from the course:**
+
+This graduate level course can prove to be a solid foundation if you plan on working on multi-armed bandits and online learning in general in the future.
