@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: EE 759 - Applied Mathematical Analysis in Engineering (2021)
 cover-img: ""
