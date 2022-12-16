@@ -76,6 +76,6 @@ and can enhance knowledge acquired in this course.
 
 This course gives an introduction to the process of fabricating a Si-based device and is crucial
 for those who are willing to go into studying Solid State Devices for the future.
-
+<!-- 
 **Grading Statistics:**
-![Grades](EE669_grades.png)
+![Grades](EE669_grades.png) -->
