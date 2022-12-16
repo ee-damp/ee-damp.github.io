@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: EE 746 – Neuromorphic Engineering (2022)
 cover-img: assets/img/Cover_study.jpg
