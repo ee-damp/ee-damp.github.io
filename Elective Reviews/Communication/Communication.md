@@ -12,7 +12,7 @@ tags: [Academic,Elective,Communication]
 - [EE 602 - Radar Systems (2018)](EE602_2018.md)
 - [EE 602 - Radar Systems (2018)](EE602_2018_2.md)
 - [EE 602 - Radar Systems (2022)](EE602_2022.md)
-- [EE 605 - Error Correcting Codes (2011)](EE605_2011-12.md)
+- [EE 605 - Error Correcting Codes (2011)](ee605_2011-12.md)
 - [EE 606 - Fibre Optic Communication (2014)](EE606_2014.md)
 - [EE 606 - Fibre Optic Communication (2019)](EE606_2019.md)
 - [EE 699 - Delta Sigma Data Converters and their Applications (2014)](EE699_2020.md)
