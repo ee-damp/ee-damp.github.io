@@ -28,5 +28,5 @@ tags: [Academic,Elective,VLSI]
 - [EE 739 - Processor Design (2018)](EE739_2018.md)
 - [EE 739 - Processor Design (2022)](EE739_2022.md)
 - [EE 788 – Advanced CMOS Logic and Flash Memory Devices (2021)](EE788_Review.md)
-- [Algorithmic Design of Digital Systems (2021)](EE789_2021_Review.md)
+- [EE 789 - Algorithmic Design of Digital Systems (2021)](EE789_2021_Review.md)
 - [EE 800 – High Speed Interconnects- Signaling and Synchronization (2021)](EE800_2021.md)
