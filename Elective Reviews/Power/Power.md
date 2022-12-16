@@ -10,7 +10,7 @@ tags: [Academic,Elective,Power]
 ---
 
 - [EE 651 - Digital Protection of Power Systems (2020).md](EE651_2020.md)
-- [EE 653 – POWER ELECTRONICS -I (2021)](EE 653_Review.md)
+- [EE 653 - POWER ELECTRONICS -I (2021)](EE 653_Review.md)
 - [EE 655 – Computer Aided Power System Analysis (2020)](EE655.md)
 - [EE 657 – Electric Drives – 1 (2021)](EE657_2021_Review.md)
 - [EE 673 - Power Systems and Power Electronics Lab (2021)](EE673_Review.md)
