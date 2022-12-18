@@ -1,0 +1,48 @@
+﻿* Your Name and Batch 
+Ronil Mandavia, 2024(B.Tech)
+
+
+* Course Offered In
+Spring 2022
+
+
+* Instructors
+Prof. Jayakrishnan Nair
+* Prerequisites
+EE325 or any basic course in probability
+* Difficulty 
+On a scale of 1-5, with 1 being least difficult and 5 being most difficult: 3/5
+* Course Content
+Discrete-time Markov chains
+Introduction to Renewal Reward Theory
+Continuous-time Markov chains 
+Markovian queueing models -- M/M/1, Erlang B & C
+Phase-type distributions and Matrix Analytic Methods
+M/G/1 mean value analysis via Renewal Reward
+M/G/1 transform analysis, Scheduling policies in M/G/1: FCFS, LCFS, PLCFS, SRPT Burke's Theorem & Queueing Networks
+
+
+* Feedback on Lectures
+The lectures were very interesting and fun. Professor made significant efforts to clear any doubts the students had. Lectures were well paced and each topic built up on the last so attending all classes is advisable. Lectures focused more on the application side of things which was a welcome change for me.
+
+
+* Feedback on Evaluations
+Quizzes (Announced and unannounced) - 30%
+Midsem - 30%
+Endsem - 40%
+
+
+Exams were on the easier side, attending all the classes and sincerely attempting the tutorials can ensure a good grade.
+  
+
+
+
+* Study Material and References
+Performance Modeling and Design of Computer Systems by Mor Harchol-Balter. 
+
+
+* Follow-up Courses
+
+
+* Final Takeaways
+I would strongly recommend this course to anyone interested in probability and its applications.
