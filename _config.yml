@@ -20,7 +20,7 @@ navbar-links:
     - Minor Course Reviews: "Minor Course Reviews/Minor_courses"
    
   Minor Reviews: "Minor Reviews/Minor_reviews"  
-  Team: "about"
+  # Team: "about"
   # Blog: "Blog/index"
   Contact Us: "contact"
   
