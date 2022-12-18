@@ -20,7 +20,7 @@ tags: [Academic,Elective,Communication]
 - [EE 606 - Fibre Optic Communication (2019)](EE606_2019.md)
 - [EE 699 - Delta Sigma Data Converters and their Applications (2014)](EE699_2020.md)
 - [EE 706 – Communication Networks (2014)](EE706_2014.md)
-- [EE 706 – Communication Networks (2017)](EE706_2017.md_)
+- [EE 706 – Communication Networks (2017)](EE706_2017.md)
 - [EE 706 – Communication Networks (2020)](EE706_2020.md)
 - [EE 740 – Advanced Data Networks (2021)](EE740_2021_Review.md)
 - [EE 764 - Wireless and Mobile Communication (2015)](EE764_2015.md)
