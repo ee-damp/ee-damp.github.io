@@ -1,6 +1,7 @@
 ﻿---
 layout: page
-title: EE238 - Power Engineering-II (2022)
+title: Course Reviews
+subtitle: PH238 – Power Engineering-II(2022)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

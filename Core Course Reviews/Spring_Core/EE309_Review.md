@@ -8,9 +8,21 @@ comments: true
 tags: [Core, Second]
 ---
 
--   **Your Name and Batch**: Tanmay Joshi, 2024(B Tech)
--   **Course Offered In**:** Spring 2020-21
--   **Instructors**: Prof. Virendra Singh
+-   **Your Name and Batch**:
+
+    Tanmay Joshi, 2024(B Tech)
+
+
+-   **Course Offered In**:**
+
+    Spring 2020-21
+
+
+-   **Instructors**:
+
+    Prof. Virendra Singh
+
+    
 -   **Prerequisites**: EE224 in some aspects.
 -   **Difficulty**: The topics are at a moderate level of difficulty but
     fairly understandable if you are attentive in all lectures.

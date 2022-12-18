@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EE 337 - Microprocessors Lab (2021)
+title: EE 337 – Microprocessors Lab (2021)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
@@ -34,7 +34,7 @@ All students were given an 8051 development board (PT-51). The course followed t
 
 **Feedback on Labs**
 
-The course covers assembly language programming extensively. It is important to understand the flow of assembly programs and 8051 instructions with its associated registers. It is also necessary that you understand how to debug an assembly language program, because the logical errors are not as obvious as compared to a C program; so make sure you are familiar with the software (ARM Keil ï¿½Vision 5). <br>
+The course covers assembly language programming extensively. It is important to understand the flow of assembly programs and 8051 instructions with its associated registers. It is also necessary that you understand how to debug an assembly language program, because the logical errors are not as obvious as compared to a C program; so make sure you are familiar with the software (ARM Keil µVision 5). <br>
 
 The Embedded C section is fairly easy if you have prior C experience. The course did not cover this section in depth, limiting oneself to filling up certain values for communication protocol functioning. The focus here was more on understanding how to read datasheets and trying to find out what values of registers would correctly implement the timing diagrams provided.
 
