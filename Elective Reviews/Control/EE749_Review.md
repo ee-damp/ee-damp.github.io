@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: EE 749 - Decentralized Control of Complex Systems (2021)
 cover-img: ""
