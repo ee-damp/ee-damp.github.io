@@ -40,7 +40,7 @@ tags: [Academic,Spring,Core]
 - [EE 240 – Power Engineering Lab (2022)](EE240_Review_2022.md)
 - [EE 302 – Control Systems (2022)](EE302_2022_review.md)
 - [EE 302 – Control Systems (DD) (2021)](EE302(DD)_review.md)
-- [EE 302 - Control Systems (2020)](EE302_2020_review.md)
+- [EE 302 - Control Systems (2020)](EE302_2020_Review.md)
 - [EE309 - Microprocessors (2021)](EE309_Review.md)
 - [EE 324 - Control Systems Lab (2017)](EE324_2017_review.md)
 - [EE 324 - Control Systems Lab (2018)](EE324_2018_review.md)
