@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EE 789 – Algorithmic Design of Digital Systems (2021)
+title: CS 773 – Computer Architecture for Performance and Security (2021)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
