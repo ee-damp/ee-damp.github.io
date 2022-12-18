@@ -50,5 +50,5 @@ EE 724: Nano electronics, EE 727: Physics of Nano-scale Devices II, PH 534: Quan
 As I stated earlier, if you wanna study something related to Quamtum Machine Learning/ Quantum Computation, which are research hot topics by the way, you can surely start with EE 723. I loved the content and the assignments as well. Every single time, you need to come out with new ideas on your own and trust me, you will amaze yourself by the end of the course as it has many such ‘wow moments’
 
 **Grading Statistics:**
-![Grades](EE723_2021_Grades.png)
+![Grades](EE723_2021_grades.png)
 
