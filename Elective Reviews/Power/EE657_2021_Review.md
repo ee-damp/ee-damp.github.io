@@ -48,4 +48,4 @@ EE656 (Electric Machine Analysis and Control), a strongly recommended course if 
 This course is an introductory level course on electrical machines. The basic principles of electric drives are covered without going into too much detail into the models of the machines themselves, while setting the ground for EE656 where the machine model is further analysed.
 
 **Grading Statistics:**
-![Grades](EE657_2021_grades.PNG)
+![Grades](EE657_2021_grades.png)

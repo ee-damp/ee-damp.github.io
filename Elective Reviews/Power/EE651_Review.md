@@ -1,0 +1,51 @@
+---
+layout: page
+title: EE 651 - Digital Protection of Power Systems
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
+share-img: ""
+comments: true
+tags: [Elective, Power]
+---
+
+**Review by**
+Immanuel Williams, EE DD PEPS 2018-2023
+
+**Course Offered In**
+Spring Semester
+
+
+**Instructors**
+Dr. Prashant Navalkar
+
+**Prerequisites**
+Officially no prerequisites are listed for this course but a good understanding of power systems (EE334) would be absolutely necessary for doing this course properly. Additionally, EE655 would give a better understanding but it is not as much required as EE334
+
+**Difficulty**
+The course is pretty easy to understand, provided the pre-requisite courses have been done properly. The DSP part of this course however is very easy to grasp as the equations involved are pretty basic. Some programming might be required to reproduce the plots and all.
+
+**Course Content**
+Review of principles of power system protection: over-current, directional, differential and distance protection. Reactancce, impedances and mho relays numerical relays: motivation, basic hardware. Review of digital signal processing techniques: sampling, aliasing, courier, discrete Fourier transforms and fast Fourier transforms. Numerical algorithms, CT/PT modelling and standards, simulation of transients, electromagnetic transient program (EMTP).
+
+ 
+**Feedback on Lectures**
+The lectures are well structured and the lecture notes of all courses are made available. The instructor provides a handbook which has all the lecture notes compiled (atleast that was done in my time) so it is really useful.
+
+**Feedback on Evaluations**
+The instructor kept only one quiz and an endsem assignment. Both, the quiz and the assignment were very easy to solve as they were open book and open notes exams. The assignment was a MATLAB based coding assignment. Although the grades for the evaluations were not revealed, one can say that they went really well as no one got below an AB in this course.
+
+
+**Study Material and References**
+A handbook consisting of all lecture notes is compiled and usually given to us at some point in the course.
+
+
+**Follow-up Courses**
+NA
+
+
+**Final Takeaways**
+In a nutshell, this is a very chill course to take as the evaluations are pretty chill and one can easily complete them and get an AB or an AA if they get a hang of the basic concepts and equations however it is very important that the pre-requisite courses are done, atleast from an understanding perspective. The instructor is also a chill person and he even planned to take the students to a power system plant for an educational visit (although those plans fell through due to some operational constraints, there is a possibility that you might still get a chance to go there) 
+
+
+**Grading Statistics:**
+![Grades](EE651_2020_grades.png)

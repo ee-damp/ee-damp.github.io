@@ -50,4 +50,4 @@ One who wants to understand the real-life aspects of the PV industry must defini
 
 
 **Grading Statistics:**
-![Grades](EE770_2021_grades.PNG)
+![Grades](EE770_2021_grades.png)
