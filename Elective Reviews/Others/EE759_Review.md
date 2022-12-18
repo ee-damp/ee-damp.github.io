@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EE 759 - Applied Mathematical Analysis in Engineering (2021)
-cover-img: ""
+cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
