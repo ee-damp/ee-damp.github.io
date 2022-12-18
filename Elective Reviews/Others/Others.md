@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Devices Elective Courses
+title: Other Elective Courses
 subtitle: 
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
