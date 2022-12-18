@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: EE 622 – Optimal Control (2021)
 cover-img: assets/img/Cover_study.jpg
