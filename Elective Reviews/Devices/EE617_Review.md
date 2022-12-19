@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: EE 617 - Sensors in Instrumentation (2021)
 cover-img: ""
