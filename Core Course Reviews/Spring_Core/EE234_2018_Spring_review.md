@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Reviews
-subtitle: EE 234 : MACHINES LAB (2018)
+subtitle: EE 234 MACHINES LAB (2018)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
