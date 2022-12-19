@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EE 207 – Electronic Devices (2022)
+title: EE 207 Electronic Devices (2022)
 cover-img: ""
 thumbnail-img: ""
 share-img: ""
