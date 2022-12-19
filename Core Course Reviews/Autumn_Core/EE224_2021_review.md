@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Course Reviews
 subtitle: EE224 Digital Systems (2021)
