@@ -18,7 +18,7 @@ tags: [Academic,Autumn,Core]
 - [EE 223 - Data Analysis and Interpretation (2014)](EE223_2014_Review.md)
 - [EE 223 - Data Analysis and Interpretation (2016)](EE223_2016_Review.md)
 - [EE 223 - Data Analysis and Interpretation (2017)](EE223_2017_Review.md)
-<!-- - [EE 223 - Data Analysis and Interpretation (2019)](EE223_2019_Review.md) -->
+- [EE 223 - Data Analysis and Interpretation (2019)](EE223_2019_Review.md)
 - [EE 224 - Digital Systems (2013)](EE224_2013_review.md)
 - [EE 224 - Digital Systems (2014)](EE224_2014_review.md)
 - [EE 224 - Digital Systems (2017)](EE224_2017_review.md)
