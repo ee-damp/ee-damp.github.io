@@ -1,4 +1,12 @@
-### EE 669 - VLSI TECHNOLOGY
+---
+layout: page
+title: EE 669 - VLSI TECHNOLOGY
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
+share-img: ""
+comments: true
+tags: [Elective, Control]
+---
 
 **Your Name and Batch**
 
