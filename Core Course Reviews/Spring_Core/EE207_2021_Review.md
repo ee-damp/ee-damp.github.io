@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EE 207 - Electronic Devices 
+title: EE 207 Electronic Devices 
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
