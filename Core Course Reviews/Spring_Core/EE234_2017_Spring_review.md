@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Reviews
-subtitle: EE234 - Electrical Machines Lab(2017)
+subtitle: EE234 Electrical Machines Lab(2017)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
