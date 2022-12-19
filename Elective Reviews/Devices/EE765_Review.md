@@ -1,4 +1,12 @@
-**Your Name and Batch**
+---
+layout: page
+title: EE 765 Reliability and Failure Analysis of Electronic Devices
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
+share-img: ""
+comments: true
+tags: [Elective, Control]
+---
 
 Varad Rajesaheb Mane, 2023(DD)
 
