@@ -2,7 +2,7 @@
 layout: page
 title: DAMP
 subtitle: Department of Electrical Engineering, IIT Bombay
-cover-img: "assets/img/MB-knowledge-tree.jpeg"
+cover-img: "assets/img/Home.jpg"
 ---
 
 ### About
