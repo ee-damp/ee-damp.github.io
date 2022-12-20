@@ -3,8 +3,8 @@ layout: post
 title:  The Graduate Application Process
 subtitle: Adway Girish
 cover-img: /assets/img/Blog.jpg
-thumbnail-img: 
-share-img: /assets/img/logo.png
+thumbnail-img: /assets/img/Grad.jpg
+share-img: /assets/img/Grad.jpg
 tags: [Blog, Adway]
 ---
 
