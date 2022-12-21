@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Raavi Gupta
 subtitle: MA111
