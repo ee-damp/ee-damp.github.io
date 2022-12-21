@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Raavi Gupta
-subtitle: MA111
+title: MA 111 TAship
+subtitle: Raavi Gupta
 cover-img: assets/img/TA_blogs.jpg
 thumbnail-img: assets/img/MA111_thumbnail.jpg
 share-img: "same as thumbnail"
