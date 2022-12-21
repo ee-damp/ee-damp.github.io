@@ -9,7 +9,6 @@ comments: true
 tags: [Academic,Elective,Control]
 ---
 
-- [EE 613 - Non-Linear Dynamical Systems (2012)](EE613_2012.md)
 - [EE 613 - Non-Linear Dynamical Systems (2022)](EE613_2022.md)
 - [EE 622 - Optimal Control (2018)](EE622_2018.md)
 - [EE 622 - Optimal Control (2021)](EE622_2021.md)
