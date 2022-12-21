@@ -13,7 +13,7 @@ tags: [Academic]
 - [Systems and Controls](Syscon.md)
 - [Computer Science Minor (Review 1)](CSE1.md)
 - [Computer Science Minor (Review 2)](CSE2.md)
-- Mathematics (Review 1)
-- Mathematics (Review 2)
-- IEOR
+- [Mathematics](Math_Review.md)
+- [Management](MG_Minor_review.md)
 - [Physics](Physics.md)
+<!-- - IEOR -->
