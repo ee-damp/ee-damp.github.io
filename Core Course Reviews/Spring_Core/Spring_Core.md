@@ -54,3 +54,5 @@ tags: [Academic,Spring,Core]
 - [EE 334 – Power Systems (2019)](EE344_2019_review.md)
 - [EE 344 – Electronic Design Lab (2022)](EE344_2022_Review.md)
 - [EE 350 – Technical Communication (2022)](EE350_2022_Review.md)
+- [ES 200 - Environmental Studies: Science and Engineering (2022)](ES200_2022_Review.md)
+- [HS 200 - Environmental Studies (2022)](HS200_2022_Review.md)
