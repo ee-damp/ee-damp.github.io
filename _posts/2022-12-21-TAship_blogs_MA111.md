@@ -3,7 +3,7 @@ layout: post
 title: Raavi Gupta
 subtitle: MA111
 cover-img: assets/img/TA_blogs.jpg
-thumbnail-img: assets/img/MA111_thumbnail.jpeg
+thumbnail-img: assets/img/MA111_thumbnail.jpg
 share-img: "same as thumbnail"
 comments: true
 tags: [Academic, TA, Blog]
