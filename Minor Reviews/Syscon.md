@@ -36,4 +36,4 @@ and is relevant to several departments like Aerospace, Electrical, Mechanical an
 It is also fundamental for robotics and autonomous vehicles and would definitely benefit anyone interested in exploring 
 these trending technologies. SysCon has a number of courses along those lines which Elec does not.
 
-**Sponsored Content**
+
