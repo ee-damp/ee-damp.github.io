@@ -2,6 +2,9 @@
 layout: page
 title: DAMP
 subtitle: Department of Electrical Engineering, IIT Bombay
+share-title: EE DAMP
+share-description: Department of Electrical Engineering, IIT Bombay
+share-img: "assets/img/Home.jpg"
 cover-img: "assets/img/Home.jpg"
 ---
 
