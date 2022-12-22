@@ -5,6 +5,7 @@ subtitle: Adway Girish
 cover-img: /assets/img/Grad.jpg
 thumbnail-img: /assets/img/Grad.jpg
 share-img: /assets/img/Grad.jpg
+readtime: true
 tags: [Blog, Adway]
 ---
 
