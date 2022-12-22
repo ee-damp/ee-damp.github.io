@@ -1,41 +1,24 @@
-**
-
 ---
-
 layout: page
-
 title: Minor Reviews
-
-subtitle:
-
+subtitle: IE 616 – DECISION ANALYSIS AND GAME THEORY
 cover-img: assets/img/Cover_study.jpg
-
 thumbnail-img: ""
-
 share-img: ""
-
 comments: true
-
 tags: [Academic]
-
 ---
-
-  
-  
 
 ### IE 616 – DECISION ANALYSIS AND GAME THEORY
-
-  
-  
 
 **Course offered in:**
 
 Spring 2019
 
 **Course Instructor:**
+
 Prof. Veeraruna Kavitha
   
-
 **Prerequisites:**
 Exposure to relevant concepts at undergraduate level and instructor consent
 Instructor consent is necessary for taking up this course. Also, knowledge of concepts of Probability and Optimization (covered in the two fundamental courses of the IEOR Minor Program) will make this course more smooth for you.
@@ -88,9 +71,8 @@ Total 47
 (2) James N. Webb (2006) Game Theory: Decisions, Interaction, and Evolution
 
 **Additional Comments & what you learnt from the course: **
-Although the course promise to give you insights about both Decision making and Game Theory, the instructor mostly covered topics under the field of Game Theory, which itself consist of a lot of Decision-making analysis; but Decision Analysis with all its components of Pareto optimality, Multi-criteria decision models, and Goal programming was never taken up separately.
-Due to the pandemic, we didn’t have our second quiz and endsem, and some portion of the course was left too. The instructor released relevant reading material on Moodle to complete the course and also gave away some assignments on the same to account for the latter half of the evaluation.
-*Also the field of Game Theory is much more about just games and has multitudinous applications in fields ranging from economics, business, biology, networks, war, politics, and many more.
 
-Review by – Anjali Yadav (anjaliyadavay3008@gmail.com)
-**
+Although the course promise to give you insights about both Decision making and Game Theory, the instructor mostly covered topics under the field of Game Theory, which itself consist of a lot of Decision-making analysis; but Decision Analysis with all its components of Pareto optimality, Multi-criteria decision models, and Goal programming was never taken up separately.
+Due to the pandemic, we didn’t have our second quiz and endsem, and some portion of the course was left too. The instructor released relevant reading material on Moodle to complete the course and also gave away some assignments on the same to account for the latter half of the evaluation. Also the field of Game Theory is much more about just games and has multitudinous applications in fields ranging from economics, business, biology, networks, war, politics, and many more.
+
+**Review by** – Anjali Yadav (anjaliyadavay3008@gmail.com)
