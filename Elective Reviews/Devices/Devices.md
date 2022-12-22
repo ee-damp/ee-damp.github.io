@@ -21,6 +21,7 @@ tags: [Academic,Elective,Devices]
 - [EE 723 – Physics of Nanoelectronic Devices (2021)](EE723_2021_Review.md)
 - [EE 724 - Nanoelectronics (2017)](EE724_2017.md)
 - [EE 724 - Nanoelectronics (2019)](EE724_2019.md)
+- [EE 724 - Nanoelectronics (2021)](EE724_2021.md)
 - [EE 724 - Nanoelectronics (2022)](EE724_2022.md)
 - [EE 727 - Physics of Nanoelectronic Devices II (2016)](EE727_2016.md)
 - [EE 728 - Growth and Characterization of Nanomaterials (2021)](EE728_2021.md)

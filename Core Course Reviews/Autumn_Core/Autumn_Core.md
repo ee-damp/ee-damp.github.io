@@ -12,6 +12,7 @@ tags: [Academic,Autumn,Core]
 - [EE 204 - Analog Circuits (2017)](EE204_2017_review.md)
 - [EE 204 - Analog Circuits (2018, B.Tech)](EE204_2018_BTech_review.md)
 - [EE 204 - Analog Circuits (2018, DD)](EE204_2018_DD_review.md)
+- [EE 204 - Analog Circuits (2020)](EE204_2020_review.md)
 - [EE 204 - Analog Circuits (2021)](EE204_2021_review.md)
 - [EE 223 - Data Analysis and Interpretation (2016)](EE223_2016_Review.md)
 - [EE 223 - Data Analysis and Interpretation (2017)](EE223_2017_Review.md)
@@ -29,7 +30,7 @@ tags: [Academic,Autumn,Core]
 - [EE 309 - Microprocessors (2016)](EE309_16_review.md)
 - [EE 309 - Microprocessors (2017)](EE309_2017_Review.md)
 - [EE 309 - Microprocessors (2018)](EE309_2018_review.md)
-- [EE 309 - Microprocessors (2021)](EE309_2021_Review.md)
+<!-- - [EE 309 - Microprocessors (2021)](EE309_2021_Review.md) -->
 - [EE 325 - Probability and Random Processes (2016, DD)](EE325_2016_DD_review.md)
 - [EE 325 - Probability and Random Processes (2017, B.Tech)](EE325_2017_BTech_review.md)
 - [EE 325 - Probability and Random Processes (2017, DD)](EE325_2017_DD_review.md)
