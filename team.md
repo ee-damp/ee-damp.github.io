@@ -10,60 +10,60 @@ tags: [Academic]
 ---
 
 ### Coordinators
-Ishan Phansalkar
-Parvik Dave
-Tushar Nandy
+Ishan Phansalkar <br/>
+Parvik Dave<br/>
+Tushar Nandy<br/>
 
 ### Sub Group Heads
-Suraj Samaga - Resources
-Mitali Meratwal - Web
-Fathima Zarin Faizal - Events
+Suraj Samaga - Resources<br/>
+Mitali Meratwal - Web<br/>
+Fathima Zarin Faizal - Events<br/>
 
 ### Mentors
-Aryan Gupta
-Nutan 
-Aakanksha Jain
-Suraj Samaga
-Tanmay Joshi 
-Prashant Shettigar
-Millen Kanabar 
-H R Sai Sumedh
-Raavi Gupta
-Ronil Mandavia 
-Siddhant Pravin Shingade
-Tejas Bhalla
-Dev Pratap Singh 
-Jay Sonawane
-Amol Shah
-Hardik Panchal 
-Aayush Shrivastava 
-Varad Rajesaheb Mane
-Samarth  Agarwal
-Tanmay Dokania
-Bhagyashree Singh 
-Sharvaree Sinkar
-Prakhar Diwan
-Aryan Laddha
-Mohit Kedia
-Mitali Meratwal 
-Keshav singhal 
-Shreyas Nadkarni 
-Aayush Rajesh
-Neeraj Prabhu
-Avi Yadav 
-Rishabh Sureka
-Srishti Sharma
-Soumil Sarawgi
-Chetan Dandu 
-Fathima Zarin Faizal
-Uttam Bansal 
-Jujhaar Singh
-Garima Dewangan
-Yuvraj Singh Tanwar
-Preethi Sravani Malyala
-Kushagra Mishra
-Divyanshi Kamra
-Vaibhavi agrawal
-Ujjwal Kalra
-Sahil Choudhary 
-Shivang Tiwari
+Aryan Gupta<br/>
+Nutan <br/>
+Aakanksha Jain<br/>
+Suraj Samaga<br/>
+Tanmay Joshi <br/>
+Prashant Shettigar<br/>
+Millen Kanabar <br/>
+H R Sai Sumedh<br/>
+Raavi Gupta<br/>
+Ronil Mandavia <br/>
+Siddhant Pravin Shingade<br/>
+Tejas Bhalla<br/>
+Dev Pratap Singh <br/>
+Jay Sonawane<br/>
+Amol Shah<br/>
+Hardik Panchal <br/>
+Aayush Shrivastava <br/>
+Varad Rajesaheb Mane<br/>
+Samarth  Agarwal<br/>
+Tanmay Dokania<br/>
+Bhagyashree Singh <br/>
+Sharvaree Sinkar<br/>
+Prakhar Diwan<br/>
+Aryan Laddha<br/>
+Mohit Kedia<br/>
+Mitali Meratwal <br/>
+Keshav singhal <br/>
+Shreyas Nadkarni <br/>
+Aayush Rajesh<br/>
+Neeraj Prabhu<br/>
+Avi Yadav <br/>
+Rishabh Sureka<br/>
+Srishti Sharma<br/>
+Soumil Sarawgi<br/>
+Chetan Dandu <br/>
+Fathima Zarin Faizal <br/>
+Uttam Bansal <br/>
+Jujhaar Singh<br/>
+Garima Dewangan<br/>
+Yuvraj Singh Tanwar<br/>
+Preethi Sravani Malyala<br/>
+Kushagra Mishra<br/>
+Divyanshi Kamra<br/>
+Vaibhavi agrawal<br/>
+Ujjwal Kalra<br/>
+Sahil Choudhary <br/>
+Shivang Tiwari<br/>
