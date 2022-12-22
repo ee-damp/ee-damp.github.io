@@ -35,4 +35,3 @@ Control Theory: I did not do this course from AE, but it is equivalent to EE302 
 
 Apart from this, I had the chance to do the course Aircraft Design, which is a topic independent of the four fields above (or rather, a combination of all of them). It is a unique course that teaches design principles and ideas, and is highly based on practical experience and history. The content is suited for the aerospace industry and can be somewhat dry to someone without context. Nonetheless, it is quite informative, refreshingly different from other engineering courses and should be interesting to an aircraft enthusiast.
 
-**Sponsored Content**
