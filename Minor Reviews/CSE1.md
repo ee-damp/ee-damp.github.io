@@ -54,4 +54,3 @@ The Algorithms courses are critical prerequisite courses and may also help you i
 Lastly, keep in mind that all of these courses act as introductory courses of sorts and are meant 
 to encourage learning the same on your own if interested as there is simply no substitute for self-learning.  <br>
 
-**Sponsored Content**
