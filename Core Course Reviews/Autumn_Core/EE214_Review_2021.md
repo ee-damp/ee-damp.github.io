@@ -1,6 +1,7 @@
 ---
 layout: page
-title: EE 214 – Digital Circuits Lab (2021)
+title: Course Reviews
+subtitle: EE 214 – Digital Circuits Lab (2021)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

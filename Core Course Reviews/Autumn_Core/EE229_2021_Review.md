@@ -1,11 +1,12 @@
 ---
 layout: page
-title: EE 229 – Signal Processing - I (2021)
+title: Course Reviews
+subtitle: EE 229 – Signal Processing - I (2021)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
-tags: [Core]
+tags: [Core, Second]
 ---
 
 **Review by**

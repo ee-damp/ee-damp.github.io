@@ -1,6 +1,7 @@
 ---
 layout: page
-title: HS 200 – Environmental Studies (2022)
+title: Course Reviews
+subtitle: HS 200 – Environmental Studies (2022)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

@@ -9,7 +9,6 @@ comments: true
 tags: [Academic, Core]
 ---
 
-
 **Your Name and Batch**
 
 Ronil Mandavia 
@@ -22,16 +21,13 @@ Spring 2021
 
 Prof. Sudarshan Gurjar
 
-
 **Prerequisites**
 
 None 
 
-
 **Difficulty**
 
 On a scale of 1 to 5, with 1 being the least difficult and 5 being the most: 4/5
-
 
 **Course Content**
 * Analytical functions

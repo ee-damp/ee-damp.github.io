@@ -21,6 +21,7 @@ tags: [Academic,Elective,Signal Processing]
 - [EE 708 - Information Theory and Coding (2019)](EE708_2019.md)
 - [EE 708 - Information Theory and Coding (2020)](EE708_2020.md)
 - [EE 708 - Information Theory and Coding (2021)](EE708_2021.md)
+- [EE 708 - Information Theory and Coding (2022)](EE708_2022.md)
 - [EE 720 - Introduction to Number Theory and Cryptography (2018)](EE720_2018.md)
 - [EE 720 –  An Introduction to Number Theory and Cryptography (2021)](EE720_2021_Review.md)
 - [EE 771 – Recent topics in Analytical Signal Processing (2018)](EE771_2018.md)

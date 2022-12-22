@@ -9,12 +9,6 @@ comments: true
 tags: [Academic, Core, Second]
 ---
 
-
-
-
-###EE 207 – ELECTRONIC DEVICES
-
-
 **Course offered in:** 
 
 Autumn 2016

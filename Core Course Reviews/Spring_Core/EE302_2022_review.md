@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EE 302 – Control Systems (2022)
+title: EE 302 – Control Systems (BTech) (2022)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
@@ -12,7 +12,7 @@ tags: [Core, Second]
 
 Kushagra Mishra (2024 BTech)
 
-**Course Offered In**S
+**Course Offered In**
 
 Spring 2022
 

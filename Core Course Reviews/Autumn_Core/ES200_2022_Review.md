@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ES 200 – Environmental Studies (2022)
+title: Course Reviews
+subtitle: ES 200 – Environmental Studies (2022)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

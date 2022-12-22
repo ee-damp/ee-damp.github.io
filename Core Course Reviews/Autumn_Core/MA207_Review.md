@@ -1,6 +1,7 @@
 ---
 layout: page
-title: MA207 Differnetial Equations II (2021)
+title: Course Reviews
+subtitle: MA207 Differnetial Equations II (2021)
 cover-img: ""
 thumbnail-img: ""
 share-img: ""

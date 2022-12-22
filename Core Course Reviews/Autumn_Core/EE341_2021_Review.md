@@ -1,70 +1,68 @@
 ---
 layout: page
-title: EE 618 – CMOS Analog VLSI Design (2021)
+title: Course Reviews
+subtitle: EE 341 – Communication Systems-I (2021)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
-tags: [Elective, VLSI]
+tags: [Core, Third]
 ---
 
 **Review by**
 
-Suraj Sarvesha Samaga, 2023(BTech.)
+Adit Akarsh 2019-23 BTech
 
 **Course Offered In**
 
-Autumn 2021
+Autumn 2021-22
 
 **Instructors**
 
-Prof. Maryam Shojaei Baghini
+Prof Shabbir Merchant and Prof Gaurav Kasbekar
 
 **Prerequisites**
 
-EE204 - Analog Circuits
+EE229, EE325
 
 **Difficulty**
 
-5/5 Very intense course
+3/5
 
 **Course Content**
 
-The course started with a recap of MOSFET device physics and the small-signal MOSFET model, followed by the various transistor configurations (common source, common gate, source follower, cascode, folded cascode). Then followed a discussion on Current Mirrors and this encapsulated the topics until midsem.<br>
+Review of EE229 and EE325: Fourier transform random processes
+Lowpass representation of bandpass signals and systems: downconversion and upconversion, lowpass representation of bandpass systems
+Analog modulation techniques: Amplitude modulation, DSB, SSB, VSB modulations, Angle modulation: FM and PM
+Sampling, quantization and pulse modulation: Sampling and pulse amplitude modulation, PCM and DPCM, Delta modulation, scalar and vector quantization
+Overview of multiplexing and multiple access techniques: TDM(A), CDMA, FDM and OFDM(A)
+Digital modulation techniques: Basics of PSK, ASK, FSK, QAM; ML demodulator implementation with matched filter, decision regions and probability of error analysis.
+Digital communication over bandlimited channels: Intersymbol interference, Nyquist criterion for ISI-free pulse, raised cosine pulse, ML sequence detection for bandlimited channels.
 
-Post midsem, we began with Differential Amplifiers with active and passive loads, after which the crucial topics of Frequency Response and Stability and Frequency Compensation were taken up - essentially reviewing stability criteria and phase margin for a circuit, and then delving into circuit techniques to affect frequency compensation and pole placement. <br>
 
-In conclusion, an introduction to Noise Analysis and Noise in the specific cases of Single Stage Amplifiers and Diff Pairs were discussed. The course was accompanied by a demanding course project involving designing an Operational Transconductance Amplifier with Slew-Rate Boosting.
- 
 **Feedback on Lectures**
 
-We were asked to watch and review video lectures from the YouTube playlist of Ali Hajimiri, which were then again discussed in class hours, where the important points were re-emphasized, and any extra-topics were covered. Attending lectures however felt like an onerous task at times and would occupy a good chunk of one's week. Each lecture clearly mentioned relevant sections in reference books, so even if lectures were at times hard to follow, one could fall back on the reference material.
+The course ran in an online mode with recorded lectures. The videos provided by Prof Shabbir Merchant were from previously recorded CDEEP lectures. These lectures were very good with hand-drawn and handwritten explanations in the video by the professor. The lectures videos by Prof Kasbekar were a bit dry and difficult to understand in comparison and were mostly a repetition of the written content of slides shown in the video.
 
 **Feedback on Evaluations**
 
-1. 15% Moodle Quizzes (best 4/6) 
-2. 20% Assignments (5)
-3. 20% Midsem
-4. 20% Endsem
-5. 25% Course Project
-
-Every thursday at 9PM, there would either be a tutorial, or a Moodle quiz. The Quizzes and Assignments had a fair level of questions dealing with concepts taught until then. The tutorials were quite helpful in solving assignments and understanding course content in general. The Midsem was very difficult, with a bunch of hard questions and very less time to do them. The endsem was relatively better. Both were 1-hour exams.
-
-The project involved understanding and assimilating a recent research paper on the design of an Operational Transconductance Amplifier and then implementing a similar sort of design on NgSpice to meet the target specifications. Help sessions for the same were conducted towards the end. The project deadline was kept right before the endsems, but was later postponed, to fall sometime during the endsem week. Starting early would prove beneficial here.
+Best ⅔ quizzes for 20%
+Midsem for 30%
+Endsem for 50%
+All of them were subjective and required some thinking and application. Solving the provided practice problem sets (including questions from the reference books) helped a lot in the exams.
 
 **Study Material and References**
 
-1. Behzad Razavi - Design of Analog CMOS Integrated Circuits
-2. Hajimiri_Analog_DRAFT012021 (PDF available on the internet) 
+Communcation Systems, 5th edition- Simon Haykin
+Digital Communcation Systems- Simon Haykin
 
 **Follow-up Courses**
 
-EE719 - Mixed Signal VLSI Design
+EE706, EE740
 
 **Final Takeaways**
 
-Maryam ma'am discourages Third-year students from taking up this course due to lack of commitment from their part, and the fact that this course tends to be on the heavier side.
-This course however offers an introduction to various analog design techniques and is a part of the “analog trinity of courses” : 618, 619, and 719 - an essential set of courses to add to your repertoire if you want to go deep in analog. 
+Try to solve all the practice questions provided after watching/attending the lecture
 
 **Grading Statistics:**
-![Grades](EE618_2021_grades.png)
+![Grades](EE341_2021_grades.png)

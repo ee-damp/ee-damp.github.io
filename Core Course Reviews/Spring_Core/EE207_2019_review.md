@@ -9,16 +9,13 @@ comments: true
 tags: [Academic, Core, Second]
 ---
 
-###EE 207 – Electronic Devices and Circuits
-
-
 **Session –**
 
 Autumn 2019
 
 **Instructor –**
 
- Pradeep Nair
+Pradeep Nair
 
 **Course Content –**
 
