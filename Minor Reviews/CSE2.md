@@ -46,4 +46,3 @@ It helps to choose courses according to interest. Make sure to keep your CPI hig
 you can choose courses according to interest, not by the compulsion to complete the minor. 
 Without an inclination towards the content, a course can become fairly complex to follow. <br>
 
-**Sponsored Content**
