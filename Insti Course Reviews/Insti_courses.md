@@ -6,7 +6,7 @@ cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
-tags: [Academic,Elective]
+tags: [Academic,Institute Elective]
 ---
 
 - [CS 604 - Combinatorics (2018)](CS604_Minor_2018.md)
@@ -15,3 +15,7 @@ tags: [Academic,Elective]
 - [CS 754 - Advanced Image Processing (2018)](CS754_Minor_2018.md)
 - [CS 754 - Advanced Image Processing (2019)](CS754_Minor_2019.md)
 - [CS 754 - Advanced Image Processing (2021)](cs754_2021_2.md)
+- [PH 556 - Astrophysics (2020)](ph556_2020.md)
+- [SC 301 - Linear and Nonlinear Systems (2020)](sc301_2020.md)
+- [SC 607 - Optimization (2017)](sc607_2017.md)
+- [SC 635 - Advanced Topics in Mobile Robotics (2020)](sc617_2020.md)
