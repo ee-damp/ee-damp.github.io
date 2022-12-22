@@ -15,4 +15,4 @@ tags: [Academic,Autumn,Minor]
 - [CS 218 – DESIGN AND ANALYSIS OF ALGORITHMS(2018)](cs218_minor_2018.md)
 - [CS 228 – LOGIC FOR COMPUTER SCIENCE(2019)](cs228_minor_2019.md)
 - [CS 347 – Operating Systems (2019)](cs347_minor_2019.md)
-- [CS 475 – COMPUTER GRAPHICS (2018)](cs475_minor.md)
+<!-- - [CS 475 – COMPUTER GRAPHICS (2018)](cs475_minor.md) -->
