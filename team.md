@@ -51,9 +51,7 @@ Shreyas Nadkarni <br/>
 Aayush Rajesh<br/>
 Neeraj Prabhu<br/>
 Avi Yadav <br/>
-Rishabh Sureka<br/>
 Srishti Sharma<br/>
-Soumil Sarawgi<br/>
 Chetan Dandu <br/>
 Fathima Zarin Faizal <br/>
 Uttam Bansal <br/>
