@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: “EE 325 TAship”
-subtitle: “Millen Kanabar”
+title: EE 325 TAship
+subtitle: Millen Kanabar
 cover-img: assets/img/Blog.jpg
 thumbnail-img: assets/img/cointoss.jpg
 share-img: assets/img/cointoss.jpg
