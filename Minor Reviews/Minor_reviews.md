@@ -2,7 +2,7 @@
 layout: page
 title: Minor Roadmap
 subtitle: 
-cover-img: assets/img/Cover_study.jpg
+cover-img: assets/img/Road.jpeg
 thumbnail-img: ""
 share-img: ""
 comments: true
