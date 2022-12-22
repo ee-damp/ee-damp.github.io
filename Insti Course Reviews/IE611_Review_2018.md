@@ -1,28 +1,15 @@
-**
-
 ---
-
 layout: page
-
 title: Minor Reviews
-
 subtitle:
-
 cover-img: assets/img/Cover_study.jpg
-
 thumbnail-img: ""
-
 share-img: ""
-
 comments: true
-
 tags: [Academic]
-
 ---
 
-  
-  
-
+ 
 ### IE 611 – INTRODUCTION TO STOCHASTIC MODELS
 
   
@@ -80,4 +67,3 @@ Class notes
 
 Discrete Event Stochastic Processes: Lecture Notes for an Engineering Curriculum: Anurag Kumar, Department of Electrical Communication Engineering, Institute of Science
 Review by – Dimple Kochar<dimplekochar99@gmail.com>
-**
