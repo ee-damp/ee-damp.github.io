@@ -9,7 +9,7 @@ comments: true
 tags: [Academic,Institute Elective]
 ---
 
-HSS Electives:
+**HSS Electives:**
 - [HS 301 - Introduction to Philosophy (2021)](hs301_2021_review.md)
 - [HS 303 - Introduction to Psychology (2021)](hs303_2021_review.md)
 - [HS 305 – Reading Literature (2020)](hs305_2020_review.md)
@@ -19,7 +19,7 @@ HSS Electives:
 - [HS 307 - Sociology (2021)](hs307_2021_review.md)
 - [HS 309 - Introduction to the Study of Language (2016)](hs309_2016_review.md)
 
-Institute Electives
+**Institute Electives:**
 - [CS 604 - Combinatorics (2018)](CS604_Minor_2018.md)
 - [CS 736 - Medical Image Computing (2017)](CS736_Minor_2017.md)
 - [CS 754 - Advanced Image Processing (2017)](CS754_Minor_2017.md)
