@@ -17,8 +17,9 @@ navbar-links:
   Course Reviews:
     - Core Course Reviews: "Core Course Reviews/Core_Course_review"
     - EE Elective Reviews: "Elective Reviews/Elective_review"
-    - Minor Course Reviews: "Minor Course Reviews/Minor_courses"
     - Institute Elective Reviews: "Insti Course Reviews/Insti_courses"
+    - Minor Course Reviews: "Minor Course Reviews/Minor_courses"
+    
   Minor Roadmap: "Minor Reviews/Minor_reviews"  
   Archives: "Archives/Archive"
   # Team: "about"
