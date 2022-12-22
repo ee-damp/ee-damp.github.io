@@ -1,23 +1,12 @@
-**
-
 ---
-
 layout: page
-
 title: Minor Reviews
-
 subtitle:
-
 cover-img: assets/img/Cover_study.jpg
-
 thumbnail-img: ""
-
 share-img: ""
-
 comments: true
-
-tags: [Academic]
-
+tags: [Academic
 ---
 
   
@@ -68,4 +57,3 @@ The course covered limited content, and that too on a basic level. The proofs we
 D. Bertsekas Nonlinear programming, 2nd Edition, Athena Scientific, 1999, Nashua.
 
 Review by – Chinmay Talegaonkar.
-**
