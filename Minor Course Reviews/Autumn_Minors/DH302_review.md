@@ -55,4 +55,4 @@ No specific books were suggested, the reference material included links to onlin
 Taking this course is mandatory for students wishing to pursue a minor in Koita Centre for Digital Health (KCDH). The instructor is flexible with the evaluations, and the course is quite chill. This course, and the DH minor, are suitable for any student, regardless of the parent department.
 
 **Grading Statistics:**
-![Grades](dh302_grading2021.png)
+![Grades](dh302_grading2021.jpg)

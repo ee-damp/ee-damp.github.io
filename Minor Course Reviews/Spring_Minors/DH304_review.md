@@ -57,4 +57,4 @@ All examinations were closed book. The lecture slides and the research papers sh
 The course covers the economic perspective of healthcare and builds on ideas from basic economics courses to present more advanced concepts in economics and their applications in the healthcare industry, which makes it a perfect segue into healthcare economics for students. The course was well-organised and the grading and evaluation scheme were moderately chill.
 
 **Grading Statistics:**
-![Grades](dh304_grading2022.png)
+![Grades](dh304_grading2022.jpg)

@@ -75,4 +75,4 @@ Absolute grading was followed and an AA required >90%, while 81-90% for AB, 71-8
 This course is suitable for students who wish to focus on the aspect of health informatics dealing with foundations of healthcare. The volume of new medical terms that the course introduces can be a little overwhelming and might need a couple of revisions before the examinations, given the volume of theory that needs to be covered for each module.
 
 **Grading Statistics:**
-![Grades](bb603_grading2022.png)
+![Grades](bb603_grading2022.jpg)

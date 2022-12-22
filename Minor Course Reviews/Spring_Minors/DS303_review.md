@@ -72,4 +72,4 @@ Additional resources were shared by the instructor for each lecture as needed.
 Although this course is offered by the CSRE department, it is included in the bucket for the DH minor, along with EE 769. This course does not cover aspects exclusive to healthcare informatics, but provides a fairly basic introduction to machine learning which proves an important tool for the domain.
 
 **Grading Statistics:**
-![Grades](ds303_grading2022.png)
+![Grades](ds303_grading2022.jpg)

@@ -54,4 +54,4 @@ No specific books were suggested and any reference material required was suggest
 All in all, in terms of the content, the course covered quite a lot of basic topics that were easy to grasp, but proved a little heavy because of the volume of content covered. Nevertheless, having open book examinations eased the burden to a great extent. Unless a course project chosen involved coding, the course did not require any implementations/coding in the assignments and examinations.
 
 **Grading Statistics:**
-![Grades](dh803_grading2022.png)
+![Grades](dh803_grading2022.jpg)
