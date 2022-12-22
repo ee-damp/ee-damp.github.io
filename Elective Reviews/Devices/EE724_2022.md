@@ -22,7 +22,7 @@ Prof. Udayan Ganguly
 
 **Prerequisites**
 
-No hard pre-requisites. However, knowledge of EE207 and PH108 helps. Also, basic knowledge of MATLAB is required.
+No hard pre-requisites. However, knowledge of EE207 and PH107 helps. Also, basic knowledge of MATLAB is required.
 
 **Difficulty**
 
