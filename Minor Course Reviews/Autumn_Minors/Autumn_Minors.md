@@ -20,3 +20,5 @@ tags: [Academic,Autumn,Minor]
 - [MG 403 - Accounting and Finance (2020)](MG403_review.md)
 - [PH 251 – Classical Mechanics (2021)](PH251_Autumn_2021.md)
 - [PH 403 - Quantum Mechanics (2018)](PH403_Autumn_2018.md)
+- [SI 417 – Introduction to Probability Theory (2020)](SI417_2020_review.md)
+- [SI 424 – Statistical Inference (2021)](SI424_2021_review.md)
