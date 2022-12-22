@@ -6,6 +6,7 @@ cover-img: assets/img/Blog.jpg
 thumbnail-img: assets/img/MA111_thumbnail.jpg
 share-img: "same as thumbnail"
 comments: true
+readtime: true
 tags: [Academic, TA, Blog]
 ---
 
