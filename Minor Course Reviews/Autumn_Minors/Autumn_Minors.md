@@ -9,10 +9,14 @@ comments: true
 tags: [Academic,Autumn,Minor]
 ---
 
-- [CS 663 – Digital Image Processing (2014)](CS663_Minor_2014.md)
-- [CS 213 – DATA STRUCTURES & ALGORITHMS (2012)](cs213.md)
-- [CS 213 – DATA STRUCTURES & ALGORITHMS (2017)](cs213_2017-18.md)
-- [CS 218 – DESIGN AND ANALYSIS OF ALGORITHMS(2018)](cs218_minor_2018.md)
-- [CS 228 – LOGIC FOR COMPUTER SCIENCE(2019)](cs228_minor_2019.md)
+
+- [CS 218 – Design and Analysis of Algorithms (2018)](cs218_minor_2018.md)
+- [CS 228 – Logic for Computer Science (2019)](cs228_minor_2019.md)
 - [CS 347 – Operating Systems (2019)](cs347_minor_2019.md)
-- [CS 475 – COMPUTER GRAPHICS (2018)](cs475_minor.md)
+- [DS 203 - Programming for Data Science (2021)](DS203_review.md)
+- [DH 302 - Introduction to Public Health Informatics (2021)](DH302_review.md)
+- [DH 803 – Wearable Health Technologies (2022)](DH803_review.md)
+- [MG 401 - Marketing Management (2021)](MG401_review.md)
+- [MG 403 - Accounting and Finance (2020)](MG403_review.md)
+- [PH 251 – Classical Mechanics (2021)](PH251_Autumn_2021.md)
+- [PH 403 - Quantum Mechanics (2018)](PH403_Autumn_2018.md)
