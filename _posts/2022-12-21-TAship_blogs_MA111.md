@@ -2,7 +2,7 @@
 layout: post
 title: MA 111 TAship
 subtitle: Raavi Gupta
-cover-img: assets/img/TA_blogs.jpg
+cover-img: assets/img/Blog.jpg
 thumbnail-img: assets/img/MA111_thumbnail.jpg
 share-img: "same as thumbnail"
 comments: true
