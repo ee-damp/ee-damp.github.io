@@ -1,23 +1,12 @@
-**
-
 ---
-
 layout: page
-
 title: Minor Reviews
-
 subtitle:
-
 cover-img: assets/img/Cover_study.jpg
-
-thumbnail-img: ""
-
+thumbnail-img: "
 share-img: ""
-
 comments: true
-
 tags: [Academic]
-
 ---
 
   
@@ -93,4 +82,3 @@ Due to the pandemic, we didn’t have our second quiz and endsem, and some porti
 *Also the field of Game Theory is much more about just games and has multitudinous applications in fields ranging from economics, business, biology, networks, war, politics, and many more.
 
 Review by – Anjali Yadav (anjaliyadavay3008@gmail.com)
-**
