@@ -37,4 +37,3 @@ If you are looking to do this minor to assist career ambitions in physics, while
 associated courses may not seem very helpful, it does look good on the resume, and since you will be taking up 
 multiple physics electives anyway, might as well tag a few (five) of them as minors. <br>
 
-**Sponsored Content**
