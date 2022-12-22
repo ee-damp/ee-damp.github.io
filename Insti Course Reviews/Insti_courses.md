@@ -36,4 +36,4 @@ tags: [Academic,Institute Elective]
 - [SC 301 - Linear and Nonlinear Systems (2019)](sc301_2020.md)
 - [SC 607 - Optimization (2017)](sc607_2017.md)
 - [SC 631 - Games and Information (2017)](sc631.md)
-- [SC 635 - Advanced Topics in Mobile Robotics](sc635_2020.md)
+- [SC 635 - Advanced Topics in Mobile Robotics (2019)](sc635_2020.md)
