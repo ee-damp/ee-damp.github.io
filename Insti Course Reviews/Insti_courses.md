@@ -33,7 +33,6 @@ tags: [Academic,Institute Elective]
 - [PH 556 - Astrophysics (2020)](ph556_2020.md)
 - [SC 301 - Linear and Nonlinear Systems (2020)](sc301_2020.md)
 - [SC 607 - Optimization (2017)](sc607_2017.md)
-- [SC 635 - Advanced Topics in Mobile Robotics (2020)](sc617_2020.md)
 - [SC 301 - Linear and Nonlinear Systems (2019)](sc301_2020.md)
 - [SC 607 - Optimization (2017)](sc607_2017.md)
 - [SC 631 - Games and Information (2017)](sc631.md)
