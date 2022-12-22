@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: EE308 - Control Systems (2020)
 subtitle:
@@ -9,9 +9,6 @@ comments: true
 tags: [Core, Third]
 ---
 
-
-
-### EE 309 – Control Systems
 
 
 **Course offered in:**

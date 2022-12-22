@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EE789 ALGORITHMIC DESIGN OF DIGITAL SYSTEMS 
+title: EE789 - Algorithmic Design of Digital Systems (2021) 
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

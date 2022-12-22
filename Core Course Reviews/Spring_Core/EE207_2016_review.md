@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Course Reviews
-subtitle: EE207 - Electronic Devices
+title: EE207 - Electronic Devices
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

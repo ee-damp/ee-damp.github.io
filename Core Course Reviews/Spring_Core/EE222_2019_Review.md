@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Reviews
+title: EE 222 – Electrical Machines and Power Electronics (2018)
 subtitle:
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
@@ -11,10 +11,6 @@ tags: [Academic]
 
 
 
-
-
-
-### EE 222 – Electrical Machines and Power Electronics
 
 
 

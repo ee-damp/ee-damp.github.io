@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Course Reviews
-subtitle: EE 207 - Electronic Devices (2018 BTech)
+title: EE 207 - Electronic Devices (2018 BTech)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
 tags: [Academic, Core, Second]
 ---
-
-### EE 207 – ELECTRONIC DEVICES
 
 **Academic year:**
 

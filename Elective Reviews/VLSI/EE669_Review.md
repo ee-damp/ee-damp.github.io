@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EE 669 - VLSI TECHNOLOGY
+title: EE 669 - VLSI Technology (2021)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

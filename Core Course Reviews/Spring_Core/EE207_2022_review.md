@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EE 207 Electronic Devices (2022)
-cover-img: ""
+cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true

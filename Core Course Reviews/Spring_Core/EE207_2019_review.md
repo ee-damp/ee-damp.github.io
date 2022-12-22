@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Course Reviews
-subtitle: EE 207 - Electronic Devices (2019)
+title: EE 207 - Electronic Devices (2019)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

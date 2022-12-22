@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Course Reviews
-subtitle: EE222 - Electronic Machines and Power Electronics (2015)
+title: EE222 - Electronic Machines and Power Electronics (2015)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
@@ -9,7 +8,6 @@ comments: true
 tags: [Academic, Core]
 ---
 
-### EE 222 – ELECTRICAL MACHINES AND POWER ELECTRONICS
 
 **Academic Year:** 2014-2015
 

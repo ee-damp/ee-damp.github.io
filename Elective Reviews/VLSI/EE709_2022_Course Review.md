@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EE 709 – Testing and Verification of VLSI Circuits
+title: EE 709 – Testing and Verification of VLSI Circuits (2022)
 cover-img: assets/img/EE709_Grades.png
 thumbnail-img: ""
 share-img: ""

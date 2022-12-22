@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Course Reviews
-subtitle:  EE 230 – Analog Lab (2018)
+title:  EE 230 – Analog Lab (2018)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
@@ -10,7 +9,6 @@ tags: [Academic, Lab]
 ---
 
 
-### EE230:Analog Lab
 
 **Year:** 2017-18 Spring Semester
 

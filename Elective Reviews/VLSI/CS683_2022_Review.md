@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Course Reviews
-subtitle: CS 683 - Advanced Computer Architecture Autumn 2022
+title: CS 683 - Advanced Computer Architecture Autumn 2022
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Course Reviews
-subtitle: EE 210 - Signals and systems (2013)
+title: EE 210 - Signals and systems (2013)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
@@ -9,9 +8,8 @@ comments: true
 tags: [Academic, Core, Second]
 ---
 
-###EE 210: SIGNALS AND SYSTEMS
 
-**Academic Year :* 
+**Academic Year :** 
 
 Spring 2013
 

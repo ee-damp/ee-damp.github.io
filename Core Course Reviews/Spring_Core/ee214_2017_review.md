@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Course Reviews
-subtitle: EE214 - Digital Circuits Lab (2017)
+title: EE214 - Digital Circuits Lab (2017)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
@@ -9,7 +8,6 @@ comments: true
 tags: [Academic, Core, Lab]
 ---
 
-### EE 214 – DIGITAL LAB
 
 **Year:** 2016-17 Spring Semester
 

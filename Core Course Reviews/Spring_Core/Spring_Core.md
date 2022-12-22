@@ -13,7 +13,7 @@ tags: [Academic,Spring,Core]
 - [EE 207 –  Electronic Devices (2018 BTech)](EE207_2018BTech_review.md)
 - [EE 207 –  Electronic Devices (2018 DD)](EE207_2018DD_review.md)
 - [EE 207 -  Electronic Devices (2019)](EE207_2019_review.md)
-- [EE 207 -  Electronic Devices (2021)](EE207_2021_review.md)
+- [EE 207 -  Electronic Devices (2021)](EE207_2021.md)
 - [EE 207 -  Electronic Devices (2022)](EE207_2022_review.md)
 - [EE 210 - Signals and systems (2018)](EE210_2018_review.md)
 - [EE 214 - Digital Circuits Lab (2017)](ee214_2017_review.md)

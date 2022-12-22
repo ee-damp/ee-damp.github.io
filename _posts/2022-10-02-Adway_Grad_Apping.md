@@ -6,7 +6,7 @@ cover-img: /assets/img/Grad.jpg
 thumbnail-img: /assets/img/Grad.jpg
 share-img: /assets/img/Grad.jpg
 readtime: true
-tags: [Blog, Adway]
+tags: [Academic, Blog, Apping]
 ---
 
 A little over a month ago, I found myself being asked for tips on the JEE. Having completely cut myself off from the system for over two years, I realized that I had become incapable of providing any meaningful advice. And while that will not happen with the grad school application process, for reasons including but not limited to there being fewer elements of chance and subjectivity, when asked to write something “[similar to my intern blog](https://sites.google.com/view/adwaygirish/blogs/7-21-intern?authuser=0)”, I wasn’t going to say no. This is very different from the former though, being more advice-heavy and less personal (though I chime in as needed). Incidentally, I feel the need to mention how nearly everyone who read the former, in spite of my leaving the ending ambiguous, expected that I would actually join TI, missing the point entirely (being that you have to give time for things to settle, and they usually have a way of working out). Clearly, I must do a more transparent job this time around, and that this certainly is.

@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Course Reviews
-subtitle: EE 236 – Electronic Devices Lab(2017)
+title: EE 236 – Electronic Devices Lab(2017)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

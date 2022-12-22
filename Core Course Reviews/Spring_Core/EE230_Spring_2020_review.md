@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Course Reviews
-subtitle: EE230 – ANALOG LAB(2020)
+title: EE230 – Analog Lab (2020)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
 tags: [Academic, Lab]
 ---
-
-### EE230 – ANALOG LAB
 
 **Instructor:**
 

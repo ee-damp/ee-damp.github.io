@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EE 236 - Electronic Devices Lab
+title: EE 236 - Electronic Devices Lab (2022)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""

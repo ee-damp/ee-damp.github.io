@@ -1,14 +1,12 @@
 ﻿---
 layout: page
-title: Course Reviews
-subtitle: EE 230 – Analog Lab (2016)
+title: EE 230 – Analog Lab (2016)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
 tags: [Academic, Core]
 ---
-# EE 230 – ANALOG LAB
 
 **Semester**  – Spring 2016
 
