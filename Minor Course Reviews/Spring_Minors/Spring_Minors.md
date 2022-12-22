@@ -19,6 +19,9 @@ tags: [Academic,Spring,Minor]
 - [IE 616 - Decision Analysis and Game Theory (2019)](IE616_Review_2019.md)
 - [MG 402 - Human Resource Management (2021)](MG402_review.md)
 - [MG 406 - Operations Management (2020)](MG406_review.md)
+- [PH 410 - Statistical Physics (2022)](PH410_Spring_2022.md)
+- [PH 534 - Quantum Information and Computing (2022)](PH534_Spring_2022.md)
+- [PH 544 - General Relativity (2022)](PH544_Spring_2022.md)
 
 <!-- - [CS 604 – Combinatorics (2018)](CS604_Minor_2018.md)
 - [CS 736 – ALGORITHMS FOR MEDICAL IMAGE PROCESSING (2017)](CS736_Minor_2017.md)
