@@ -18,6 +18,7 @@ tags: [Academic,Elective,VLSI]
 - [EE 671 - VLSI Design (2021)](EE671_2021_Review.md)
 - [EE 672 - Microelectronics Lab (2021)](EE672_2021_Review.md)
 - [EE 677 - Introduction to VLSI CAD (2021)](EE677_2021_Review.md)
+- [EE 677 - Introduction to VLSI CAD (2022)](ee677_2022_review.md)
 - [EE 709 - Testing and Verification of VLSI Circuits (2022)](EE709_2022.md)
 - [EE 719 – Mixed Signal VLSI Design (2022)](EE719_2022.md)
 - [EE 735 – Microelectronics Simulations Lab (2021)](EE735_2021_Review.md)

@@ -25,6 +25,7 @@ tags: [Academic,Autumn,Core]
 - [EE 227 - Microelectronics (2016)](EE227_2016_review.md)
 - [EE 227 - Microelectronics (2017)](EE227_2017_review.md)
 - [EE 229 - Signal Processing I (2021)](EE229_2021_Review.md)
+- [EE 229 - Signal Processing I (2022)](EE229_2022_Review.md)
 - [EE 236 - Electronic Devices Lab (2018)](EE236_Autumn_2018_review.md)
 - [EE 301 - Electromagnetic Waves (2021)](EE301_2021_Review.md)
 - [EE 309 - Microprocessors (2016)](EE309_16_review.md)
