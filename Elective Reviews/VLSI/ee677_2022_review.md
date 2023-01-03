@@ -78,4 +78,3 @@ This is an extremely interesting and recommended course for those interested in 
 
 **Grading Statistics:**
 ![Grades](ee677_2022_grades.png)
-The grading was very lenient, for a better idea one can refer the stats on ASC.

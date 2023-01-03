@@ -9,6 +9,7 @@ comments: true
 tags: [Academic,Elective,Devices]
 ---
 
+- [EE 635 – Applied Linear Algebra (2022)](EE635_2022_Review.md)
 - [EE 636 - Matrix Computations (2022)](EE636_2022.md)
 - [EE 649 – Finite Fields and their Applications (2021)](EE649_2021_Review.md)
 - [EE 710 - Large Sparse Matrix Computations (2017)](EE710_2017.md)
