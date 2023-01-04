@@ -39,9 +39,9 @@ EE 620 was later dropped as a prerequisite, and important parts from that course
     - Time Dependent Dielectric Breakdown (TDDB)
     - Variability and Self Heating impact on reliability
 - Flash memory, scaling and reliability (30%)
-    -NOR Flash (Floating Gate, Mirror Bit)
-    -NAND Flash (Floating Gate, 2D)
-    -NAND Flash (3D NAND)
+    - NOR Flash (Floating Gate, Mirror Bit)
+    - NAND Flash (Floating Gate, 2D)
+    - NAND Flash (3D NAND) 
 
 **Feedback on Lectures**
 

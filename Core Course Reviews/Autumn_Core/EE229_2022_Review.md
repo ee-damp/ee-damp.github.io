@@ -68,4 +68,4 @@ Specialization Electives related to Signal Processing for DD-Communication and S
 A very good introduction to basic concepts of signals and systems. 
 
 **Grading Statistics:**
-![Grades](229_grades_2022.png)
+![Grades](229_grades_2022.jpg)
