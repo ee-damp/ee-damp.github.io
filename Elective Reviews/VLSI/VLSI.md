@@ -16,6 +16,7 @@ tags: [Academic,Elective,VLSI]
 - [EE 668 - System Design (2018)](EE668_2018.md)
 - [EE 669 - VLSI TECHNOLOGY (2021)](EE669_Review.md)
 - [EE 671 - VLSI Design (2021)](EE671_2021_Review.md)
+- [EE 671 - VLSI Design (2022)](EE671_2022_Review.md)
 - [EE 672 - Microelectronics Lab (2021)](EE672_2021_Review.md)
 - [EE 677 - Introduction to VLSI CAD (2021)](EE677_2021_Review.md)
 - [EE 677 - Introduction to VLSI CAD (2022)](ee677_2022_review.md)
@@ -27,4 +28,5 @@ tags: [Academic,Elective,VLSI]
 - [EE 788 – Advanced CMOS Logic and Flash Memory Devices (2021)](EE788_2021.md)
 - [EE 788 – Advanced CMOS Logic and Flash Memory Devices (2022)](EE788_2022_review.md)
 - [EE 789 - Algorithmic Design of Digital Systems (2021)](EE789_2021_Review.md)
+- [EE 789 - Algorithmic Design of Digital Systems (2022)](EE789_2022_Review.md)
 - [EE 800 – High Speed Interconnects- Signaling and Synchronization (2021)](EE800_2021.md)
