@@ -21,7 +21,7 @@ navbar-links:
     - Minor Courses: "Minor Course Reviews/Minor_courses"
 
   Minor Roadmap: "Minor Reviews/Minor_reviews"  
-  Intern Blogs: "Intern Blogs/Intern_blogs"
+  #Intern Blogs: "Intern Blogs/Intern_blogs"
   Archives: "Archives/Archive"
   Team: "team"
   Blog: "Blog/index"
