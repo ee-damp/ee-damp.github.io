@@ -24,7 +24,10 @@ navbar-links:
   #Intern Blogs: "Intern Blogs/Intern_blogs"
   Archives: "Archives/Archive"
   Team: "team"
-  Blog: "Blog/index"
+  Blog Series: 
+    - TA-ship Tales: "Blog/TA"
+    - Apping: "Blog/Apping"
+    - Internships: "Blog/Intern_Blogs/Intern_blogs"
   Contact Us: "contact"
   
   # Author's home: "https://deanattali.com"
