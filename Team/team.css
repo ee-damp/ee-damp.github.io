@@ -63,10 +63,10 @@ body {
   align-items:center;
   z-index:10;
   flex-direction:column;
+  background-color: rgba(255, 255, 255, 0.4);
   backdrop-filter:blur(15px);
   box-shadow:0 -10px 10px rgba(0,0,0,.1);
   border:1px solid rgba(255, 255, 255, 0.2);
-  color:#fff;
   transition:bottom .4s ease-in-out;
 }
 
@@ -74,10 +74,10 @@ body {
   bottom: 0px;
 }
 .container .card .content .contentBox h3{
-  color:#fff;
+  color:black;
   text-transform:uppercase;
   letter-spacing:2px;
-  font-weight:500;
+  font-weight:600;
   font-size:18px;
   text-align:center;
   line-height:1.1em;
@@ -114,14 +114,14 @@ body {
 }
 
 .container .card .content .social li a{
-  color:#fff;
+  color:black;
   font-size:24px;
 }
 .f:hover{
   color: #4287f5;
 }
 .i:hover{
-  color:#fc44b3;
+  color:white;
 }
 .t:hover {
   color:#448efc;

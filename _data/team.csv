@@ -1,20 +1,51 @@
-Timestamp,Name,Year,Email,Phone,Linkedin,Photo
-7/9/2023 16:51:51,Asif Shaikh ,4th,asifshaikhhere@gmail.com,9370139853,https://www.linkedin.com/in/asif-shaikh-251ba81bb,https://drive.google.com/uc?id=1UEjgfb2dl_dI_CR-VTrnd6TC4eMPW5Oh
-7/9/2023 16:56:07,Vinamra Baghel,5th,thevinamrabaghel@gmail.com,7977905377,https://www.linkedin.com/in/vinamrabaghel,https://drive.google.com/uc?id=1DguwxU5ArePYs23DXNAkCGRP5v4XSt51
-7/9/2023 16:56:55,Srushti Bangde ,4th,srush4303@gmail.com,7989629841,www.linkedin.com/in/srushtibangde,https://drive.google.com/uc?id=1ZRBlJd2i1wrf4tpBVmxV2ClUxBr_XdsN
-7/9/2023 17:02:14,Rishabh Shetty,3rd,rishabhshetty2501@gmail.com,9004244373,https://www.linkedin.com/in/rishabh-shetty-a70a30226/,https://drive.google.com/uc?id=1tS-yr7vb_UKnH9VDm1-P8JwL1eJXp_rG
-7/9/2023 17:11:04,Srishti Sharma,4th,srishtis0507@gmail.com,7424863981,https://www.linkedin.com/in/srishtis19,https://drive.google.com/uc?id=1aiBG3_CJC860NZfHfkyZa-S0rAhhC8Qk
-7/9/2023 17:59:21,Arya Vishe,3rd,aryavishe601@gmail.com,8291466413,www.linkedin.com/in/aryavishe,https://drive.google.com/uc?id=1T5Fs20YcEwuHHE4cC_6uH-aTdr6vzaMF
-7/9/2023 18:29:26,Aditya Sriram,4th,aweditya@gmail.com,7448099281,https://www.linkedin.com/in/adityasriram3/,https://drive.google.com/uc?id=1boy4amNK_zqhOdM9ymRbiE4mAzCJBJuC
-7/9/2023 19:18:57,Nutan Choudhary,5th,nutanc2002@gmail.com,8209482025,https://www.linkedin.com/in/nutan-choudhary-95b353194/,https://drive.google.com/uc?id=1kCVo8RcvXqWKZRPaC-m61DQAL-wjuJUz
-7/9/2023 20:46:47,Aryan Bhaskar,3rd,aryan.bhaskar2003@gmail.com,9993220571,https://www.linkedin.com/in/aryan-bhaskar-7a1391228,https://drive.google.com/uc?id=1o5m-cuHhxsEsx5ZBD9w4ldfwLi1AH5SV
-7/9/2023 22:11:43,Keshav Singhal,4th,keshavsinghal2002@gmail.com,9560823507,https://www.linkedin.com/in/keshav-singhal-/,https://drive.google.com/uc?id=1qp_BKcf5W6VY1rJ6bLVxvxi-KWziisml
-7/9/2023 22:15:06,Raavi Gupta,4th,raavi02g@gmail.com,8079047813,https://www.linkedin.com/in/raavi-gupta/,https://drive.google.com/uc?id=17dshpVktDhzVptNkx-CqsWPB5Cjms7zm
-7/9/2023 22:27:17,Sharvaree Sinkar,5th,sharvareesinkar21@gmail.com,8275264803,,https://drive.google.com/uc?id=1yQfnYQwN5UxJUshnhKe0UPwoNtj0SBE-
-7/9/2023 22:35:39,Aditya Byju,4th,adibyju7@gmail.com,6282200692,https://www.linkedin.com/in/adityabyju,https://drive.google.com/uc?id=1sEZF1AjHh9zIAw_MAlkLqecWzig-eB9K
-7/9/2023 22:52:41,Pradyuman Agarwal ,3rd,agarwalpradyuman@gmail.com,8777015253,https://www.linkedin.com/in/pradyuman-agarwal-625991223,https://drive.google.com/uc?id=1toZuZ3Wlgj3sutQ0XVRPhbGyjgBgY-V9
-7/10/2023 0:57:03,Shobhit Maheshwari ,3rd,shobhitm.iitb@gmail.com,9883901315,https://in.linkedin.com/in/shobhit-maheshwari-7800021ba,https://drive.google.com/uc?id=1I2FSeR8itAaFF8fGB-tPflHbeMKbISQl
-7/10/2023 7:10:45,Ankur Verma,4th,av253356@gmail.com,8619262299,linkedin.com/in/ankur-verma-30b50420b,https://drive.google.com/uc?id=1hpDCsKfAfhBS90MNe6MG7nwelG-e9ahd
-7/10/2023 15:53:15,Sarvadnya Desai,3rd,sarvadnyasonic@gmail.com,8655919703,https://www.linkedin.com/in/sarvadnya-desai-a31965250/,https://drive.google.com/uc?id=1U2rXePIIKOFVb4fnLFRy1P6g2Ns315aG
-7/11/2023 17:57:26,Jainesh Mehta,3rd,jaineshmehta11@gmail.com,8999105675,https://www.linkedin.com/in/jainesh-mehta-0123b4242/,https://drive.google.com/uc?id=1ECtO1ARMbacldJs3vpl5vrL25xBeHI5g
-7/12/2023 18:52:33,Kumkum Narang,3rd,kumkumnarang.yg@gmail.com,8930756475,https://www.linkedin.com/in/kumkum-narang-665252259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeReK9xa0RX%2Bc%2FmPs1zgleQ%3D%3D,https://drive.google.com/uc?id=1sBFSVHiCxFwtQOKV3sokrZdeqVMKKkvm
+Name,Year,Email,Phone,Linkedin
+Adit Akarsh,5th,adit.akarsh@iitb.ac.in,9867201674,https://www.linkedin.com/in/aditakarsh27
+Aditya Byju,4th,adibyju7@gmail.com,6282200692,https://www.linkedin.com/in/adityabyju
+Aditya Sriram,4th,aweditya@gmail.com,7448099281,https://www.linkedin.com/in/adityasriram3/
+Amruta Parulekar,4th,amruta.parulekar02@gmail.com,7977994881,https://www.linkedin.com/in/amruta-parulekar-735976221
+Ankur Verma,4th,av253356@gmail.com,8619262299,linkedin.com/in/ankur-verma-30b50420b
+Anmol Saraf,4th,,,
+Aparna Agrawal ,3rd,,,
+Arya Vishe,3rd,aryavishe601@gmail.com,8291466413,www.linkedin.com/in/aryavishe
+Aryan Bhaskar,3rd,aryan.bhaskar2003@gmail.com,9993220571,https://www.linkedin.com/in/aryan-bhaskar-7a1391228
+Ashish Prasad,3rd,,,
+Asif Shaikh ,4th,asifshaikhhere@gmail.com,9370139853,https://www.linkedin.com/in/asif-shaikh-251ba81bb
+Ayush Raisoni ,4th,ayushraisoni@gmail.com,7066519824,https://www.linkedin.com/in/ayush-raisoni-a9794322b/
+Bhavya Singh,4th,bhavyasingh020901@gmail.com,8879712847,https://in.linkedin.com/in/bs-291
+Dev Pratap Singh,5th,devpratap2002@gmail.com,7424863981,https://bit.ly/3Y3kWc1
+Eeshaan Jain,5th,jaineeshaan17@gmail.com,8668473114,https://www.linkedin.com/in/eeshaanjain/
+Garima Dewangan ,5th,dewangan.garima.15@gmail.com,9082257416,https://www.linkedin.com/in/garima-dewangan-098984192/
+Ishaan Manhar,3rd,ishaanmanhar2002@gmail.com,9826088579,https://in.linkedin.com/in/ishaan-manhar-4164b5223
+Jahnvi Rohela ,4th,,,
+Jainesh Mehta,3rd,jaineshmehta11@gmail.com,8999105675,https://www.linkedin.com/in/jainesh-mehta-0123b4242/
+Joel Anto Paul ,3rd,antojoel625@gmail.com,9969596823,https://www.linkedin.com/in/joel-anto-paul-891205264
+Jujhaar Singh,4th,,,
+Kartik Chikkanagoudar,3rd,,,
+Kartik Singhal,3rd,singhal.kartik1234@gmail.com,9871027639,https://www.linkedin.com/in/kartik-singhal-941aab173
+Kumkum Narang,3rd,kumkumnarang.yg@gmail.com,8930756475,https://www.linkedin.com/in/kumkum-narang-665252259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeReK9xa0RX%2Bc%2FmPs1zgleQ%3D%3D
+Kushagra Mishra,4th,kushagramishra8@gmail.com,9717289102,
+Maalavika C S,3rd,,,
+Malyala Preethi Sravani,4th,,,
+Neeraj Prabhu,4th,neerajprabhu2012@gmail.com,7738367885,
+Nirmal shah,5th,,,
+Nutan Choudhary,5th,nutanc2002@gmail.com,8209482025,https://www.linkedin.com/in/nutan-choudhary-95b353194/
+Pradyuman Agarwal ,3rd,agarwalpradyuman@gmail.com,8777015253,https://www.linkedin.com/in/pradyuman-agarwal-625991223
+Pranava Singhal,4th,pranava227@gmail.com,7348831835,https://www.linkedin.com/in/pranava-singhal-84256620b/
+Preethi Malyala,4th,preethimalyala@gmail.com,09699488605,
+Rishabh,4th,rishabh0926@gmail.com,9986660340,https://www.linkedin.com/in/rishabh-ravi-4a3230222
+Rishabh Shetty,3rd,rishabhshetty2501@gmail.com,9004244373,https://www.linkedin.com/in/rishabh-shetty-a70a30226/
+Ronil Mandavia ,4th,mandaviaronil1508@gmail.com,7045725332,www.linkedin.com/in/ronil-mandavia-a227451b8
+Sahil Garg ,4th,sahil.garg891@gmail.com,8800185809,https://www.linkedin.com/in/sahilgarg29/
+Sameep Chattopadhyay ,4th,sameep.ch.2002@gmail.com,9869576246,https://www.linkedin.com/in/sameep-chattopadhyay-606472214
+Sarvadnya Desai,3rd,sarvadnyasonic@gmail.com,8655919703,https://www.linkedin.com/in/sarvadnya-desai-a31965250/
+Sharvaree Sinkar,5th,sharvareesinkar21@gmail.com,8275264803,
+Shivam Patel,4th,,,
+Shobhit Maheshwari ,3rd,shobhitm.iitb@gmail.com,9883901315,https://in.linkedin.com/in/shobhit-maheshwari-7800021ba
+Shravani Kode ,3rd,shravani.kode@gmail.com,9324286805,www.linkedin.com/in/shravani-kode
+Siddhant Pravin Shingade,5th,siddhantshingade@gmail.com,7744883404,https://www.linkedin.com/in/siddhant-shingade-712a8b194
+Srushti Bangde ,4th,srush4303@gmail.com,7989629841,www.linkedin.com/in/srushtibangde
+Tanmay Dokania,4th,dokania.tanmay@gmail.com,6376138052,https://www.linkedin.com/in/tanmay-dokania-1b32901bb
+Tanmay Joshi,4th,tanmay.30.joshi@gmail.com,7738727210,
+Utakarsh Thakare,5th,udthmi@gmail.com,9503341074,https://www.linkedin.com/in/utakarsh-thakare-629850192
+Vinamra Baghel,5th,thevinamrabaghel@gmail.com,7977905377,https://www.linkedin.com/in/vinamrabaghel
+Yashas M Salian,3rd,yashas.msalian@gmail.com,9148661990,https://in.linkedin.com/in/yashas-m-salian-b266a2222

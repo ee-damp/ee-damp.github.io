@@ -21,12 +21,12 @@ navbar-links:
     - Minor Courses: "Minor Course Reviews/Minor_courses"
 
   Minor Roadmap: "Minor Reviews/Minor_reviews"  
-  #Intern Blogs: "Intern Blogs/Intern_blogs"
+  Intern Blogs: "new_curriculum/new_curriculum"
   Archives: "Archives/Archive"
-  Team: "team"
+  Team: "Team/team"
   Blog Series: 
     - TA-ship Tales: "Blog/TA"
-    - Apping: "Blog/Apping"
+    - Grad School Applications: "Blog/Apping"
     - Internships: "Blog/Intern_Blogs/Intern_blogs"
   Contact Us: "contact"
   
