@@ -8,15 +8,15 @@ share-img: ""
 readtime: true
 tags: [Academic, Software, Blog]
 ---
- **Basic Information:**
+### Basic Information
 
- **- Name:** Anmol Saraf\
- **- Curriculum: Dual Degree-** Electrical Engineering BTech\
- **- Year of Study:** 4th\
- **- Company/University of Internship:** Amazon (Software)\
- **- Year of Internship (eg. \'23 Summers, \'22 Winters):** '23 Summers\
- **- Mode of Internship (Online/Offline/Hybrid):** Offline\
- **- Duration of Internship:** 8 weeks
+- **Name** Anmol Saraf
+- **Curriculum:** Electrical Engineering BTech
+- **Year of Study:** 4th
+- **Company/University of Internship:** Amazon (Software)
+- **Year of Internship (eg. \'23 Summers, \'22 Winters):** '23 Summers
+- **Mode of Internship (Online/Offline/Hybrid):** Offline
+- **Duration of Internship:** 8 weeks
 
 While applying for internships during the selection period, my target was to get a Software or an ML Oriented Intern. However, I was only applying to some of the software companies offering internships, this choice was made by me based on certain aspects like the company's work, the scope of learning, etc. To prepare for Software related internships, I mainly used leetcode to practice my coding skills, which has a range of questions that have a high chance of being asked in interviews. Apart from this, some fundamental revisions of OOPs and DSA are required, for which I used various random web pages and books that can be easily found online. For Amazon, the coding round was straightforward and was just a test of CS101. For the interview round, the interviewer asked me some basic questions about DSA and their applications. After this, I was asked to write the code on paper for various functions needed for one application using the Data Structure. Some relevant questions by the interviewer followed this, but this was mainly for the software part of the interview. The interviewer can ask some basic HR-related questions, but mostly this was the whole interview. So during internship applications, as we get into the semester, it becomes harder and harder to give time to preparation and academics. It helps to start preparing for the interviews early so you don't have to juggle the two later.
 

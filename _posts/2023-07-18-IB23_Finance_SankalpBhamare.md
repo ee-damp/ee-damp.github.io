@@ -9,16 +9,16 @@ readtime: true
 tags: [Academic, Finance, Blog]
 ---
 
-**My Journey: From an Electrical Engineering Student to a Morgan Stanley Strats and Quant Intern**
+### My Journey: From an Electrical Engineering Student to a Morgan Stanley Strats and Quant Intern
 
-**Introduction:**
+#### Introduction:
 
 Hi everyone, I am Sankalp Bhamare, a third-year UG student studying
 Electrical Engineering at IIT Bombay, sharing my journey to joining
 Morgan Stanley as a 2023 Summer Strats and Quant Intern, a 10 weeks
 program offered under the Fixed Income Division.
 
-**Internship Preparation:**
+#### Internship Preparation:
 
 During my internship preparation, my primary focus was on domains
 related to technology, specifically Software Development and FinTech,
@@ -44,7 +44,7 @@ continuous skill-building, allowed me to align myself with the desired
 domains and enhance my prospects for securing the internship
 opportunity.
 
-**The Interview Process:**
+#### The Interview Process:
 
 During the interview process at Morgan Stanley, the questions are
 specifically focused on concepts in C++ and Python. Additionally, there
@@ -53,7 +53,7 @@ covered in first-year courses, such as matrices, differential equations,
 and probability, and in general questions evaluate the problem-solving
 skills of the candidate.
 
-**Navigating Challenges:**
+#### Navigating Challenges:
 
 No journey is without its challenges, and mine was no exception. Prior
 to receiving the opportunity at Morgan Stanley, I encountered rejections

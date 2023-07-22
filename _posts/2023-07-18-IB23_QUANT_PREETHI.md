@@ -9,14 +9,14 @@ readtime: true
 tags: [Academic, Quant, Blog]
 ---
 
-**Basic Information:**
+### Basic Information
 
 Hi! I am Preethi, and I'm writing this during the summer following my
 third year. I am from the Department of ELectrical Engineering. I am
 currently (summer, '23) interning at Goldman Sachs (Bengaluru). It is an
 offline internship for a duration of 8 weeks. (It's fun!)
 
-**Getting into the internship:**
+### Getting into the Internship:
 
 I didn't have a preference for any profile. I was unaware of my
 interests and strengths, and I was terrified of ending up as the only
@@ -78,7 +78,7 @@ processing). Finally, 3 days after the day 1 interviews, the extended
 selections for the companies came in, and I was overjoyed to see my name
 in there. It was a huge relief.
 
-**During the internship:**
+### During the internship:
 
 My internship started on 15th May, in Bengaluru. The city is amazing,
 except for the transport, which is BAD. Luckily, I got a PG very close

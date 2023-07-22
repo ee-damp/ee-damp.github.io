@@ -15,7 +15,7 @@ at AlphaGrep. At the time of writing this blog, I'm almost at the end of
 my internship, with the last few days remaining. It is a 2 months
 offline internship, based in Gurgaon.
 
-**Months before the internship season started:**
+### Months before the internship season started:
 
 Till my 2nd year, I had no clue of what a quant profile is and how do I
 get into it. I got to know about it only when one of my friends
@@ -37,7 +37,7 @@ consistent enough. In the last one month, I also looked upon the
 internet and started solving puzzle and probability questions from sites
 such as brainstellar.
 
-**The Internship Season:**
+### The Internship Season:
 
 It was almost the mid of July when the final resume was needed to be
 submitted to and verified by the PT cell. Just after the resume
@@ -54,7 +54,7 @@ Optiver, Samsung Korea and Morgan Stanley, but I wasn't able to get into
 their final selection list. Eventually, I got interviewed and selected
 by AlphaGrep, exactly the profile that I wished to go into!
 
-**The test and the interview:**
+### The test and the interview:
 
 The test for AlphaGrep consisted of 5 coding questions, which was done
 to be using only C++ and no other programming language was allowed. Due
@@ -69,7 +69,7 @@ puzzles and probability-based questions, except a single coding problem.
 The interviewers were very nice and frank, and made me comfortable in
 case I wasn't able to answer properly.
 
-**My work profile:**
+### My work profile:
 
 I'm working as a Quantitative Trader Intern in a mid-frequency trading
 (MFT) team. Being in a MFT, not much of my coding skills is put into use
@@ -89,7 +89,7 @@ helped me get comfortable with this field easily. But even if one
 doesn't has this knowledge apriori, one can learn it along the way while
 doing the internship.
 
-**Conclusion:**
+### Conclusion:
 
 It is a highly competitive and challenging field. As it involves
 thinking about various market scenarios and trying several different

@@ -10,14 +10,14 @@ tags: [Academic, Analytics, Blog]
 ---
 
 
-**Basic Information:**\
-**- Name:** Annie D’souza\
-**- Curriculum:** EE Dual Degree, Spec. in CSP\
-**- Year of Study:** 4th\
-**- Company/University of Internship:** World Wide Technology\
-**- Year of Internship (eg. '23 Summers, '22 Winters):** 23’ Summers\
-**- Mode of Internship (Online/Offline/Hybrid):** Offline\
-**- Duration of Internship:** 8 weeks
+### Basic Information
+- **Name** Annie D’souza
+- **Curriculum:** EE Dul Degree, Spec. in CSP
+- **Year of Study:** 4th
+- **Company/University of Internship:** World Wide Technology
+- **Year of Internship (eg. '23 Summers, '22 Winters):** 23’ Summers
+- **Mode of Internship (Online/Offline/Hybrid):** Offline
+- **Duration of Internship:** 8 weeks
 
 Hey! I’m Annie D’souza, a fourth-year undergraduate pursuing a dual degree in
 Electrical Engineering and a dual minor in Computer Science and Data-Science and
@@ -25,7 +25,7 @@ Artificial intelligence. I’m into athletics and Dance and also love reading an
 movies. I’m deeply passionate about artificial intelligence and machine learning and
 have been intrigued by this field ever since I was first introduced to it.
 
-**Pre-internship:**
+### Pre-internship:
 
 I had a second-year internship in the field of DS & AI and thoroughly enjoyed it. Thus,
 during the third-year internship season too, I targeted the same field. However, since
@@ -73,7 +73,7 @@ about the applications of ML/DL in electrical engineering (since that’s my fie
 guestimate, and a couple of other casual questions. Soon, the results were out, and I
 was slected!
 
-**Internship Experience:**
+### Internship Experience:
 
 Six months later, I came to Gurgaon, and that was the beginning of an amazing two
 months. The company culture and work are both very attractive. The office itself is very
@@ -90,7 +90,7 @@ company outings, including a company dinner, a football match, and a trip to Kas
 All of these served very well for bonding. Everyone here was always ready to help, and
 the office was always in good spirits, reflecting the good culture.
 
-**After the Internship:**
+### After the internship:
 
 All in all, it’s been an excellent and amazing two months here at WWT, and I would
 definitely recommend this company to anyone interested in ML/AI – They have a great

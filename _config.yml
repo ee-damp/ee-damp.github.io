@@ -21,13 +21,14 @@ navbar-links:
     - Minor Courses: "Minor Course Reviews/Minor_courses"
 
   Minor Roadmap: "Minor Reviews/Minor_reviews"  
-  Intern Blogs: "new_curriculum/new_curriculum"
+  # Intern Blogs: "new_curriculum/test"
   Archives: "Archives/Archive"
   Team: "Team/team"
   Blog Series: 
     - TA-ship Tales: "Blog/TA"
     - Grad School Applications: "Blog/Apping"
     - Internships: "Blog/Intern_Blogs/Intern_blogs"
+    - BTP/SRE/DDP: "Blog/BTP"
   Contact Us: "contact"
   
   # Author's home: "https://deanattali.com"

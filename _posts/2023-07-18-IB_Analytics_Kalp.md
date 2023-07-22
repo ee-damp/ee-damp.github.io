@@ -10,20 +10,20 @@ tags: [Academic, Analytics, Blog]
 ---
 
 
-**Basic Information:**\
-**- Name:** Kalp Vyas\
-**- Curriculum:** EE B. Tech.\
-**- Year of Study:** 4th\
-**- Company/University of Internship:** Adobe\
-**- Year of Internship (eg. '23 Summers, '22 Winters):** 23’ Summers\
-**- Mode of Internship (Online/Offline/Hybrid):** Offline\
-**- Duration of Internship:** 10 weeks
+### Basic Information
+- **Name** Kalp Vyas
+- **Curriculum:** EE B. Tech.
+- **Year of Study:** 4th
+- **Company/University of Internship:** Adobe
+- **Year of Internship (eg. '23 Summers, '22 Winters):** 23’ Summers
+- **Mode of Internship (Online/Offline/Hybrid):** Offline
+- **Duration of Internship:** 10 weeks
 
 My name is Kalp Vyas, entering my 4th year in B. Tech program in Electrical
 Engineering. I interned at Adobe during the summer of ‘23. My role was a research
 intern with more emphasis on software and ML aspects.
 
-**Pre-internship:**
+### Pre-internship:
 
 I had targeted a software role for my internship and had applied for most of the software
 roles that had come during the internship season. For the tests, I mainly practiced
@@ -45,7 +45,7 @@ had a single-round interview for it. The interview was taken by an IIT B alum it
 was mainly about my resume and my experience in ML. It was a short 15 min interview,
 after which I was selected for the role.
 
-**Internship Experience:**
+### Internship Experience:
 
 My internship at Adobe is along the lines of Machine Learning, in particular generative
 AI and LLMs (Large Language Models). It is quite an interesting project, and we were
@@ -62,7 +62,7 @@ access to the entire building and its various amenities, which makes it a very
 memorable experience. There were also continuous team-building sessions and fun
 events conducted to make the interns feel more comfortable and interact with everyone.
 
-**After the Internship:**
+### After the internship:
 
 From a technical point of view, Adobe is one of the best companies to work for if you are
 interested in machine learning and AI. The work being done there is state of the art, and
