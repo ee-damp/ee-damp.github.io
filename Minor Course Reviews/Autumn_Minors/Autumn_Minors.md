@@ -13,6 +13,8 @@ tags: [Academic,Autumn,Minor]
 - [CS 218 – Design and Analysis of Algorithms (2018)](cs218_minor_2018.md)
 - [CS 228 – Logic for Computer Science (2019)](cs228_minor_2019.md)
 - [CS 347 – Operating Systems (2019)](cs347_minor_2019.md)
+- [CS 475 - Computer Graphics (2022 Review-1)](CS475_2022.md)
+- [CS 475 - Computer Graphics (2022 Review-2)](CS475_2022_R2.md)
 - [DS 203 - Programming for Data Science (2021)](DS203_review.md)
 - [DH 302 - Introduction to Public Health Informatics (2021)](DH302_review.md)
 - [DH 803 – Wearable Health Technologies (2022)](DH803_review.md)

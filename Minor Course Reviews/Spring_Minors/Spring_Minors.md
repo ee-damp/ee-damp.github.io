@@ -21,6 +21,7 @@ tags: [Academic,Spring,Minor]
 - [MG 406 - Operations Management (2020)](MG406_review.md)
 - [PH 410 - Statistical Physics (2022)](PH410_Spring_2022.md)
 - [PH 534 - Quantum Information and Computing (2022)](PH534_Spring_2022.md)
+- [PH 534 - Quantum Information and Computing (2023)](PH534_2023.md)
 - [PH 544 - General Relativity (2022)](PH544_Spring_2022.md)
 - [SC 602 - Control of Nonlinear Dynamical Systems (2020)](sc602_2020_2.md)
 - [SI 422 – Regression Analysis (2022)](SI422_2022_review.md)
