@@ -6,7 +6,7 @@ cover-img: Blog/Intern_Blogs/Intern.jpg
 thumbnail-img: ""
 share-img: ""
 comments: true
-css: Blog/Intern_Blogs/Intern_Blogs.css
+css: Blog/Intern_Blogs/Intern_blogs.css
 tags: [Academic]
 ---
 
