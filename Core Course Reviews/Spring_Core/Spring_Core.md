@@ -48,6 +48,7 @@ tags: [Academic,Spring,Core]
 - [EE 334 – Power Systems (2018)](EE334_2018_review.md)
 - [EE 334 – Power Systems (2019)](EE334_2019_review.md)
 - [EE 337 - Microprocessors Lab (2021)](EE337_2022_review.md)
+- [EE 337 - Microprocessors Lab (2023)](EE337_2023.md)
 - [EE 344 - Electronic Design Lab (2022)](EE344_2022_Review.md)
 - [EE 344 - Electronic Design Lab (2023)](EE344_2023.md)
 - [EE 350 - Technical Communication (2022)](EE350_2022_Review.md)

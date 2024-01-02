@@ -15,6 +15,7 @@ tags: [Academic,Elective,Devices]
 - [EE 614 - Solid State Microwave Devices and its Applications (2019)](EE614_2019.md)
 - [EE 614 - Solid State Microwave Devices and its Applications (2020)](EE614_2020.md)
 - [EE 617 - Sensors in Instrumentation (2021)](EE617_Review.md)
+- [EE 617 - Sensors in Instrumentation (2023)](EE617_2023.md)
 - [EE 620 - Physics of Transistors (2022)](EE620_2022.md)
 - [EE 625 - Biosensors and BioMEMS (2022)](EE625_2022.md)
 - [EE 701 - Introduction to MEMS (2018)](EE701_2018.md)

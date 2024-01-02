@@ -15,6 +15,7 @@ tags: [Academic,Elective,Communication]
 - [EE 605 - Error Correcting Codes (2016)](ee605_2016-17.md)
 - [EE 605 - Error Correcting Codes (2021)](ee605_2021_1.md)
 - [EE 606 - Fibre Optic Communication (2019)](EE606_2019.md)
+- [EE 606 - Fibre Optic Communication (2023)](EE606_2023.md)
 - [EE 609 - Radiating Systems (2022)](EE609_2022_Review.md)
 - [EE 706 – Communication Networks (2017)](EE706_2017.md)
 - [EE 706 – Communication Networks (2020)](EE706_2020.md)
