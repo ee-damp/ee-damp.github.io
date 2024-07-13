@@ -16,5 +16,6 @@ tags: [Academic,Elective,Power]
 - [EE 657 – Electric Drives – 1 (2022)](EE657_2022.md)
 - [EE 673 - Power Systems and Power Electronics Lab (2021)](EE673_Review.md)
 - [EE 722 – Restructured Power Systems (2022)](EE722_2022.md)
+- [EE 722 – Restructured Power Systems (2023)](EE722_2023.md)
 - [EE 770 - Design and Evaluation of Photovoltaic Power Plants (2021)](EE770_2021_Review.md)
 - [EE 791 - Power Electronic Converters for Renewable Energy (2022)](EE791_2022.md)
