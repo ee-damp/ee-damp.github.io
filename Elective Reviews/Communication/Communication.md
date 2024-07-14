@@ -19,6 +19,8 @@ tags: [Academic,Elective,Communication]
 - [EE 609 - Radiating Systems (2022)](EE609_2022_Review.md)
 - [EE 706 – Communication Networks (2017)](EE706_2017.md)
 - [EE 706 – Communication Networks (2020)](EE706_2020.md)
+- [EE 706 – Communication Networks (2023)](EE706_2023.md)
 - [EE 740 – Advanced Data Networks (2021)](EE740_2021_Review.md)
 - [EE 764 - Wireless and Mobile Communication (2018)](EE764_2018.md)
 - [EE 764 - Wireless and Mobile Communication (2022)](EE764_2022.md)
+- [EE 764 - Wireless and Mobile Communication (2023)](EE764_2023.md)
