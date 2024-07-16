@@ -11,6 +11,7 @@ tags: [Academic,Elective,Signal Processing]
 
 - [EE 338 - Digital Signal Processing (2018)](EE338_2018.md)
 - [EE 338 - Digital Signal Processing (2022)](EE338_2022.md)
+- [EE 338 - Digital Signal Processing (2023)](EE338_2023.md)
 - [EE 465 - Cryptocurrency and Blockchain Technologies (2023)](EE465_2023.md)
 - [EE 605 – Error Correcting Codes (2021)](EE605_2021_Review.md)
 - [EE 605 – Error Correcting Codes (2022)](EE605_2022.md)

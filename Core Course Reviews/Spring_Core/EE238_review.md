@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: PH238 – Power Engineering-II(2022)
+title: EE238 – Power Engineering-II(2022)
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
