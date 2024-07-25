@@ -1,0 +1,115 @@
+---
+layout: post
+title:  AWL Inc., Sapporo, Japan
+subtitle: Shlesh Gholap
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
+share-img: ""
+readtime: true
+tags: [Academic, Software, Blog]
+comments: true
+---
+
+### Basic Information
+
+- **Name** Shlesh Gholap
+- **Curriculum:** EE BTech
+- **Year of Study:** 4th
+- **Company/University of Internship:**  AWL Inc., Sapporo, Japan
+- **Role during Internship:** AI research engineer
+- **Year of Internship (eg. \'24 Summers, \'23 Winters):** '24 Summers
+- **Mode of Internship (Online/Offline/Hybrid):** Offline
+- **Duration of Internship:** 2 months
+
+### Getting into the Internship:
+
+#### What specific domain or field did you target to get an internship in?
+I focused solely on Analytics and ML roles for the internship and didn't sign IAFs for any other
+profiles. Consequently, I didn't prepare specifically for the internship period. Generally,
+preparation for ML/analytics roles involves focusing on three things: 1. Completing ML projects
+and being confident about your contributions and knowledge (this helps during resume screening
+and interviews); 2. Having a clear understanding of basic machine learning concepts; and 3. DSA
+preparation. I was confident about the first two points as I spent most of my summer break
+working on ML projects and learning new concepts. To practice fundamental ML concepts, I
+revised notes from my Intro to ML course from the previous semester and searched for ML
+interview questions on google or chatgpt.
+
+
+#### What resources did you utilize to prepare for the tests/interviews?
+My biggest mistake during the internship was not practicing DSA enough. I took multiple coding
+tests of various companies before AWL, but consistently failed in the coding rounds due to
+insufficient DSA practice. Realizing my mistake, I started daily DSA practice in Python from day
+one of the internship period. By the third week, when AWL opened its IAF, I had practiced enough
+to clear the coding round.
+
+#### Can you elaborate on your interview and the type of questions which were asked?
+The AWL test had two rounds: the first was an MCQ round covering basic ML, DSA, and Docker
+(important to practice Docker). The second round was a coding round with four problems, two of
+which could be solved without DSA knowledge, and the other two were on DP and Graphs. I could
+solve all problems except the Graph problem
+
+#### Were there any significant roadblocks or challenges that you encountered during the internship application and selection process? If so, how did you navigate or overcome them?
+Seven students, including myself, were selected for online interviews at AWL. Each interview lasted
+just 15 minutes and was conducted by two AI engineers at AWL. We started with introductions,
+after which they asked me questions about my resume and projects. They were more interested in
+understanding my work and what I had learned from my projects than testing my technical
+knowledge. The interview concluded with me asking questions about their company. In a few hours
+the results were announced and I was selected for an on-site role at the Sapporo office in Japan.
+
+A crucial piece of advice for interview preparation is to practice speaking skills and how you
+present yourself, as this matters to companies like AWL. Besides ML preparation, be prepared for
+company-specific questions related to their work, which can be crucial in interviews. You can
+prepare for such questions by brainstorming over the questions possible are reading the job
+description. I had prepared for these questions as well, though they didn't ask me any technical
+questions in the interview.
+
+#### How did you handle any rejections that you faced (If any) during the internship application process?
+As mentioned earlier, my lack of DSA preparation at the start of the internship period led to
+rejections from all the companies I applied to. At one point, I considered stopping my applications,
+but I continued to apply. It's important to understand that securing an internship also involves
+luck, and rejection from a company doesn't reflect your capabilities. If you approach tests and
+interviews with this mindset, you can reduce the stress during tests and interviews, and the
+disappointment of not being selected. I gave the coding test with an expectation of not being
+selected, which really help me to stay claim and give my best. Everyone faces setbacks, but learning
+from mistakes in interviews and tests can eventually lead to securing an internship.
+
+### During the internship:
+
+#### What was your specific profile or project topic during the internship?
+During the internship, I focused on optimizing AWL’s finetuning pipeline for object detection models
+across various use cases. In addition to my primary task, I was assigned multiple side tasks such as videoannotation, image quality enhancement, and setting up a lab to collect datasets for head direction
+estimation.
+#### How would you describe your overall experience as an intern?
+
+Overall, my experience working onsite at AWL was amazing. Living independently in a new city and
+managing everything by myself was a valuable experience. I quickly became comfortable with the
+environment in Sapporo and began exploring the city on my own. I also made friends there whom I hung
+out with frequently. Solo traveling to other cities in Japan further boosted my confidence, as Japan is truly
+beautiful.
+
+#### Could you provide insights into the organizational culture of the company/university and what your peers were like?
+I was assigned a task under AWL's R&D team, which exposed me to both research and experimentation.
+Most of my work involved conducting experiments on complex ML models, for which I had access to
+powerful GPUs. This allowed me to learn various tools necessary to transform a standard ML model into
+a functional product. I had the opportunity to observe how projects are efficiently managed and
+progressed within a company. I realized the importance of small details such as regular updates,
+documentation, punctuality, and scheduling meetings.
+
+#### Were there any networking opportunities or professional connections that you established during the internship?
+Working in a startup was particularly rewarding because I could contribute my own ideas, and my work
+directly impacted the company's goals, which was fulfilling. Additionally, startup environments offer
+opportunities to learn beyond your main tasks. Throughout my internship, I maintained a strong curiosity
+about the company's operations, which enabled me to learn a great deal.
+I regularly gave biweekly presentations to track my progress, and my supervisor was consistently
+supportive, guiding me whenever needed. The office environment was friendly, and my colleagues
+quickly became friends. We often went out for dinners after work, and I also had the chance to interact
+with other interns from AWL's Tokyo office.
+
+### After the Internship:
+
+#### Based on your experience, would you recommend this internship to others interested in the same field? If so, what aspects make it worth recommending? If not, what factors influenced your perspective?
+I highly recommend interning at AWL to anyone was is interested in ML. The quality and
+recognition of your work is good. The internship not only provides you with a great work
+environment but puts in a position where you learn good life lessons when living in a new country.
+And you get to learn a lot of things. Just remember to be curious and ask a lot of questions, you will
+learn more this way.
