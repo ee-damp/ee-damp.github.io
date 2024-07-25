@@ -1,0 +1,87 @@
+---
+layout: post
+title:  Song
+subtitle: Manan Garg
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
+share-img: ""
+readtime: true
+tags: [Academic, Software, Blog]
+comments: true
+---
+
+### Basic Information
+
+- **Name** Manan Garg
+- **Curriculum:** Electrical Engineering
+- **Year of Study:** 4th
+- **Company/University of Internship:**  Sony
+- **Role during Internship:** Creating CG Datasets for Hand Occlusion
+- **Year of Internship (eg. \'24 Summers, \'23 Winters):** '24 Summers
+- **Mode of Internship (Online/Offline/Hybrid):** Offline
+- **Duration of Internship:** 2 months
+
+### Getting into the Internship:
+
+#### What specific domain or field did you target to get an internship in?
+Anything involving computer systems or computing hardware. My interviews for this role were also
+taken from this POV.
+
+
+#### What resources did you utilize to prepare for the tests/interviews?
+I brushed up a bit on Competitive Programming using Striver’s SDE sheet. For hardware, I just googled
+‘Digital Hardware interview questions’ and there were some websites. You mainly want to use this to
+remember what to study from your previous courses. For Sony, you need to know how to answer
+HR-interview type questions, and I watched some YouTube videos on that for preparation.
+
+#### Can you elaborate on your interview and the type of questions which were asked?
+I had an online internship in my second year, and most questions were regarding that - what was done,
+what was the hard part, how I handled the communication. They also ensured that I knew and understood
+the contents of what I had done. There were also questions like ‘Why this intern’, ‘Why Japan’ and so on.
+
+#### Were there any significant roadblocks or challenges that you encountered during the internship application and selection process? If so, how did you navigate or overcome them?
+The selection process isn’t as straightforward as scoring the highest on a test. It is an SOP based
+selection for the interview, and I remember my SOP going through 4-5 iterations before me submitting it.
+
+#### How did you handle any rejections that you faced (If any) during the internship application process?
+The rejections were from quant firms, where I had little expectations to begin with. They did encourage
+me to apply to more jobs further down the line, however, until I got selected at Sony.
+
+### During the internship:
+
+#### What was your specific profile or project topic during the internship?
+Creating a dataset for Hand Occlusion using blender, a 3D design software. Skills used are a mix of
+python, computer graphics, geometry, and even on rare occasions art and image editing.
+
+#### How would you describe your overall experience as an intern?
+
+The internship project was completely different from what I wanted, and honestly I was very, very
+anxious because it felt that this wouldn’t add value to my overall resume (I still am skeptical). But beyond
+that, I was given complete freedom to achieve the objective - I have basically set all the milestones of this
+project myself - which is something I greatly appreciate (This might not be true for Sony Japan in
+general). I did feel that there was minimal to no interaction with members from my team, mainly because
+my project was rather disjoint from the rest and that they were largely working online. I did enjoy making
+what I did at the end.
+Obviously, this answer is incomplete without talking about Japan itself as a whole - and I can’t say
+enough about how great being and traveling here is. Each weekend was beyond amazing, and I’d say it
+would have been worth it even with a bad working experience.
+
+#### Could you provide insights into the organizational culture of the company/university and what your peers were like?
+Sony RnD is a collection of departments which work on projects that relate to their field. For example,
+XR system technologies, where I work, has 5 teams within it, each working on improving some aspect of
+Sony’s current XR tech. Peers are helpful, and always happy to meet you, but I personally was not able to
+engage in a lot of casual talks with most of them.
+
+
+#### Were there any networking opportunities or professional connections that you established during the internship?
+There was a global intern networking event, where people from a lot of countries met up. You also can
+meet the current global employees there.
+
+### After the Internship:
+
+#### Based on your experience, would you recommend this internship to others interested in the same field? If so, what aspects make it worth recommending? If not, what factors influenced your perspective?
+What I conclude at the end is that you really can’t aim for a specific profile here, and the work you are
+doing can be significantly different from what you aimed for. The amount by which my intern deviated
+however is not the norm. I did find the internship experience worth it, and working in an foreign
+environment is definitely beneficial. I’d suggest applying, just be a bit loose with your expectations on
+what exactly you’ll be doing.
