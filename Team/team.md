@@ -13,9 +13,9 @@ tags: [Academic]
 
 <h2 class="heading">DAMP Co-ordinators</h2>
 <div class="container">
-<div class="card">
+  <div class="card">
     <div class="imgBox">
-      <img src="../assets/img/team-images/Keshav Singhal.jpg">
+      <img src="../../assets/img/team-images/Keshav Singhal.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -27,15 +27,15 @@ tags: [Academic]
         <li style="--i:3;"><a href="https://www.linkedin.com/in/keshav-singhal-/"><i class="fab fa-linkedin t"></i></a></li>
       </ul>
       <button class="flip-button">Flip</button>
-        <div class="flip-content">
-            <p>This is the text revealed on flip.</p>
-        </div>
+    </div>
+    <div class="flip-content">
+      <p>This is the text revealed on flip.</p>
     </div>
   </div>
 
   <div class="card">
     <div class="imgBox">
-      <img src="../assets/img/team-images/Mohit Kedia.jpg">
+      <img src="../../assets/img/team-images/Mohit Kedia.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -55,7 +55,7 @@ tags: [Academic]
 <div class="container">
 <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/Raavi Gupta.jpg">
+      <img src="../../assets/img/team-images/Raavi Gupta.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -71,7 +71,7 @@ tags: [Academic]
 
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/Samarth Agarwal.jpg">
+      <img src="../../assets/img/team-images/Samarth Agarwal.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -87,7 +87,7 @@ tags: [Academic]
 
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/Srishti Sharma.jpg">
+      <img src="../../assets/img/team-images/Srishti Sharma.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -109,7 +109,7 @@ tags: [Academic]
 {% for member in teamData %}
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/{{member.Name}}.jpg" onerror="this.src='../../../assets/img/team-images/user.jpg'">
+      <img src="../../assets/img/team-images/{{member.Name}}.jpg" onerror="this.src='../../../assets/img/team-images/user.jpg'">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -125,8 +125,11 @@ tags: [Academic]
  {% endfor %}
 
  </div>
-<script>
-  document.querySelector('.flip-button').addEventListener('click', function() {
-    this.closest('.card').classList.toggle('flipped');
+
+ <script>
+  document.querySelectorAll('.flip-button').forEach(button => {
+    button.addEventListener('click', function() {
+      this.closest('.card').classList.toggle('flipped');
+    });
   });
 </script>
