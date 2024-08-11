@@ -126,3 +126,30 @@ body {
 .t:hover {
   color:#448efc;
 }
+/* Flip button styles */
+.container .card .flip-button {
+  display: none;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: .5s;
+}
+.container .card:hover .flip-button {
+  display: block;
+}
+
+/* Text to be revealed */
+.container .card .flip-content {
+  display: none;
+  opacity: 0;
+  transition: opacity .5s;
+}
+.container .card.flipped .flip-content {
+  display: block;
+  opacity: 1;
+}
