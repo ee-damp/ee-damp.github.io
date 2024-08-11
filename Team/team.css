@@ -41,20 +41,22 @@ body {
   transition: transform 0.8s;
   transform-style: preserve-3d;
 }
-.container .card.flipped {
+/* .container .card.flipped {
   transform: rotateY(180deg);
-}
-.container .card .front, .container .card .flip-content {
+} */
+.container .card .imgBox, .container .card .content, .container .card .flip-content {
   position: absolute;
   width: 100%;
   height: 100%;
+  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
-.container .card .front .imgBox {
+.container .card .imgBox {
   width:100%;
   height:100%;
+  z-index: 2;
 }
-.container .card .front .imgBox img {
+.container .card .imgBox img {
   width:100%;
   height:100%;
   background-position: center;
@@ -62,10 +64,10 @@ body {
   object-fit:cover;
   transition:.3s ease-in-out;
 }
-.container .card:hover .front .imgBox img{
+.container .card:hover .imgBox img{
   transform:translateY(-20px);
 }
-.container .card .front .content{
+.container .card .content{
   position:absolute;
   bottom:-160px;
   width:100%;
@@ -82,10 +84,10 @@ body {
   transition:bottom .4s ease-in-out;
 }
 
-.container .card:hover .front .content {
+.container .card:hover .content {
   bottom: 0px;
 }
-.container .card .front .content .contentBox h3{
+.container .card .content .contentBox h3{
   color:black;
   text-transform:uppercase;
   letter-spacing:2px;
@@ -98,21 +100,21 @@ body {
   opacity:0;
   transform:translateY(-20px);
 }
-.container .card:hover .front .content .contentBox h3 {
+.container .card:hover .content .contentBox h3 {
   opacity:1;
   transform:translateY(0);
 }
-.container .card .front .content .contentBox h3 > span {
+.container .card .content .contentBox h3 > span {
   font-size:12px;
   font-weight:300;
   text-transform:initial;
 }
-.container .card .front .content .social {
+.container .card .content .social {
   position:relative;
   bottom:10px;
   display:flex;
 }
-.container .card .front .content .social li{
+.container .card .content .social li{
   list-style:none;
   margin: 0 10px;
   transform:translateY(40px);
@@ -120,12 +122,12 @@ body {
   opacity:0;
   transition-delay: calc(0.2s * var(--i))
 }
-.container .card:hover .front .content .social li{
+.container .card:hover .content .social li{
   transform:translateY(0);
   opacity:1;
 }
 
-.container .card .front .content .social li a{
+.container .card .content .social li a{
   color:black;
   font-size:24px;
 }
@@ -150,7 +152,7 @@ body {
   padding: 20px;
   box-shadow: 0 5px 15px rgba(0,0,0,.2);
 }
-.container .card .front .content .flip-button {
+.container .card .flip-button {
   display: none;
   position: absolute;
   top: 10px;
@@ -162,10 +164,10 @@ body {
   cursor: pointer;
   transition: .5s;
 }
-.container .card:hover .front .content .flip-button {
+.container .card:hover .flip-button {
   display: block;
 }
-.container .card .front .content .flip-button:hover {
+.container .card .flip-button:hover {
   background-color: #555; /* Change background color on hover */
   color: #fff; /* Change text color on hover */
 }
