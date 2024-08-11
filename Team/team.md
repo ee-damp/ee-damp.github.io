@@ -14,7 +14,6 @@ tags: [Academic]
 <h2 class="heading">DAMP Co-ordinators</h2>
 <div class="container">
   <div class="card">
-    <div class="front">
       <div class="imgBox">
         <img src="../../assets/img/team-images/Keshav Singhal.jpg">
       </div>
@@ -29,13 +28,12 @@ tags: [Academic]
         </ul>
         <button class="flip-button">Flip</button>
       </div>
-    </div>
     <div class="flip-content">
       <p>This is the text revealed on flip.</p>
     </div>
   </div>
 
-  <!-- <div class="card">
+  <div class="card">
     <div class="imgBox">
       <img src="../../assets/img/team-images/Mohit Kedia.jpg">
     </div>
@@ -49,11 +47,11 @@ tags: [Academic]
         <li style="--i:3;"><a href=""><i class="fab fa-linkedin t"></i></a></li>
       </ul>
     </div>
-  </div> -->
+  </div>
 
 </div>
 
-<!-- <h2 class="heading">Sub-group Heads</h2>
+<h2 class="heading">Sub-group Heads</h2>
 <div class="container">
 <div class="card">
     <div class="imgBox">
@@ -101,7 +99,8 @@ tags: [Academic]
         <li style="--i:3;"><a href="https://www.linkedin.com/in/srishtis19"><i class="fab fa-linkedin t"></i></a></li>
       </ul>
     </div>
-  </div> 
+  </div>
+  
 </div>
 
 <h2 class="heading">Mentors</h2>
@@ -123,9 +122,9 @@ tags: [Academic]
       </ul>
     </div>
   </div>
- {% endfor %} 
+ {% endfor %}
 
- </div> -->
+ </div>
 
  <script>
   document.querySelectorAll('.flip-button').forEach(button => {
