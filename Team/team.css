@@ -168,3 +168,9 @@ body {
   background-color: #555; /* Change background color on hover */
   color: #fff; /* Change text color on hover */
 }
+
+.flip-content{
+  background-color: dodgerblue;
+  color: white;
+  transform: rotateY(180deg);
+}
