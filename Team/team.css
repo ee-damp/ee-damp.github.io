@@ -41,9 +41,9 @@ body {
   transition: transform 0.8s;
   transform-style: preserve-3d;
 }
-/* .container .card.flipped {
+.container .card.flipped {
   transform: rotateY(180deg);
-} */
+}
 .container .card .imgBox, .container .card .content, .container .card .flip-content {
   position: absolute;
   width: 100%;
