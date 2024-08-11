@@ -15,7 +15,7 @@ tags: [Academic]
 <div class="container">
 <div class="card">
     <div class="imgBox">
-      <img src="/assets/img/team-images/Keshav Singhal.jpg">
+      <img src="assets/img/team-images/Keshav Singhal.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
