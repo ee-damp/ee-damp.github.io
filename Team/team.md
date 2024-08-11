@@ -26,6 +26,10 @@ tags: [Academic]
         <li style="--i:2;"><a href="mailto:keshavsinghal2002@gmail.com"><i class="far fa-envelope i"></i></a></li>
         <li style="--i:3;"><a href="https://www.linkedin.com/in/keshav-singhal-/"><i class="fab fa-linkedin t"></i></a></li>
       </ul>
+      <button class="flip-button">Flip</button>
+        <div class="flip-content">
+            <p>This is the text revealed on flip.</p>
+        </div>
     </div>
   </div>
 
@@ -121,3 +125,8 @@ tags: [Academic]
  {% endfor %}
 
  </div>
+<script>
+  document.querySelector('.flip-button').addEventListener('click', function() {
+    this.closest('.card').classList.toggle('flipped');
+  });
+</script>
