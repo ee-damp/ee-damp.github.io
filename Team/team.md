@@ -1,3 +1,4 @@
+---
 layout: page
 title: EE DAMP TEAM
 subtitle: 2023-25
@@ -12,156 +13,111 @@ tags: [Academic]
 
 <h2 class="heading">DAMP Co-ordinators</h2>
 <div class="container">
-  <div class="card">
-    <div class="inner">
-      <div class="front">
-        <div class="imgBox">
-          <img src="../assets/img/team-images/Keshav Singhal.jpg">
-        </div>
-        <div class="content">
-          <div class="contentBox">
-            <h3>Keshav Singhal<br><span>EE DAMP Co-ordinator</span></h3>
-          </div>
-          <ul class="social">
-            <li style="--i:1;"><a href="tel:9560823507"><i class="fas fa-phone f"></i></a></li>
-            <li style="--i:2;"><a href="mailto:keshavsinghal2002@gmail.com"><i class="far fa-envelope i"></i></a></li>
-            <li style="--i:3;"><a href="https://www.linkedin.com/in/keshav-singhal-/"><i class="fab fa-linkedin t"></i></a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="back">
-        <p>Some text about Keshav Singhal</p>
-      </div>
+<div class="card">
+    <div class="imgBox">
+      <img src="../assets/img/team-images/Keshav Singhal.jpg">
     </div>
-    <button class="flip-button">Flip</button>
+    <div class="content">
+      <div class="contentBox">
+        <h3>Keshav Singhal<br><span>EE DAMP Co-ordinator</span></h3>
+      </div>
+      <ul class="social">
+        <li style="--i:1;"><a href="tel:9560823507"><i class="fas fa-phone f"></i></a></li>
+        <li style="--i:2;"><a href="mailto:keshavsinghal2002@gmail.com"><i class="far fa-envelope i"></i></a></li>
+        <li style="--i:3;"><a href="https://www.linkedin.com/in/keshav-singhal-/"><i class="fab fa-linkedin t"></i></a></li>
+      </ul>
+    </div>
   </div>
 
   <div class="card">
-    <div class="inner">
-      <div class="front">
-        <div class="imgBox">
-          <img src="../assets/img/team-images/Mohit Kedia.jpg">
-        </div>
-        <div class="content">
-          <div class="contentBox">
-            <h3>Mohit Kedia<br><span>EE DAMP Co-ordinator</span></h3>
-          </div>
-          <ul class="social">
-            <li style="--i:1;"><a href="tel:6290613800"><i class="fas fa-phone f"></i></a></li>
-            <li style="--i:2;"><a href="mailto:mohitkedia2015@gmail.com"><i class="far fa-envelope i"></i></a></li>
-            <li style="--i:3;"><a href=""><i class="fab fa-linkedin t"></i></a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="back">
-        <p>Some text about Mohit Kedia</p>
-      </div>
+    <div class="imgBox">
+      <img src="../assets/img/team-images/Mohit Kedia.jpg">
     </div>
-    <button class="flip-button">Flip</button>
+    <div class="content">
+      <div class="contentBox">
+        <h3>Mohit Kedia<br><span>EE DAMP Co-ordinator</span></h3>
+      </div>
+      <ul class="social">
+        <li style="--i:1;"><a href="tel:6290613800"><i class="fas fa-phone f"></i></a></li>
+        <li style="--i:2;"><a href="mailto:mohitkedia2015@gmail.com"><i class="far fa-envelope i"></i></a></li>
+        <li style="--i:3;"><a href=""><i class="fab fa-linkedin t"></i></a></li>
+      </ul>
+    </div>
   </div>
+
 </div>
 
 <h2 class="heading">Sub-group Heads</h2>
 <div class="container">
-  <div class="card">
-    <div class="inner">
-      <div class="front">
-        <div class="imgBox">
-          <img src="../../../assets/img/team-images/Raavi Gupta.jpg">
-        </div>
-        <div class="content">
-          <div class="contentBox">
-            <h3>Raavi Gupta<br><span>Experiences Subgroup Head</span></h3>
-          </div>
-          <ul class="social">
-            <li style="--i:1;"><a href="tel:8079047813"><i class="fas fa-phone f"></i></a></li>
-            <li style="--i:2;"><a href="mailto:raavi02g@gmail.com"><i class="far fa-envelope i"></i></a></li>
-            <li style="--i:3;"><a href="https://www.linkedin.com/in/raavi-gupta/"><i class="fab fa-linkedin t"></i></a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="back">
-        <p>Some text about Raavi Gupta</p>
-      </div>
+<div class="card">
+    <div class="imgBox">
+      <img src="../../../assets/img/team-images/Raavi Gupta.jpg">
     </div>
-    <button class="flip-button">Flip</button>
+    <div class="content">
+      <div class="contentBox">
+        <h3>Raavi Gupta<br><span>Experiences Subgroup Head</span></h3>
+      </div>
+      <ul class="social">
+        <li style="--i:1;"><a href="tel:8079047813"><i class="fas fa-phone f"></i></a></li>
+        <li style="--i:2;"><a href="mailto:raavi02g@gmail.com"><i class="far fa-envelope i"></i></a></li>
+        <li style="--i:3;"><a href="https://www.linkedin.com/in/raavi-gupta/"><i class="fab fa-linkedin t"></i></a></li>
+      </ul>
+    </div>
   </div>
 
   <div class="card">
-    <div class="inner">
-      <div class="front">
-        <div class="imgBox">
-          <img src="../../../assets/img/team-images/Samarth Agarwal.jpg">
-        </div>
-        <div class="content">
-          <div class="contentBox">
-            <h3>Samarth Agarwal<br><span>Resources Subgroup Head</span></h3>
-          </div>
-          <ul class="social">
-            <li style="--i:1;"><a href="tel:07608000511"><i class="fas fa-phone f"></i></a></li>
-            <li style="--i:2;"><a href="mailto:samarthagarwal909@gmail.com"><i class="far fa-envelope i"></i></a></li>
-            <li style="--i:3;"><a href=""><i class="fab fa-linkedin t"></i></a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="back">
-        <p>Some text about Samarth Agarwal</p>
-      </div>
+    <div class="imgBox">
+      <img src="../../../assets/img/team-images/Samarth Agarwal.jpg">
     </div>
-    <button class="flip-button">Flip</button>
+    <div class="content">
+      <div class="contentBox">
+        <h3>Samarth Agarwal<br><span>Resources Subgroup Head</span></h3>
+      </div>
+      <ul class="social">
+        <li style="--i:1;"><a href="tel:07608000511"><i class="fas fa-phone f"></i></a></li>
+        <li style="--i:2;"><a href="mailto:samarthagarwal909@gmail.com"><i class="far fa-envelope i"></i></a></li>
+        <li style="--i:3;"><a href=""><i class="fab fa-linkedin t"></i></a></li>
+      </ul>
+    </div>
   </div>
 
   <div class="card">
-    <div class="inner">
-      <div class="front">
-        <div class="imgBox">
-          <img src="../../../assets/img/team-images/Srishti Sharma.jpg">
-        </div>
-        <div class="content">
-          <div class="contentBox">
-            <h3>Srishti Sharma<br><span>Web Subgroup Head</span></h3>
-          </div>
-          <ul class="social">
-            <li style="--i:1;"><a href="tel:7424863981"><i class="fas fa-phone f"></i></a></li>
-            <li style="--i:2;"><a href="mailto:srishtis0507@gmail.com"><i class="far fa-envelope i"></i></a></li>
-            <li style="--i:3;"><a href="https://www.linkedin.com/in/srishtis19"><i class="fab fa-linkedin t"></i></a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="back">
-        <p>Some text about Srishti Sharma</p>
-      </div>
+    <div class="imgBox">
+      <img src="../../../assets/img/team-images/Srishti Sharma.jpg">
     </div>
-    <button class="flip-button">Flip</button>
+    <div class="content">
+      <div class="contentBox">
+        <h3>Srishti Sharma<br><span>Web Subgroup Head</span></h3>
+      </div>
+      <ul class="social">
+        <li style="--i:1;"><a href="tel:7424863981"><i class="fas fa-phone f"></i></a></li>
+        <li style="--i:2;"><a href="mailto:srishtis0507@gmail.com"><i class="far fa-envelope i"></i></a></li>
+        <li style="--i:3;"><a href="https://www.linkedin.com/in/srishtis19"><i class="fab fa-linkedin t"></i></a></li>
+      </ul>
+    </div>
   </div>
+  
 </div>
 
 <h2 class="heading">Mentors</h2>
 <div class="container">
-  {% assign teamData = site.data.team | csv %}
-  {% for member in teamData %}
-    <div class="card">
-      <div class="inner">
-        <div class="front">
-          <div class="imgBox">
-            <img src="../../../assets/img/team-images/{{member.Name}}.jpg" onerror="this.src='../../../assets/img/team-images/user.jpg'">
-          </div>
-          <div class="content">
-            <div class="contentBox">
-              <h3>{{member.Name}}<br><span>{{member.Year}} Year DAMP Mentor</span></h3>
-            </div>
-            <ul class="social">
-              <li style="--i:1;"><a href="tel:{{member.Phone}}"><i class="fas fa-phone f"></i></a></li>
-              <li style="--i:2;"><a href="mailto:{{member.Email}}"><i class="far fa-envelope i"></i></a></li>
-              <li style="--i:3;"><a href="{{member.Linkedin}}"><i class="fab fa-linkedin t"></i></a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="back">
-          <p>Some text about {{member.Name}}</p>
-        </div>
-      </div>
-      <button class="flip-button">Flip</button>
+{% assign teamData = site.data.team | csv %}
+{% for member in teamData %}
+  <div class="card">
+    <div class="imgBox">
+      <img src="../../../assets/img/team-images/{{member.Name}}.jpg" onerror="this.src='../../../assets/img/team-images/user.jpg'">
     </div>
-  {% endfor %}
-</div>
+    <div class="content">
+      <div class="contentBox">
+        <h3>{{member.Name}}<br><span>{{member.Year}} Year DAMP Mentor</span></h3>
+      </div>
+      <ul class="social">
+        <li style="--i:1;"><a href="tel:{{member.Phone}}"><i class="fas fa-phone f"></i></a></li>
+        <li style="--i:2;"><a href="mailto:{{member.Email}}"><i class="far fa-envelope i"></i></a></li>
+        <li style="--i:3;"><a href="{{member.Linkedin}}"><i class="fab fa-linkedin t"></i></a></li>
+      </ul>
+    </div>
+  </div>
+ {% endfor %}
+
+ </div>
