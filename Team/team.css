@@ -139,16 +139,17 @@ body {
   color:#448efc;
 }
 
-/* .container .card .flip-content {
+.container .card .flip-content {
   transform: rotateY(180deg);
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #fff;
+  background-color: dodgerblue;                                           
+  color: white;
   border-radius: 15px;
   padding: 20px;
   box-shadow: 0 5px 15px rgba(0,0,0,.2);
-} */
+}
 .container .card .flip-button {
   display: none;
   position: absolute;
@@ -169,8 +170,3 @@ body {
   color: #fff; /* Change text color on hover */
 }
 
-.flip-content{
-  background-color: dodgerblue;
-  color: white;
-  transform: rotateY(180deg);
-}
