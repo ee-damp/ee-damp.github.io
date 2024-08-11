@@ -41,10 +41,10 @@ body {
   transition: transform 0.8s;
   transform-style: preserve-3d;
 }
-.container .card.flipped {
+.container .card .flip-button:hover {
   transform: rotateY(180deg);
 }
-.container .card .imgBox, .container .card .content, .container .card .flip-content {
+.container .card .imgBox, .container .card .content, .container .card .flip-content, .container .card .flipped {
   position: absolute;
   width: 100%;
   height: 100%;
