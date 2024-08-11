@@ -37,6 +37,18 @@ body {
   justify-content:center;
   align-items:center;
   cursor:pointer;
+  perspective: 1000px;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+.container .card.flipped {
+  transform: rotateY(180deg);
+}
+.container .card .imgBox, .container .card .content, .container .card .flip-content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
 }
 .container .card .imgBox {
   width:100%;
@@ -126,7 +138,17 @@ body {
 .t:hover {
   color:#448efc;
 }
-/* Flip button styles */
+
+.container .card .flip-content {
+  transform: rotateY(180deg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,.2);
+}
 .container .card .flip-button {
   display: none;
   position: absolute;
@@ -142,14 +164,7 @@ body {
 .container .card:hover .flip-button {
   display: block;
 }
-
-/* Text to be revealed */
-.container .card .flip-content {
-  display: none;
-  opacity: 0;
-  transition: opacity .5s;
-}
-.container .card.flipped .flip-content {
-  display: block;
-  opacity: 1;
+.container .card .flip-button:hover {
+  background-color: #555; /* Change background color on hover */
+  color: #fff; /* Change text color on hover */
 }
