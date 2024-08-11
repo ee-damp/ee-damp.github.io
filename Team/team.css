@@ -140,7 +140,7 @@ body {
 }
 
 .container .card .flip-content {
-/*   transform: rotateY(180deg); */
+  transform: rotateY(180deg);
   display: flex;
   justify-content: center;
   align-items: center;
