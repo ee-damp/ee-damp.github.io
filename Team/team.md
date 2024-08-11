@@ -14,20 +14,20 @@ tags: [Academic]
 <h2 class="heading">DAMP Co-ordinators</h2>
 <div class="container">
   <div class="card">
-      <div class="imgBox">
-        <img src="../../assets/img/team-images/Keshav Singhal.jpg">
+    <div class="imgBox">
+      <img src="../../assets/img/team-images/Keshav Singhal.jpg">
+    </div>
+    <div class="content">
+      <div class="contentBox">
+        <h3>Keshav Singhal<br><span>EE DAMP Co-ordinator</span></h3>
       </div>
-      <div class="content">
-        <div class="contentBox">
-          <h3>Keshav Singhal<br><span>EE DAMP Co-ordinator</span></h3>
-        </div>
-        <ul class="social">
-          <li style="--i:1;"><a href="tel:9560823507"><i class="fas fa-phone f"></i></a></li>
-          <li style="--i:2;"><a href="mailto:keshavsinghal2002@gmail.com"><i class="far fa-envelope i"></i></a></li>
-          <li style="--i:3;"><a href="https://www.linkedin.com/in/keshav-singhal-/"><i class="fab fa-linkedin t"></i></a></li>
-        </ul>
-        <button class="flip-button">Flip</button>
-      </div>
+      <ul class="social">
+        <li style="--i:1;"><a href="tel:9560823507"><i class="fas fa-phone f"></i></a></li>
+        <li style="--i:2;"><a href="mailto:keshavsinghal2002@gmail.com"><i class="far fa-envelope i"></i></a></li>
+        <li style="--i:3;"><a href="https://www.linkedin.com/in/keshav-singhal-/"><i class="fab fa-linkedin t"></i></a></li>
+      </ul>
+      <div class="read-more">Read More</div>
+    </div>
     <div class="flip-content">
       <p>This is the text revealed on flip.</p>
     </div>
