@@ -6,13 +6,13 @@ cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 readtime: true
-tags: [Academic, Software, Blog]
+tags: [Academic, Quant, Blog]
 comments: true
 ---
 
 ### Basic Information
 
-- **Name** Shlesh Gholap
+- **Name** Anuj Gupta
 - **Curriculum:** EE BTech
 - **Year of Study:** 4th
 - **Company/University of Internship:**  Goldman Sachs

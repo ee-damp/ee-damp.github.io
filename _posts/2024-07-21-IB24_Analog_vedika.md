@@ -6,7 +6,7 @@ cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 readtime: true
-tags: [Academic, Software, Blog]
+tags: [Academic, Core, Blog]
 comments: true
 ---
 
@@ -60,6 +60,5 @@ This internship is definitely recommended for people interested in the core doma
 
 ### For people who have completed their internships
 
-#### What are you currently involved in or pursuing following the completion of your internship?
 #### In what ways has the internship influenced or impacted your current activities and future endeavors?
 The internship has provided me insights into whether I want to go into this field, and is a good opportunity for people to get clarity on the same.
