@@ -115,7 +115,6 @@ tags: [Academic]
         <li style="--i:1;"><a href="tel:{{member.Phone}}"><i class="fas fa-phone f"></i></a></li>
         <li style="--i:2;"><a href="mailto:{{member.Email}}"><i class="far fa-envelope i"></i></a></li>
         <li style="--i:3;"><a href="{{member.Linkedin}}"><i class="fab fa-linkedin t"></i></a></li>
-          <li style="--i:4;"><a href="{{member.Instagram}}"><i class="fas fa-instagram p"></i></a></li>
       </ul>
     </div>
   </div>
