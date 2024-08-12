@@ -6,7 +6,7 @@ cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 readtime: true
-tags: [Academic, Software, Blog]
+tags: [Academic, FMCG, Blog]
 comments: true
 ---
 
@@ -68,13 +68,3 @@ well. Each team has their own predefined roles and responsibilities that they ex
 There were many other Tech school interns with me from other IITs and BITS that expanded my
 professional network. Additionally, I established good connections with other senior employees at HUL
 through my project-related interactions.
-
-### After the Internship:
-
-#### Based on your experience, would you recommend this internship to others interested in the same field? If so, what aspects make it worth recommending? If not, what factors influenced your perspective?
-
-### For people who have completed their internships
-
-#### What are you currently involved in or pursuing following the completion of your internship?
-
-#### In what ways has the internship influenced or impacted your current activities and future endeavors?

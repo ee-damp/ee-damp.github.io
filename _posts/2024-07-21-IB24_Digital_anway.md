@@ -6,13 +6,13 @@ cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 readtime: true
-tags: [Academic, Software, Blog]
+tags: [Academic, Core, Blog]
 comments: true
 ---
 
 ### Basic Information
 
-- **Name** Rajadhyaksha Apoorva Girish
+- **Name** Anway Deshpande
 - **Curriculum:** Btech
 - **Year of Study:** 4th
 - **Company/University of Internship:** Texas Instruments

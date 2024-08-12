@@ -6,7 +6,7 @@ cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 readtime: true
-tags: [Academic, Software, Blog]
+tags: [Academic, FMCG, Blog]
 comments: true
 ---
 

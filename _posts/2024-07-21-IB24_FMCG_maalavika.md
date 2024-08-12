@@ -6,7 +6,7 @@ cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
 share-img: ""
 readtime: true
-tags: [Academic, Software, Blog]
+tags: [Academic, FMCG, Blog]
 comments: true
 ---
 
@@ -83,9 +83,3 @@ plenty of opportunities to apply your knowledge directly in the industry and see
 learnt about a lot of relevant practical issues faced. I am not a typical technical core enthusiast so I was
 not too interested in going deep into the research end of any specific EE field. So, this was a perfect
 opportunity for me
-
-### For people who have completed their internships
-
-#### What are you currently involved in or pursuing following the completion of your internship?
-
-#### In what ways has the internship influenced or impacted your current activities and future endeavors?
