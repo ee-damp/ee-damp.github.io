@@ -105,7 +105,7 @@ tags: [Academic]
 {% for member in teamData %}
   <div class="card">
     <div class="imgBox">
-      <img src="../../assets/img/team-images/{{member.Name}}.jpg" onerror="this.src='../../../assets/img/team-images/user.jpg'">
+      <a href="{{member.Picture}}"><img src="{{member.Picture}}"/></a>
     </div>
     <div class="content">
       <div class="contentBox">
