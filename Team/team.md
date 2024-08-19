@@ -15,7 +15,7 @@ tags: [Academic]
 <div class="container">
 <div class="card">
     <div class="imgBox">
-      <img src="../../assets/img/team-images/Aryan.jpeg">
+      <img src="../../assets/img/Aryan.jpeg">
     </div>
     <div class="content">
       <div class="contentBox">
