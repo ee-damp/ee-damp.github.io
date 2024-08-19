@@ -15,7 +15,7 @@ tags: [Academic]
 <div class="container">
 <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/Aryan.jpeg">
+      <img src="../../assets/img/team-images/Aryan.jpeg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -31,7 +31,7 @@ tags: [Academic]
 
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/Pradyuman.jpeg">
+      <img src="../../assets/img/Pradyuman.jpeg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -67,7 +67,7 @@ tags: [Academic]
 
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team_img_2024-25/Arya Vishe.jpg">
+      <img src="../../assets/img/team_img_2024-25/Arya Vishe.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -83,7 +83,7 @@ tags: [Academic]
 
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team_img_2024-25/Sarvadnya Desai.jpg">
+      <img src="../../assets/img/team_img_2024-25/Sarvadnya Desai.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -99,7 +99,7 @@ tags: [Academic]
 
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team_img_2024-25/Siddharth Kaushik.jpg">
+      <img src="../../assets/img/team_img_2024-25/Siddharth Kaushik.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
