@@ -15,7 +15,7 @@ tags: [Academic]
 <div class="container">
 <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/Keshav Singhal.jpg">
+      <img src="../../assets/img/team-images/Keshav Singhal.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -31,7 +31,7 @@ tags: [Academic]
 
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/Mohit Kedia.jpg">
+      <img src="../../assets/img/team-images/Mohit Kedia.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -51,7 +51,7 @@ tags: [Academic]
 <div class="container">
 <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/Raavi Gupta.jpg">
+      <img src="../../assets/img/team-images/Raavi Gupta.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -67,7 +67,7 @@ tags: [Academic]
 
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/Samarth Agarwal.jpg">
+      <img src="../../assets/img/team-images/Samarth Agarwal.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -83,7 +83,7 @@ tags: [Academic]
 
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/Srishti Sharma.jpg">
+      <img src="../../assets/img/team-images/Srishti Sharma.jpg">
     </div>
     <div class="content">
       <div class="contentBox">
@@ -105,7 +105,7 @@ tags: [Academic]
 {% for member in teamData %}
   <div class="card">
     <div class="imgBox">
-      <img src="../../../assets/img/team-images/{{member.Name}}.jpg" onerror="this.src='../../../assets/img/team-images/user.jpg'">
+      <img src="../../assets/img/team_img_2024-25/{{member.Name}}.jpg" onerror="this.src='../../../assets/img/team-images/user.jpg'">
     </div>
     <div class="content">
       <div class="contentBox">
