@@ -3,7 +3,6 @@
 Features to add:
 - Better color scheme
 - Coherent Navigation
-- Content!!
 
 How to build a website:
 - Clone this repo recursively to your system
