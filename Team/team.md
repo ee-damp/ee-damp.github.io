@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EE DAMP TEAM
-subtitle: 2023-24
+subtitle: 2024-25
 cover-img: assets/img/Home.jpg
 full-width: true
 css: Team/team.css

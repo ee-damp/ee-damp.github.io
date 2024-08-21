@@ -12,8 +12,8 @@ tags: [Academic]
 
 <div class="myGallery">
   <div class="item">
-    <a href="/Analytics/Analytics">
-    <img src="analytics.jpeg" />
+    <a href="/Blog/Intern_Blogs/Analytics/Analytics">
+    <img src="/Blog/Intern_Blogs/analytics.jpeg" />
     </a>
     <span class="caption">Analytics</span>
   </div>
