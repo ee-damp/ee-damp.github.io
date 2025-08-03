@@ -28,8 +28,8 @@ navbar-links:
     - TA-ship Tales: "Blog/TA"
     - Grad School Applications: "Blog/Apping"
     - Internships: "Blog/Intern_Blogs/Intern_blogs"
-    - BTP/SRE/DDP: "Blog/BTP"
-    - BTP(2025 Review):
+    - BTP: "Blog/BTP"
+    
   Contact Us: "contact"
   
   # Author's home: "https://deanattali.com"
