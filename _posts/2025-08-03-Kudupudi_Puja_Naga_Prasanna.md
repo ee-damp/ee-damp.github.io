@@ -2,7 +2,8 @@
 layout: post
 title: Structural Health Monitoring with Dual-Mode Ultrasonic Guided Waves : Front End Design
 subtitle: Kudupudi Puja Naga Prasanna
-cover-img: assets/img/default.jpg
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
 tags: [BTP, Blog]
 ---
 

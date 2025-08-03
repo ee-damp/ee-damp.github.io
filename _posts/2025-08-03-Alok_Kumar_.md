@@ -2,7 +2,8 @@
 layout: post
 title: Optimising File Transfer
 subtitle: Alok Kumar 
-cover-img: assets/img/default.jpg
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
 tags: [BTP, Blog]
 ---
 

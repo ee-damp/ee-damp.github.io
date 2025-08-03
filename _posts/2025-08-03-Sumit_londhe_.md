@@ -2,7 +2,8 @@
 layout: post
 title: EEG data aquisation and streaming on FPGA
 subtitle: Sumit londhe 
-cover-img: assets/img/default.jpg
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
 tags: [BTP, Blog]
 ---
 

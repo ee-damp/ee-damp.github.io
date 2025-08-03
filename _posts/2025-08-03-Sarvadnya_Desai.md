@@ -2,8 +2,9 @@
 layout: post
 title: Thermal comfort Analysis & Monitoring
 subtitle: Sarvadnya Desai
-cover-img: assets/img/default.jpg
-tags: [Academic, BTP, Blog]
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
+tags: [BTP, Blog]
 ---
 
 ### Basic Information

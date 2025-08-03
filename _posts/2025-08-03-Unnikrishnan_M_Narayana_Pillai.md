@@ -2,7 +2,8 @@
 layout: post
 title: Formation Control on Crazyflie Drones
 subtitle: Unnikrishnan M Narayana Pillai
-cover-img: assets/img/default.jpg
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
 tags: [BTP, Blog]
 ---
 

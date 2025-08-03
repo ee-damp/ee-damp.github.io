@@ -2,7 +2,8 @@
 layout: post
 title: GPS Spoofing and Anti spoofing methods
 subtitle: Joel Anto Paul
-cover-img: assets/img/default.jpg
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
 tags: [BTP, Blog]
 ---
 

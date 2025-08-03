@@ -2,7 +2,8 @@
 layout: post
 title: Learning in Resource Pooling
 subtitle: Harsh Shah
-cover-img: assets/img/default.jpg
+cover-img: assets/img/Cover_study.jpg
+thumbnail-img: ""
 tags: [BTP, Blog]
 ---
 
