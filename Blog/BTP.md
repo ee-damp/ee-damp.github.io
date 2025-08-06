@@ -1,6 +1,6 @@
 ---
 layout: blog
 tag: BTP
-title: BTP/SRE/DDP Experiences
+title: BTP Experiences
 cover-img: assets/img/research.jpg
 ---
