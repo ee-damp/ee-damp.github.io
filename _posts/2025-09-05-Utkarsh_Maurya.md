@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Internship Experience - Siemens "
+title: "Siemens "
 subtitle: "Utkarsh Maurya"
-cover-img: assets/img/Cover_internship.jpg
+cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
-tags: [Internship, Experience]
+share-img: ""
+tags: [Academic, External, Blog]
+comments: true
 ---
 
 ### Basic Information

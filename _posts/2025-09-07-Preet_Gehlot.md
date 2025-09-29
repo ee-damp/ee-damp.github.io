@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Internship Experience - SCAD Technologies"
+title: "SCAD Technologies"
 subtitle: "Preet Gehlot"
-cover-img: assets/img/Cover_internship.jpg
+cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
-tags: [Internship, Experience]
+share-img: ""
+tags: [Academic, External, Blog]
+comments: true
 ---
 
 ### Basic Information
