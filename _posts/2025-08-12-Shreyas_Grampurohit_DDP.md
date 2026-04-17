@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep learning for Group Testing
+title: "Deep learning for Group Testing"
 subtitle: Shreyas Grampurohit
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

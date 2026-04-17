@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analytical Storage Function discovery
+title: "Analytical Storage Function discovery"
 subtitle: Dhrumil Lotiya
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

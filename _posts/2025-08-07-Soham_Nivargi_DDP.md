@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Window-based Beamforming in Plane Wave Ultrasound Imaging/Signal Processing in Accurate Time Series Forecasting
+title: "Window-based Beamforming in Plane Wave Ultrasound Imaging/Signal Processing in Accurate Time Series Forecasting"
 subtitle: Soham Nivargi
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

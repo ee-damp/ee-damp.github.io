@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vision-Language Models for Whole Slide Image Classification
+title: "Vision-Language Models for Whole Slide Image Classification"
 subtitle: Shounak Das
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

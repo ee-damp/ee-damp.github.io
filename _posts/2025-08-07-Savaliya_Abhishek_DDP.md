@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visual Prompt Tuning survey for Remote Sensing Domain
+title: "Visual Prompt Tuning survey for Remote Sensing Domain"
 subtitle: Savaliya Abhishek
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

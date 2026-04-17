@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Channel Estimation in High Mobility Communication
+title: "Channel Estimation in High Mobility Communication"
 subtitle: Rishabh Shetty
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

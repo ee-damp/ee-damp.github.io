@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Secure Booting Sequence on FPGA/Hardware
+title: "Secure Booting Sequence on FPGA/Hardware"
 subtitle: Natasha Ramineni
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

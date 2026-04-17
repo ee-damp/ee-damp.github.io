@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stage-1 : Agentic systems for speech quality check( BharatGen)  | Stage-2 Error categorisation for grade 3 indian L2 english speakers
+title: "Stage-1 : Agentic systems for speech quality check( BharatGen)  | Stage-2 Error categorisation for grade 3 indian L2 english speakers"
 subtitle: Devesh Soni
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

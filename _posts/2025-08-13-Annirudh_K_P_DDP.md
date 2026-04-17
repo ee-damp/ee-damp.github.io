@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quantum Magnetometry
+title: "Quantum Magnetometry"
 subtitle: Annirudh K P
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

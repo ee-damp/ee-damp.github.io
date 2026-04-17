@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Channel tracking in Cell-free MIMO systems
+title: "Channel tracking in Cell-free MIMO systems"
 subtitle: Varad Deshpande
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

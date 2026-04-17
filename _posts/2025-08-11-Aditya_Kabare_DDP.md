@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Musical Analysis of Indian Drums
+title: "Musical Analysis of Indian Drums"
 subtitle: Aditya Kabare
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

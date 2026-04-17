@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Multiresolution) Signal Processing for Interpretability and Economy in Generative AI
+title: "(Multiresolution) Signal Processing for Interpretability and Economy in Generative AI"
 subtitle: Abhijat Bharadwaj
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""

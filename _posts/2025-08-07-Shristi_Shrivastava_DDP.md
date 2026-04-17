@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hardware Accelerators Design
+title: "Hardware Accelerators Design"
 subtitle: Shristi Shrivastava
 cover-img: assets/img/Cover_study.jpg
 thumbnail-img: ""
