@@ -133,23 +133,58 @@ tags: [Academic]
 
 <h2 class="heading">Mentors</h2>
 <div class="container">
-{% assign teamData = site.data.damp_team_25-26 | csv %}
+{% assign teamData = site.data.team | csv %}
 {% for member in teamData %}
   <div class="card">
     <div class="imgBox">
-      <img src="../../assets/img/team_img_2025-26/{{member.Name}}.jpg" onerror="this.src='../../../assets/img/team-images/user.jpg'">
+      <img src="{% if member.Picture %}{{ member.Picture }}{% else %}../../assets/img/team_img_2025-26/{{ member.Name }}.jpg{% endif %}" onerror="this.src='../../../assets/img/team-images/user.jpg'">
     </div>
     <div class="content">
       <div class="contentBox">
-        <h3>{{member.Name}}<br><span>{{member.OneLiner}}</span></h3>
+        <h3>{{ member.Name }}<br><span>{{ member.Introduction | default: member.OneLiner }}</span></h3>
       </div>
       <ul class="social">
-        <li style="--i:1;"><a href="tel:{{member.Phone}}"><i class="fas fa-phone f"></i></a></li>
-        <li style="--i:2;"><a href="mailto:{{member.Email}}"><i class="far fa-envelope i"></i></a></li>
-        <li style="--i:3;"><a href="{{member.Linkedin}}"><i class="fab fa-linkedin t"></i></a></li>
+        {% if member.Phone %}
+        <li style="--i:1;"><a href="tel:{{ member.Phone }}"><i class="fas fa-phone f"></i></a></li>
+        {% endif %}
+        {% if member.Email %}
+        <li style="--i:2;"><a href="mailto:{{ member.Email }}"><i class="far fa-envelope i"></i></a></li>
+        {% endif %}
+        {% if member.Linkedin %}
+        <li style="--i:3;"><a href="{{ member.Linkedin }}"><i class="fab fa-linkedin t"></i></a></li>
+        {% endif %}
+        {% if member.Instagram %}
+        <li style="--i:4;"><a href="{{ member.Instagram }}"><i class="fab fa-instagram s"></i></a></li>
+        {% endif %}
       </ul>
     </div>
   </div>
  {% endfor %}
 
- </div>
+   {% comment %} Also include form responses from damp_team_25-26.csv if present %}
+   {% assign moreData = site.data.damp_team_25-26 | csv %}
+   {% for member in moreData %}
+    <div class="card">
+      <div class="imgBox">
+        <img src="{% if member['Your Photo'] %}{{ member['Your Photo'] }}{% elsif member.Picture %}{{ member.Picture }}{% else %}../../assets/img/team_img_2025-26/{{ member.Name }}.jpg{% endif %}" onerror="this.src='../../../assets/img/team-images/user.jpg'">
+      </div>
+      <div class="content">
+        <div class="contentBox">
+          <h3>{{ member.Name }}<br><span>{{ member.OneLiner | default: member.Introduction }}</span></h3>
+        </div>
+        <ul class="social">
+          {% if member.Phone %}
+          <li style="--i:1;"><a href="tel:{{ member.Phone }}"><i class="fas fa-phone f"></i></a></li>
+          {% endif %}
+          {% if member.Email %}
+          <li style="--i:2;"><a href="mailto:{{ member.Email }}"><i class="far fa-envelope i"></i></a></li>
+          {% endif %}
+          {% if member.Linkedin %}
+          <li style="--i:3;"><a href="{{ member.Linkedin }}"><i class="fab fa-linkedin t"></i></a></li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+   {% endfor %}
+
+   </div>
