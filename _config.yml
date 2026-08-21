@@ -24,11 +24,13 @@ navbar-links:
   # Intern Blogs: "new_curriculum/test"
   Archives: "Archives/Archive"
   Team: "Team/team"
-  Blog Series: 
+  Blog Series:
     - TA-ship Tales: "Blog/TA"
     - Grad School Applications: "Blog/Apping"
     - Internships: "Blog/Intern_Blogs/Intern_blogs"
-    - BTP/SRE/DDP: "Blog/BTP"
+    - BTP: "Blog/BTP"
+    - SRE: "Blog/SRE"
+    - DDP Experiences: "Blog/DDP"
   Contact Us: "contact"
   
   # Author's home: "https://deanattali.com"
@@ -283,6 +285,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor/
 
 plugins:
   - jekyll-paginate
