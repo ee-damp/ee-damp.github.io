@@ -16,36 +16,36 @@ tags: [Academic, Quant, Blog]
 
 ---
 
-**### Basic Information**
+### Basic Information
 
-- **\*\*Company Name\*\***: Graviton Research Capital
+- **Company Name**: Graviton Research Capital
 
-- **\*\*Name\*\***: Kruthi
+- **Name**: Kruthi
 
-- **\*\*Branch and Year\*\***: Electrical, Btech 3rd year.
+- **Branch and Year**: Electrical, Btech 3rd year.
 
-- **\*\*Role\*\***: Quantitative researcher and reader
+- **Role**: Quantitative researcher and reader
 
-**### What topics or sections did the Online Assessment cover?**
+### What topics or sections did the Online Assessment cover?
 
 Puzzles and mathematics
 
-**### Please describe the selection process in detail (tests + interviews)?**
+### Please describe the selection process in detail (tests + interviews)?
 
 1st round would be brainstellar kind of puzzles. 2nd round would be mathematics and probability questions. 3rd round was HR. Although some had more rounds.
 
-**### How would you rate the overall difficulty of the process?**
+### How would you rate the overall difficulty of the process?
 
 3
 
-**### What resources (books, courses, YouTube channels, websites) did you find most useful overall?**
+### What resources (books, courses, YouTube channels, websites) did you find most useful overall?
 
 Brainstellar website and the green book.
 
-**### Looking back, what would you prepare differently if you started again?**
+### Looking back, what would you prepare differently if you started again?
 
 I would have started my preparation earlier rather than in the last two weeks.
 
-**### One piece of advice for someone preparing for similar roles.**
+### One piece of advice for someone preparing for similar roles.
 
 Please start preparing puzzles and probability at the begining of summer before the internship season. Spend the semesters trying to improve CPI as much as you can. There is no need to prepare during semesters.
